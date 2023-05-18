@@ -37,13 +37,13 @@ fn main() {
                             .collect::<Vec<_>>()
                             .join(" ")
                             .trim()
-                            .replace("\n", "")
+                            .replace('\n', "")
                             .replace("                                                ", " ")
                             .to_string();
-                        if i == 5 {
+                        if i == 5 || i == 15 {
                             let mut clean_cell_text = String::new();
                             for char in cell_text.chars() {
-                                if char == '\u{a0}' || char == '\u{c2}'{
+                                if char == '\u{a0}' || char == '\u{c2}' {
                                     continue;
                                 } else {
                                     clean_cell_text.push(char);

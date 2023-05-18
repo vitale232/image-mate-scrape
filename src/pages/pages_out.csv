@@ -1,422 +1,430 @@
 Municipality,Tax ID,Neighborhood Code,Owner Name,Street Address,Total Assessment,Site Prop. Class,Bldg Style,Baths,HalfBaths,Beds,Fireplaces,Living Area (sq ft),Year Built,Size,School District,Basement Type
-City of Glens Falls,302.11-3-2,203,Thomas M Jacobs Family Trust,8 North Rd,"2022 - $297,900 2021 - $181,000",210,Colonial,2,1,4,1,2073,1945,0.24 acres,Glens Falls,Full
-City of Glens Falls,302.11-8-1,202,DeDell Fam Irrev Inc Only Trst,42 Monument Ave,"2022 - $266,300 2021 - $177,300",210,Split level,2,0,4,1,1939,1966,0.36 acres,Glens Falls,Partial
-City of Glens Falls,302.11-8-24,202,"Rittenhouse, Andrew L",20 Lake Ave,"2022 - $294,200 2021 - $189,500",210,Colonial,2,1,4,1,2160,1935,0.20 acres,Glens Falls,Full
-City of Glens Falls,302.12-3-9,203,"Wolfe, Lauren E",56 MacArthur Dr,"2022 - $207,500 2021 - $120,200",210,Cape cod,2,0,4,0,1638,1965,0.29 acres,Glens Falls,Full
-City of Glens Falls,302.12-3-12,203,"Starratt, Gregory A",229 Bay St,"2022 - $176,000 2021 - $90,300",220,Old style,2,0,4,0,2090,1910,0.34 acres,Glens Falls,Full
-City of Glens Falls,302.12-3-24,203,"Veysey, Vicki D",61 MacArthur Dr,"2022 - $273,200 2021 - $133,200",210,Cape cod,2,1,4,1,1842,1978,0.78 acres,Glens Falls,Full
-City of Glens Falls,302.12-7-15,202,"Toomey, Elizabeth A",215 Bay St,"2022 - $150,200 2021 - $84,900",220,Old style,2,0,4,0,1632,1910,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.12-7-21,202,"Weinberger, Jordan A",20 Terra Cotta Ave,"2022 - $180,800 2021 - $92,500",220,Old style,2,0,4,0,1744,1900,0.24 acres,Glens Falls,Full
-City of Glens Falls,302.12-7-25,202,"Parsons-St.Clair, Gail",30 Terra Cotta Ave,"2022 - $150,500 2021 - $92,500",220,Old style,2,0,5,0,2036,1900,0.24 acres,Glens Falls,Full
-City of Glens Falls,302.12-10-8,202,"Rawson, Robin C",19 Terra Cotta Ave,"2022 - $202,300 2021 - $96,900",210,Old style,2,0,4,0,1664,1900,0.12 acres,Glens Falls,Full
-City of Glens Falls,302.12-10-16,202,"Dygert, Robin A",209 Bay St,"2022 - $168,300 2021 - $97,500",220,Old style,2,0,4,0,1858,1900,0.15 acres,Glens Falls,Full
-City of Glens Falls,302.12-10-17,202,"Beckem, John M II",207 Bay St,"2022 - $176,300 2021 - $96,700",220,Old style,2,0,5,0,2050,1900,0.15 acres,Glens Falls,Full
-City of Glens Falls,302.12-11-6,202,"Durniak, Timothy",56 Lexington Ave,"2022 - $250,700 2021 - $141,500",210,Colonial,2,1,4,1,1625,2007,0.16 acres,Glens Falls,Full
-City of Glens Falls,302.12-13-22,202,Herlihy Irrevocable Trust,27 Lexington Ave,"2022 - $317,700 2021 - $166,300",210,Colonial,2,1,4,1,1940,1973,0.52 acres,Glens Falls,Full
-City of Glens Falls,302.12-13-25,202,"Reid, Catherine",21 Lexington Ave,"2022 - $262,300 2021 - $146,000",210,Cape cod,2,0,4,0,1916,1935,0.41 acres,Glens Falls,Full
-City of Glens Falls,302.12-13-39,202,"Deppe, Alan",14 Baldwin Ave,"2022 - $155,300 2021 - $91,200",220,Old style,2,0,4,0,1876,1910,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.12-13-41,202,"Milligan, Gregory R",20 Baldwin Ave,"2022 - $159,100 2021 - $91,700",220,Old style,2,0,4,0,1874,1920,0.16 acres,Glens Falls,Full
-City of Glens Falls,302.12-13-52,202,"Endieveri, Frank J Jr",42 Baldwin Ave,"2022 - $159,000 2021 - $95,000",220,Old style,2,0,5,0,1763,1900,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.12-13-53,202,Kyle I LLC,44 Baldwin Ave,"2022 - $147,800 2021 - $90,300",220,Old style,2,0,4,0,1952,1900,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.12-13-56,202,"Brown, Syliva T",50 Baldwin Ave,"2022 - $284,000 2021 - $141,500",210,Cape cod,2,0,5,1,1912,1948,0.41 acres,Glens Falls,Full
-City of Glens Falls,302.12-15-6,202,"Smith, Terrance J",272 Ridge St,"2022 - $236,100 2021 - $122,000",210,Old style,2,0,4,1,1679,1928,0.23 acres,Glens Falls,Full
-City of Glens Falls,302.12-16-12,202,"Linehan, Joseph E",12 Mason St,"2022 - $154,200 2021 - $88,400",220,Old style,2,0,4,0,1674,1900,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.12-16-24,202,"Filion, Paul R",36 Mason St,"2022 - $156,300 2021 - $87,800",220,Old style,2,0,5,0,1768,1920,0.11 acres,Glens Falls,Full
-City of Glens Falls,302.12-16-31,202,"Wernau, Walter J Jr",50 Mason St,"2022 - $216,500 2021 - $113,000",210,Old style,2,0,4,1,1898,1920,0.16 acres,Glens Falls,Full
-City of Glens Falls,302.12-16-32,202,"Warner, Dorcas McMorris",52 Mason St,"2022 - $205,200 2021 - $111,200",210,Old style,2,0,4,1,1606,1929,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.12-17-10,203,"Sabo Rev. Living Trust, Kimberly A",73 Webster Ave,"2022 - $237,400 2021 - $149,000",210,Cape cod,2,0,4,1,1831,1948,0.26 acres,Glens Falls,Partial
-City of Glens Falls,302.12-18-10,202,"Coon, Warren C",179 Bay St,"2022 - $168,500 2021 - $87,400",220,Old style,2,0,4,0,2040,1900,0.15 acres,Glens Falls,Full
-City of Glens Falls,302.12-18-15,202,"Reynolds, Phillip",10 Sarella St,"2022 - $186,000 2021 - $107,200",210,Old style,2,0,4,1,1672,1929,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.12-19-9,202,"Smotzer, Gregory M",13-15 Stoddard Ave,"2022 - $165,700 2021 - $92,200",220,Old style,2,0,5,0,1784,1900,0.25 acres,Glens Falls,Full
-City of Glens Falls,302.12-20-7,202,"Hall, Nicholas",20 Kenworthy Ave,"2022 - $164,300 2021 - $88,800",220,Old style,2,0,4,0,2138,1900,0.12 acres,Glens Falls,Full
-City of Glens Falls,302.12-21-1,204,"Nasr, Kathryn F",94 Sanford St,"2022 - $185,700 2021 - $98,000",210,Old style,2,0,5,0,1626,1900,0.12 acres,Glens Falls,Full
-City of Glens Falls,302.12-21-2,202,"Fidopiastis, Michael P",6 Murdock Ave,"2022 - $131,400 2021 - $86,500",220,Old style,2,0,4,0,1832,1900,0.10 acres,Glens Falls,Full
-City of Glens Falls,302.12-21-12,202,"Atherton-Ely, James",23 Kenworthy Ave,"2022 - $153,400 2021 - $83,900",220,Old style,2,0,5,0,2124,1900,0.09 acres,Glens Falls,Full
-City of Glens Falls,302.12-21-13,202,KTSA-59 East 80th LLC,21 Kenworthy Ave,"2022 - $156,800 2021 - $90,600",220,Old style,2,0,4,0,2124,1900,0.09 acres,Glens Falls,Full
-City of Glens Falls,302.12-21-18,202,"Nusca, Erik R",11 Kenworthy Ave,"2022 - $131,900 2021 - $104,800",220,Old style,2,0,4,0,1855,1922,0.09 acres,Glens Falls,Full
-City of Glens Falls,302.12-24-11,204,"DLA Properties, LLC",112 Sanford St,"2022 - $198,400 2021 - $98,500",220,Old style,2,0,4,0,2072,1920,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.12-25-10,202,Anushka Leszcynski Irr. Trust,18 Cameron Ave,"2022 - $151,300 2021 - $79,000",220,Old style,2,0,4,0,1707,1910,0.09 acres,Glens Falls,Full
-City of Glens Falls,302.12-26-13,202,"Gardner, Emily L",10 John St,"2022 - $195,600 2021 - $135,000",210,Old style,2,1,4,0,1838,1889,0.24 acres,Glens Falls,Full
-City of Glens Falls,302.12-26-16,202,"Courtney, Gloria J",16 John St,"2022 - $136,000 2021 - $96,200",220,Old style,2,0,4,0,1912,1900,0.10 acres,Glens Falls,Full
-City of Glens Falls,302.12-27-1,204,"White, Lucy H",224 Ridge St,"2022 - $257,800 2021 - $134,700",210,Old style,2,1,4,0,2052,1910,0.12 acres,Glens Falls,Full
-City of Glens Falls,302.12-27-3,204,"Moon, Jennifer A",228 Ridge St,"2022 - $204,000 2021 - $128,500",210,Old style,2,0,4,0,1960,1900,0.19 acres,Glens Falls,Full
-City of Glens Falls,302.12-27-4,204,"Landry, Keith G",230 Ridge St,"2022 - $195,200 2021 - $101,700",210,Old style,2,0,4,0,1744,1902,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.12-27-11,204,"Ryzuk Jr, Thomas J",115 Sanford St,"2022 - $189,300 2021 - $108,800",220,Old style,2,0,4,0,1752,1930,0.19 acres,Glens Falls,Full
-City of Glens Falls,302.12-27-20,204,"Bobick, Joel",15 Hoyt Ave,"2022 - $200,800 2021 - $105,600",220,Old style,2,1,4,0,2112,1920,0.16 acres,Glens Falls,Full
-City of Glens Falls,302.12-27-25,204,"McLaughlin, Gary E",5 Hoyt Ave,"2022 - $177,200 2021 - $100,800",220,Old style,2,0,4,0,1902,1930,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.15-2-15,202,"Weisfeld, Miriam Beth",8 Bowman Ave,"2022 - $286,500 2021 - $167,000",210,Old style,2,0,4,0,1959,1870,0.25 acres,Glens Falls,Full
-City of Glens Falls,302.15-3-10,202,"Beckem, John M III",541 Glen St,"2022 - $118,500 2021 - $95,250",210,Colonial,2,1,4,0,1852,1929,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.15-5-11,205,"Higgins, April L",43 Horicon Ave,"2022 - $253,400 2021 - $177,200",210,Colonial,2,1,4,1,2140,1926,0.30 acres,Glens Falls,Full
-City of Glens Falls,302.15-8-1,202,"Williford, Kristin",2 Philo Ave,"2022 - $231,200 2021 - $122,500",210,Old style,2,0,4,1,1750,1930,0.16 acres,Glens Falls,Full
-City of Glens Falls,302.15-10-1,205,"Fuller, Cullen G",12 Kensington Rd,"2022 - $312,200 2021 - $147,600",210,Old style,2,0,5,1,2107,1920,0.23 acres,Glens Falls,Full
-City of Glens Falls,302.15-11-2,205,"Globerson, Jenny Lee",32 Coolidge Ave,"2022 - $302,500 2021 - $139,200",210,Old style,2,0,4,1,2080,1905,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.15-11-15,205,"Gasperetti, Emily M",35 Lincoln Ave,"2022 - $269,100 2021 - $150,000",210,Old style,2,0,4,0,1751,1915,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.15-12-7,205,Salvation Army,4 Coolidge Ave,"2022 - $239,800 2021 - $148,600",210,Colonial,2,1,4,0,2062,1910,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.15-12-20,205,"Mattison, Molly M",31 Lincoln Ave,"2022 - $270,300 2021 - $176,600",210,Old style,2,1,4,0,1778,1911,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.15-12-21,205,"Bombard, Brian",29 Lincoln Ave,"2022 - $293,700 2021 - $168,000",210,Old style,2,0,4,1,1970,1910,0.15 acres,Glens Falls,Full
-City of Glens Falls,302.15-14-7,205,"Havens, Genevieve",4 Lincoln Ave,"2022 - $259,600 2021 - $145,400",210,Old style,2,0,4,0,2045,1940,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.15-14-19,205,"Forbes, William R Jr",27 Davis St,"2022 - $277,300 2021 - $90,500",210,Old style,2,1,5,0,2160,1900,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.16-1-3,202,"Welch, Fannie P",22 Thomson Ave,"2022 - $154,100 2021 - $80,100",220,Old style,2,1,4,0,1662,1900,0.25 acres,Glens Falls,Partial
-City of Glens Falls,302.16-1-8,202,"Greco, Dustin T",30  Thomson Ave,"2022 - $179,300 2021 - $79,100",220,Old style,2,0,4,0,2136,1929,0.15 acres,Glens Falls,Full
-City of Glens Falls,302.16-3-2,202,"Lewis, Brian E Jr",22 Logan Ave,"2022 - $133,800 2021 - $62,000",220,Old style,2,0,4,0,1744,1900,0.07 acres,Glens Falls,Full
-City of Glens Falls,302.16-4-2,202,Plotnic LLC,6 Ogden St,"2022 - $147,800 2021 - $108,400",220,Old style,2,0,4,0,1672,1900,0.11 acres,Glens Falls,Full
-City of Glens Falls,302.16-4-11,202,"Trackey, David N",24 Ogden St,"2022 - $180,000 2021 - $81,400",210,Old style,2,0,4,1,1742,1900,0.20 acres,Glens Falls,Full
-City of Glens Falls,302.16-4-17,202,"Hummel, Matthew N",31 Thomson Ave,"2022 - $137,800 2021 - $86,600",220,Old style,2,0,4,0,1748,1900,0.11 acres,Glens Falls,Full
-City of Glens Falls,302.16-4-20,202,"Myette, Richard Lee",23 Logan Ave,"2022 - $146,900 2021 - $87,800",220,Old style,2,0,4,0,2002,1896,0.10 acres,Glens Falls,Full
-City of Glens Falls,302.16-5-8,202,"Ash, Todd M",20 Smith St,"2022 - $212,600 2021 - $91,100",210,Old style,2,0,4,0,1898,1900,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.16-5-11,202,"Reed, John P",26 Smith St,"2022 - $168,100 2021 - $112,950",210,Old style,2,0,4,0,1600,1890,0.20 acres,Glens Falls,Full
-City of Glens Falls,302.16-5-13,202,"Whiteny, Kevin",30 Smith St,"2022 - $176,100 2021 - $92,000",220,Old style,2,0,4,0,2142,1899,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.16-5-14,202,"Wilson, Jonathan",35 Ogden St,"2022 - $109,300 2021 - $70,200",220,Old style,2,0,4,0,1800,1920,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.16-5-24,202,"Hawkins, Michael S",15 Ogden St,"2022 - $145,000 2021 - $132,000",220,Old style,2,0,4,0,1966,1920,0.15 acres,Glens Falls,Full
-City of Glens Falls,302.16-5-27,202,9 Odgen Street Corp.,9 Ogden St,"2022 - $157,200 2021 - $79,600",220,Old style,2,0,4,0,2084,1900,0.14 acres,Glens Falls,Crawl
-City of Glens Falls,302.16-5-30,204,"Brannigan, Gerda",34 Sanford St,"2022 - $222,500 2021 - $83,300",210,Old style,2,0,5,0,2096,1920,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.16-6-3,202,Moreau Rentals LLC,156 Bay St,"2022 - $166,600 2021 - $111,000",220,Old style,2,0,4,0,2016,1950,0.21 acres,Glens Falls,0
-City of Glens Falls,302.16-6-14,202,"Engwer, patricia E",29 Smith St,"2022 - $170,900 2021 - $92,800",220,Old style,2,0,5,0,2090,1890,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.16-7-3,202,"Powers, F David",9 John St,"2022 - $190,000 2021 - $81,000",210,Old style,2,0,5,0,2055,1920,0.15 acres,Glens Falls,Full
-City of Glens Falls,302.16-7-14,204,KD-Little Trust,76 Sanford St,"2022 - $231,000 2021 - $118,700",210,Old style,2,0,4,1,1800,1925,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.16-8-8,204,"Healey, Stephanie",86 Sanford St,"2022 - $178,000 2021 - $96,400",210,Old style,2,0,4,0,1963,1922,0.11 acres,Glens Falls,Full
-City of Glens Falls,302.16-8-9,204,"Churchill, Ryan K",88 Sanford St,"2022 - $179,400 2021 - $83,300",220,Old style,2,0,4,0,1948,1900,0.10 acres,Glens Falls,Full
-City of Glens Falls,302.16-10-3,204,"Mulcahy, John T Jr",7 Monroe St,"2022 - $167,700 2021 - $107,600",220,Old style,2,0,4,0,1929,1925,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.16-10-5,204,"Monda, Rolland A",3 Monroe St,"2022 - $179,800 2021 - $99,600",220,Old style,2,0,4,0,2012,1925,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.16-10-10,204,"Rottenstreich, Naftali",12 Jefferson St,"2022 - $211,200 2021 - $94,700",210,Old style,2,1,4,1,1958,1920,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.16-11-5,204,"Lopez, Joshua M",26 Gage Ave,"2022 - $183,500 2021 - $97,300",220,Old style,2,0,4,1,1711,1830,0.16 acres,Glens Falls,Partial
-City of Glens Falls,302.16-11-20,204,"Vamvalis, Laura A",8 Monroe St,"2022 - $188,500 2021 - $98,000",220,Old style,2,0,4,0,1968,1900,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.16-11-21,204,"Mulcahy, John T Jr",10 Monroe St,"2022 - $167,900 2021 - $91,700",210,Old style,2,0,4,0,2012,1900,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.16-11-24,204,"Prouty, Kim M",16 Monroe St,"2022 - $184,900 2021 - $101,800",220,Old style,2,0,5,0,1722,1888,0.19 acres,Glens Falls,Full
-City of Glens Falls,302.16-11-37,204,"Constantine, Dawn",8 Chester St,"2022 - $184,600 2021 - $101,900",220,Old style,2,0,5,0,2099,1900,0.22 acres,Glens Falls,Full
-City of Glens Falls,302.16-11-39,204,"Hunter, Tammy L",12 Chester St,"2022 - $196,500 2021 - $83,000",210,Old style,2,0,4,0,1715,1895,0.23 acres,Glens Falls,Full
-City of Glens Falls,302.16-11-40,204,Arturo Northway LLC,14 Chester St,"2022 - $184,200 2021 - $96,700",220,Old style,2,0,5,0,1880,1890,0.20 acres,Glens Falls,Full
-City of Glens Falls,302.16-11-42,204,"Sharpe, Thomas",18 Chester St,"2022 - $192,300 2021 - $94,500",220,Old style,2,0,4,0,2091,1900,0.23 acres,Glens Falls,Full
-City of Glens Falls,302.16-11-45,204,"Gherasim Mic Living Trust, Filip & Lidia",28 Chester St,"2022 - $174,300 2021 - $85,100",220,Old style,2,0,4,0,1846,1900,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.16-12-12,204,"Hartung, Bernd D",136 Bay St,"2022 - $206,600 2021 - $108,900",220,Old style,2,0,4,0,1840,1881,0.34 acres,Glens Falls,Full
-City of Glens Falls,302.16-12-21,204,"Bobick, Joel",43 Sanford St,"2022 - $130,000 2021 - $85,000",220,Old style,2,0,4,0,1970,1913,0.11 acres,Glens Falls,Full
-City of Glens Falls,302.16-12-30,204,"Casey, William J",23 Gage Ave,"2022 - $180,700 2021 - $63,000",220,Old style,2,0,4,0,1750,1875,0.13 acres,Glens Falls,Partial
-City of Glens Falls,302.16-12-31,204,"Terrelonge, Fitzroy A",21 Gage Ave,"2022 - $170,800 2021 - $97,500",220,Old style,2,0,4,0,1881,1900,0.11 acres,Glens Falls,Full
-City of Glens Falls,302.16-12-40,204,"Crannell, Mark A",38 Chester St,"2022 - $115,000 2021 - $75,900",220,Old style,2,0,4,0,1676,1920,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.16-13-1,204,"Alberico, Thomas H",24 Vanderheyden St,"2022 - $181,800 2021 - $92,000",220,Old style,2,0,4,0,2160,1930,0.09 acres,Glens Falls,Full
-City of Glens Falls,302.16-13-27,204,"Mcvey, Henry",8 Hunter St,"2022 - $178,800 2021 - $110,900",210,Old style,2,0,4,0,1668,1876,0.13 acres,Glens Falls,Partial
-City of Glens Falls,302.16-13-30,204,"Yrsha, Mark",14 Hunter St,"2022 - $193,000 2021 - $91,400",220,Old style,2,0,4,0,1751,1910,0.18 acres,Glens Falls,Partial
-City of Glens Falls,302.16-13-35,204,"West-Hannigan, Mary E",26 Hunter St,"2022 - $208,900 2021 - $88,800",220,Old style,2,0,4,0,1946,1890,0.22 acres,Glens Falls,Full
-City of Glens Falls,302.16-14-1,204,"Eldridge, Alfred",210 Ridge St,"2022 - $190,800 2021 - $110,300",220,Old style,2,0,5,0,1973,1920,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.16-14-2,204,"Quivey, James G",212 Ridge St,"2022 - $291,100 2021 - $187,275",210,Old style,2,0,4,1,2162,1900,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.16-14-3,204,"Barry, Deyra E",214 Ridge St,"2022 - $183,000 2021 - $84,500",210,Old style,2,0,5,0,2036,1910,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.16-14-7,204,"Chatham, Russell  C",6 Hoyt Ave,"2022 - $154,000 2021 - $86,900",210,Old style,2,0,4,0,1634,1910,0.08 acres,Glens Falls,Full
-City of Glens Falls,302.16-14-14,204,"Burke , William  B",20 Hoyt Ave,"2022 - $177,900 2021 - $81,300",220,Old style,2,0,4,0,1744,1910,0.10 acres,Glens Falls,Full
-City of Glens Falls,302.16-14-19,204,"Lunt, Morris & Georgianna M",21 Vanderheyden St,"2022 - $147,600 2021 - $80,900",220,Old style,2,0,5,0,1640,1895,0.04 acres,Glens Falls,Full
-City of Glens Falls,302.16-14-21,204,"Armstrong, Luke D",44 Hunter St,"2022 - $178,400 2021 - $89,000",220,Old style,2,0,5,0,1938,1910,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.16-14-26,204,"Rainville, Jocelyn C",54 Hunter St,"2022 - $200,500 2021 - $92,100",220,Old style,2,0,4,0,2162,1910,0.21 acres,Glens Falls,Full
-City of Glens Falls,302.16-15-3,204,Truchon Family Irr Trust,12 Vanderheyden St,"2022 - $175,600 2021 - $87,600",210,Old style,2,0,4,0,1670,1905,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.16-15-30,204,"Beckem, John  M II",8 William St,"2022 - $149,400 2021 - $80,700",220,Old style,2,0,4,0,1680,1920,0.15 acres,Glens Falls,Partial
-City of Glens Falls,302.16-15-34,204,MC Prime Properties LLC,16 William St,"2022 - $202,800 2021 - $83,800",220,Old style,2,0,4,0,2162,1910,0.23 acres,Glens Falls,Full
-City of Glens Falls,302.16-15-40,204,"Dudley, Daniel",28 William St,"2022 - $203,100 2021 - $84,300",220,Old style,2,0,5,0,2134,1910,0.23 acres,Glens Falls,Full
-City of Glens Falls,302.16-16-6,204,"Wang, Yinghai",45 Hunter St,"2022 - $156,500 2021 - $97,600",210,Old style,2,0,5,1,2018,1910,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.16-16-7,204,"Dillon, Johnathan L",43 Hunter St,"2022 - $168,700 2021 - $76,700",220,Old style,2,0,4,0,1756,1910,0.08 acres,Glens Falls,Full
-City of Glens Falls,302.16-16-13,204,"Prunty, Alison",46 William St,"2022 - $182,000 2021 - $115,300",210,Old style,2,1,5,1,1860,1900,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.16-17-21,204,"Schmaler, Brett H",11 William St,"2022 - $193,100 2021 - $104,500",220,Old style,2,0,5,0,1940,1900,0.20 acres,Glens Falls,Full
-City of Glens Falls,302.16-17-26,204,"Bartlett, Leigh",125 Bay St,"2022 - $160,200 2021 - $104,300",210,Old style,2,0,4,0,1988,1920,0.06 acres,Glens Falls,Full
-City of Glens Falls,302.16-17-34,204,"Tomasovic, Anthony",6 Grand St,"2022 - $130,000 2021 - $69,700",220,Old style,2,0,5,0,2092,1900,0.05 acres,Glens Falls,Partial
-City of Glens Falls,302.16-17-35,204,WW Rentals LLC,8 Grand St,"2022 - $172,200 2021 - $67,800",220,Old style,2,0,4,0,1812,1920,0.10 acres,Glens Falls,Full
-City of Glens Falls,302.16-17-41,204,"Kehm, George F",20 Grand St,"2022 - $189,200 2021 - $83,300",220,Old style,2,0,5,0,1816,1900,0.24 acres,Glens Falls,Full
-City of Glens Falls,302.16-17-44,204,Buena Fe LLC,26 Grand St,"2022 - $180,200 2021 - $133,300",220,Old style,2,0,4,0,1780,1900,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.16-17-47,204,"Oitier, Justin",32 Grand St,"2022 - $195,300 2021 - $88,100",220,Old style,2,0,4,0,1925,1925,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.16-18-2,204,"Mattison, Meghan W",27 Chester St,"2022 - $175,900 2021 - $102,100",220,Old style,2,0,4,0,1798,1930,0.16 acres,Glens Falls,Full
-City of Glens Falls,302.16-20-13,204,"Kasprzak, John W",111 Bay St,"2022 - $183,100 2021 - $122,400",220,Old style,2,0,4,0,2137,1900,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.16-21-17,202,"Warrington, Curt B",27 Madison St,"2022 - $98,500 2021 - $88,000",220,Old style,2,0,4,0,2016,1910,0.11 acres,Glens Falls,Full
-City of Glens Falls,302.16-21-26,202,"Kingsley, Dorothy",36 Fulton St,"2022 - $191,700 2021 - $97,000",210,Old style,2,0,4,0,1673,1880,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.19-3-12,205,"Mcguirk, Christopher R",83 Sheridan St,"2022 - $271,700 2021 - $176,400",210,Raised ranch,2,0,4,0,2046,1951,0.27 acres,Glens Falls,Full
-City of Glens Falls,302.19-4-3,205,"Wyle, Bruce C",56 Garfield St,"2022 - $290,200 2021 - $144,600",210,Old style,2,0,4,1,1909,1930,0.20 acres,Glens Falls,Partial
-City of Glens Falls,302.19-4-10,205,"Spitzer, S Richard",55 Sheridan St,"2022 - $237,700 2021 - $154,000",210,Colonial,2,0,4,1,2064,1926,0.26 acres,Glens Falls,Full
-City of Glens Falls,302.19-4-12,205,"Kress, Kurt A",49 Sheridan St,"2022 - $249,700 2021 - $159,500",210,Colonial,2,0,4,1,1932,1932,0.30 acres,Glens Falls,Full
-City of Glens Falls,302.19-5-5,205,"Baglio, David",34 Lincoln Ave,"2022 - $265,200 2021 - $153,100",210,Old style,2,1,4,1,2164,1906,0.10 acres,Glens Falls,Full
-City of Glens Falls,302.19-5-14,205,"Valk, Jeffrey",29 Sheridan St,"2022 - $231,600 2021 - $135,000",220,Old style,2,0,4,0,2152,1920,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.19-7-7,205,"Pirozzolo, Jason",98 Sheridan St,"2022 - $262,000 2021 - $185,000",210,Colonial,2,1,4,1,2152,1955,0.24 acres,Glens Falls,Full
-City of Glens Falls,302.19-8-5,205,"Nzambi, Tracy Lynn",70 Sheridan St,"2022 - $249,500 2021 - $147,400",210,Colonial,2,1,4,1,1924,1925,0.34 acres,Glens Falls,Partial
-City of Glens Falls,302.19-9-4,205,"Crandall, Sean D",42 Sheridan St,"2022 - $242,300 2021 - $172,000",210,Colonial,2,0,4,1,1960,1938,0.29 acres,Glens Falls,Full
-City of Glens Falls,302.19-10-3,205,"Phillips, Mary R",116 Crandall St,"2022 - $280,000 2021 - $137,100",210,Old style,2,0,4,0,1768,1900,0.34 acres,Glens Falls,Full
-City of Glens Falls,302.19-10-7,205,"Fitzpatrick, John T",34 Sheridan St,"2022 - $210,700 2021 - $112,600",220,Old style,2,0,4,0,1742,1898,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.19-10-10,205,Cappabianca Family Rev Trust,51 Grant Ave,"2022 - $271,600 2021 - $139,000",210,Old style,2,0,4,0,1898,1907,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.19-10-11,205,Cappabianca Family Rev Trust,49 Grant Ave,"2022 - $212,900 2021 - $97,000",220,Old style,2,0,4,0,1882,1907,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.19-14-7,204,"Merrill Irr Trust, Suzanne M",84 Grant Ave,"2022 - $278,300 2021 - $136,000",210,Colonial,2,1,4,1,2100,1930,0.38 acres,Glens Falls,Partial
-City of Glens Falls,302.19-15-27,204,"Weidner, Timothy",33 Quade St,"2022 - $215,000 2021 - $137,500",210,Cape cod,2,0,4,1,1680,1956,0.47 acres,Glens Falls,Full
-City of Glens Falls,302.19-17-4,205,"Clark, Robert B Sr",30 Grant Ave,"2022 - $269,400 2021 - $99,400",210,Old style,2,0,4,0,1759,1930,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.19-17-7,205,"Harrington, Christopher T",38 Grant Ave,"2022 - $272,100 2021 - $125,600",210,Old style,2,0,5,1,1948,1900,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.19-17-8,205,"Coleman, John R",40 Grant Ave,"2022 - $275,000 2021 - $116,700",210,Old style,2,0,5,1,1988,1930,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.19-19-10,204,"Creutzberger, Richard",17 Garfield St,"2022 - $163,000 2021 - $139,900",220,Old style,2,0,4,0,1848,1920,0.12 acres,Glens Falls,Full
-City of Glens Falls,302.19-19-16,204,"Fisher, Heather L",45 Grove Ave,"2022 - $242,800 2021 - $98,200",210,Old style,2,0,5,0,2134,1900,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.19-20-11,204,"Mylott, Walter Jr",40 Harrison Ave,"2022 - $214,600 2021 - $95,600",210,Old style,2,0,4,0,1720,1900,0.12 acres,Glens Falls,Full
-City of Glens Falls,302.19-20-13,204,"Bockoven, Jesse",39 Grove Ave,"2022 - $184,200 2021 - $106,700",220,Old style,2,0,5,0,2095,1930,0.15 acres,Glens Falls,Full
-City of Glens Falls,302.19-20-14,204,"Clark, Amanda N",37 Grove Ave,"2022 - $186,500 2021 - $112,500",220,Old style,2,0,4,0,1902,1930,0.21 acres,Glens Falls,Full
-City of Glens Falls,302.19-20-16,204,"Currier, Deana A",33 Grove Ave,"2022 - $191,800 2021 - $94,500",210,Old style,2,0,5,0,1942,1930,0.21 acres,Glens Falls,Full
-City of Glens Falls,302.19-21-4,204,"Weekes, Lorna E",54 1/2 Grove Ave,"2022 - $243,400 2021 - $128,700",210,Colonial,2,1,4,0,1820,1965,0.23 acres,Glens Falls,Full
-City of Glens Falls,302.19-22-2,204,"Carozza, Benjamin J",66 Crandall St,"2022 - $189,600 2021 - $83,900",210,Old style,2,1,4,0,1848,1903,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.19-22-10,204,"Giannella, Jeffrey",48 Grove Ave,"2022 - $179,300 2021 - $84,500",220,Old style,2,0,5,0,2072,1900,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.19-27-8,204,"Caruso, Mark U",1 Empire Ave,"2022 - $266,500 2021 - $181,500",210,Colonial,2,1,4,1,2106,1958,0.41 acres,Glens Falls,Full
-City of Glens Falls,302.19-28-1,204,"Trunzi, Rosaria",50 Crandall St,"2022 - $160,200 2021 - $96,500",220,Old style,2,0,4,0,1720,1900,0.08 acres,Glens Falls,Full
-City of Glens Falls,302.19-28-3,204,"Friedman, Sara",54 Crandall St,"2022 - $193,300 2021 - $102,200",220,Old style,2,1,4,1,1896,1900,0.21 acres,Glens Falls,Full
-City of Glens Falls,302.19-28-9,204,"Lazarescu, Ionut Adrian",62 W Notre Dame St,"2022 - $177,500 2021 - $95,800",220,Old style,2,0,5,0,2020,1910,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.19-28-29,204,"DelSavio, Mary",55 Sherman Ave,"2022 - $161,100 2021 - $108,600",210,Old style,2,0,4,0,1672,1850,0.42 acres,Glens Falls,Full
-City of Glens Falls,302.19-28-33,204,AR Family Properties LLC,47 Sherman Ave,"2022 - $133,000 2021 - $97,400",220,Old style,2,1,5,1,1955,1920,0.26 acres,Glens Falls,Full
-City of Glens Falls,302.20-1-7,204,Joseph F Mulcahy Trust,9 Harrison Ave,"2022 - $134,200 2021 - $103,500",220,Old style,2,0,4,0,1938,1940,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.20-1-11,205,"Holcomb, Trevor",18 Grant Ave,"2022 - $177,300 2021 - $96,800",220,Old style,2,0,4,0,1916,1930,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.20-2-11,204,NCB LLC,1 Davis St,"2022 - $164,700 2021 - $133,300",220,Old style,2,0,4,0,1968,1925,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.20-3-4,204,"Sandoval, Tracy E",12 Charlotte St,"2022 - $195,500 2021 - $84,700",210,Old style,2,0,4,0,1756,1920,0.23 acres,Glens Falls,Full
-City of Glens Falls,302.20-3-7,204,"Palmer, Scott E",28 Grove Ave,"2022 - $174,500 2021 - $102,500",220,Old style,2,0,4,0,1861,1900,0.20 acres,Glens Falls,Full
-City of Glens Falls,302.20-3-9,204,"Collins, Joanne",32 Grove Ave,"2022 - $203,900 2021 - $117,000",210,Old style,2,0,4,0,1796,1900,0.19 acres,Glens Falls,Full
-City of Glens Falls,302.20-3-15,204,Alexander Leszcynski Irr. Trus,65 Crandall St,"2022 - $186,200 2021 - $110,000",220,Old style,2,0,4,0,1736,1930,0.40 acres,Glens Falls,Full
-City of Glens Falls,302.20-3-17,204,"Beatty, Chan R",61 Crandall St,"2022 - $187,500 2021 - $97,700",220,Old style,2,0,4,0,2012,1920,0.16 acres,Glens Falls,Full
-City of Glens Falls,302.20-4-1,204,"Golden, Meaghan M",10 Marion Ave,"2022 - $161,100 2021 - $125,000",220,Old style,2,0,4,0,2082,1930,0.07 acres,Glens Falls,Full
-City of Glens Falls,302.20-4-5,204,"Quinlan, Thomas",16 Grove Ave,"2022 - $216,400 2021 - $97,700",210,Old style,2,0,4,0,1922,1920,0.19 acres,Glens Falls,Full
-City of Glens Falls,302.20-4-9,204,"Palmer, Ian M",24 Grove Ave,"2022 - $177,200 2021 - $100,600",220,Old style,2,0,4,1,2158,1920,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.20-6-10,204,"Mizejewski, Michael C",23 Birch Ave,"2022 - $183,900 2021 - $89,300",220,Old style,2,0,4,0,1976,1922,0.07 acres,Glens Falls,Full
-City of Glens Falls,302.20-6-17,204,CRB Rentals LLC,9 Birch Ave,"2022 - $168,200 2021 - $72,600",220,Old style,2,0,4,0,2150,1900,0.07 acres,Glens Falls,Full
-City of Glens Falls,302.20-7-11,204,"DiBella, Joseph S",15 Marion Ave,"2022 - $163,400 2021 - $92,500",220,Old style,2,0,4,0,1792,1930,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.20-7-13,204,"Gega, Paul",19 Marion Ave,"2022 - $176,400 2021 - $87,800",210,Old style,2,0,4,0,1844,1930,0.18 acres,Glens Falls,Full
-City of Glens Falls,302.20-9-4,202,Raymond Asset Mngmt Trust,12 Madison St,"2022 - $158,200 2021 - $84,200",220,Old style,2,0,4,0,1922,1910,0.19 acres,Glens Falls,Full
-City of Glens Falls,302.20-9-27,202,Jabaut Properties LLC,8 May St,"2022 - $152,700 2021 - $100,000",220,Old style,2,0,4,0,2020,1900,0.10 acres,Glens Falls,Full
-City of Glens Falls,302.20-10-4,202,"Anderson, Charity",16 Nelson St,"2022 - $164,900 2021 - $88,700",220,Old style,2,0,4,0,2032,1900,0.23 acres,Glens Falls,Full
-City of Glens Falls,302.20-10-7,202,"Back, Christy",25 Fulton St,"2022 - $128,400 2021 - $83,800",220,Old style,2,0,4,0,1678,1900,0.09 acres,Glens Falls,Full
-City of Glens Falls,302.20-10-12,202,"Gonyea, Lawrence R Jr",15 Fulton St,"2022 - $132,900 2021 - $88,000",220,Old style,2,0,4,0,2040,1920,0.11 acres,Glens Falls,Full
-City of Glens Falls,302.20-11-2,202,"Orleman, Kragen S",140 Ridge St,"2022 - $182,200 2021 - $104,800",220,Old style,2,0,4,0,1853,1910,0.24 acres,Glens Falls,Full
-City of Glens Falls,302.20-11-10,202,"Demattos, Anthony J",160 Ridge St,"2022 - $215,200 2021 - $131,700",210,Old style,2,0,4,0,2076,1910,0.09 acres,Glens Falls,Full
-City of Glens Falls,302.20-11-21,202,"Swain, Robert M",7 Nelson St,"2022 - $165,500 2021 - $74,500",220,Old style,2,0,4,0,1793,1884,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.20-12-9,204,Lerist Enterprises LLC,13 Union St,"2022 - $170,900 2021 - $83,300",220,Old style,2,0,4,0,1867,1928,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.20-12-19,204,19 E Notre Dame LLC,16 E Notre Dame St,"2022 - $175,300 2021 - $85,000",220,Old style,2,0,4,0,1916,1900,0.10 acres,Glens Falls,Full
-City of Glens Falls,302.20-13-11,204,"Van Benthuysen, Judith",9 Wait St,"2022 - $180,700 2021 - $82,200",210,Old style,2,0,4,1,1671,1920,0.13 acres,Glens Falls,Full
-City of Glens Falls,302.20-14-11,204,"Urbonowicz Irr Trust, Joseph & Darlene",36 W Notre Dame St,"2022 - $187,900 2021 - $96,000",210,Old style,2,0,4,0,1726,1960,0.20 acres,Glens Falls,Partial
-City of Glens Falls,302.20-15-9,204,"Brumagen, Noah J",6 Holman St,"2022 - $189,900 2021 - $91,100",210,Old style,2,0,4,0,2056,1904,0.16 acres,Glens Falls,Full
-City of Glens Falls,302.20-15-10,204,"Irwin, Tobi J",4 Holman St,"2022 - $166,900 2021 - $89,000",220,Old style,2,0,4,0,2086,1930,0.09 acres,Glens Falls,Full
-City of Glens Falls,302.20-20-15,204,"Golden, Meaghan M",9 Orville St,"2022 - $174,900 2021 - $84,000",220,Old style,2,0,4,0,1952,1900,0.14 acres,Glens Falls,Full
-City of Glens Falls,302.20-21-6,204,"Kopf, Andrew",16 Sherman Ave,"2022 - $185,000 2021 - $88,700",220,Old style,2,0,4,0,1968,1900,0.19 acres,Glens Falls,Partial
-City of Glens Falls,302.20-25-3,204,"Radigan, Russell",5 Division St,"2022 - $179,800 2021 - $86,500",220,Old style,2,0,4,0,1624,1900,0.20 acres,Glens Falls,Full
-City of Glens Falls,302.20-25-4,204,"Arcuri-DeMarsh, Tina M",3 Division St,"2022 - $197,500 2021 - $116,000",220,Colonial,2,2,4,0,1792,2013,0.09 acres,Glens Falls,Slab/pier
-City of Glens Falls,302.20-25-7,204,"Wolfe, Michael D",68 Elm St,"2022 - $208,800 2021 - $77,300",210,Old style,2,0,4,0,2097,1800,0.22 acres,Glens Falls,Full
-City of Glens Falls,302.20-25-9,204,"Filion, Paul R",4 Orville St,"2022 - $170,000 2021 - $84,800",220,Old style,2,0,4,0,2004,1850,0.11 acres,Glens Falls,Full
-City of Glens Falls,302.20-26-5,204,"Cronkhite, Barry W",6 Division St,"2022 - $174,400 2021 - $85,000",210,Old style,2,0,4,0,1919,1910,0.11 acres,Glens Falls,Partial
-City of Glens Falls,302.20-27-11,204,Michael G George Living Trust,6 Pine St,"2022 - $169,700 2021 - $103,500",283,Old style,2,1,5,0,2064,1900,0.12 acres,Glens Falls,Partial
-City of Glens Falls,303.9-6-15,203,"Gall, Michael F",281 Ridge St,"2022 - $266,300 2021 - $134,400",210,Colonial,2,1,4,1,1992,1920,0.38 acres,Glens Falls,Full
-City of Glens Falls,303.9-6-17,203,"Scheideler, Thomas J",273 Ridge St,"2022 - $262,500 2021 - $145,400",210,Colonial,2,1,4,1,2152,1950,0.16 acres,Glens Falls,Full
-City of Glens Falls,303.9-6-18,203,"Perkins, Helen",6 Jackson Ave,"2022 - $204,300 2021 - $96,700",210,Old style,2,0,4,1,1719,1932,0.40 acres,Glens Falls,Partial
-City of Glens Falls,303.9-7-3,206,"Coyle, William J",8 Windy Hill Rd,"2022 - $264,200 2021 - $183,400",210,Cape cod,2,0,4,1,1936,1965,0.86 acres,Glens Falls,Full
-City of Glens Falls,303.9-7-5,206,"Palmer, Dana L",12 Windy Hill Rd,"2022 - $262,300 2021 - $182,500",210,Split level,2,1,4,1,2090,1967,0.41 acres,Glens Falls,Partial
-City of Glens Falls,303.9-7-6,206,"McCoy, Donald C",14 Windy Hill Rd,"2022 - $307,500 2021 - $181,500",210,Ranch,2,0,4,1,1932,1964,0.41 acres,Glens Falls,Full
-City of Glens Falls,303.9-7-7,206,"Poissant, Kelly",16 Windy Hill Rd,"2022 - $287,600 2021 - $182,900",210,Colonial,2,0,4,1,1952,1965,0.85 acres,Glens Falls,Full
-City of Glens Falls,303.9-7-8,206,"Levasseur, Paul",18 Windy Hill Rd,"2022 - $254,200 2021 - $171,900",210,Raised ranch,2,1,4,1,2022,1965,0.42 acres,Glens Falls,Full
-City of Glens Falls,303.9-7-16,203,"Duval, Gary W",317 Ridge St,"2022 - $206,700 2021 - $158,000",210,Old style,2,0,4,0,2019,1900,0.17 acres,Glens Falls,Partial
-City of Glens Falls,303.9-7-34,203,Root Family Trust,194 Sanford St,"2022 - $296,600 2021 - $163,400",210,Colonial,2,0,4,1,1960,1960,0.92 acres,Glens Falls,Full
-City of Glens Falls,303.9-8-25,206,"Murphy, Kevin T",23 Windy Hill Rd,"2022 - $246,500 2021 - $178,000",210,Split level,2,1,4,1,2100,1963,0.38 acres,Glens Falls,Full
-City of Glens Falls,303.9-8-28,206,Joseph F Mulcahy Trust,17 Windy Hill Rd,"2022 - $239,600 2021 - $177,000",210,Cape cod,2,1,4,1,2031,1970,0.40 acres,Glens Falls,Full
-City of Glens Falls,303.9-8-33,206,"Petramale, Mark E",7 Windy Hill Rd,"2022 - $319,300 2021 - $194,000",210,Ranch,2,0,4,1,2089,1964,0.44 acres,Glens Falls,Full
-City of Glens Falls,303.9-8-35,206,"Bethel, Joseph W",3 Windy Hill Rd,"2022 - $296,500 2021 - $167,300",210,Ranch,2,0,4,1,1968,1966,0.42 acres,Glens Falls,Full
-City of Glens Falls,303.9-9-5,203,"McFaden, Lisa C",9 Jackson Ave,"2022 - $223,100 2021 - $140,000",210,Bungalow,2,0,4,0,1858,1930,0.18 acres,Glens Falls,Full
-City of Glens Falls,303.9-9-10,203,"Wright, Randall C",267 Ridge St,"2022 - $159,400 2021 - $111,800",220,Old style,2,0,4,0,2024,1935,0.14 acres,Glens Falls,Full
-City of Glens Falls,303.9-11-5,203,J Hayes Properties LLC,25 Jackson Ave,"2022 - $227,900 2021 - $114,900",210,Raised ranch,2,0,4,1,2052,1964,0.20 acres,Glens Falls,Full
-City of Glens Falls,303.9-11-14,203,"Fountain, Nicole B",172 Sanford St,"2022 - $212,100 2021 - $111,800",210,Old style,2,0,4,1,1814,1891,0.59 acres,Glens Falls,Full
-City of Glens Falls,303.9-14-2,203,"Donovan, Jane Life",175 Sanford St,"2022 - $231,300 2021 - $108,100",210,Cape cod,2,0,4,1,1960,1940,0.25 acres,Glens Falls,Full
-City of Glens Falls,303.13-1-19,202,"Simpson, Larry S Jr",229 Ridge St,"2022 - $123,300 2021 - $86,500",220,Old style,2,0,4,0,1760,1900,0.10 acres,Glens Falls,Full
-City of Glens Falls,303.13-2-9,202,"Dunn-Cole, Meagan",23 Wing St,"2022 - $211,200 2021 - $112,300",210,Old style,2,0,4,0,2016,1920,0.17 acres,Glens Falls,Full
-City of Glens Falls,303.13-2-23,202,"Gerarde, Haley M",92 Hunter St,"2022 - $220,100 2021 - $104,800",210,Old style,2,0,4,0,2112,1925,0.17 acres,Glens Falls,Full
-City of Glens Falls,303.13-8-15,202,"Dougherty, Pamela",67 Hunter St,"2022 - $177,100 2021 - $97,000",220,Old style,2,0,4,0,1970,1910,0.23 acres,Glens Falls,Full
-City of Glens Falls,303.13-8-26,202,"Mobley, Gregory",18 Lawton Ave,"2022 - $245,500 2021 - $116,000",210,Old style,2,0,4,1,2163,1935,0.17 acres,Glens Falls,Full
-City of Glens Falls,303.13-8-48,202,"Russo, Kathleen",20 Dix Ave,"2022 - $202,000 2021 - $107,600",210,Old style,2,0,4,0,1822,1920,0.21 acres,Glens Falls,Full
-City of Glens Falls,303.13-8-49,202,"Lucas, Christopher",22 Dix Ave,"2022 - $184,500 2021 - $120,000",210,Old style,2,0,4,0,1797,1900,0.17 acres,Glens Falls,Full
-City of Glens Falls,303.13-10-1,203,"Talcott, Caroline",8 Byrne Ave,"2022 - $135,300 2021 - $68,000",220,Old style,2,0,4,0,1698,1924,0.21 acres,Glens Falls,Partial
-City of Glens Falls,303.13-10-2,203,"Mooney, Daniel",12 Byrne Ave,"2022 - $177,700 2021 - $112,700",220,Old style,2,0,4,0,2154,1920,0.31 acres,Glens Falls,Full
-City of Glens Falls,303.13-14-6,203,"Goldstein, Kevin",70 Dix Ave,"2022 - $136,300 2021 - $87,300",220,Old style,2,0,5,0,1926,1900,0.35 acres,Glens Falls,Full
-City of Glens Falls,303.13-16-2,201,"Mackenzie, Craig",76 Cherry St,"2022 - $138,300 2021 - $81,600",220,Old style,2,0,4,0,1813,1900,0.06 acres,Glens Falls Common,Partial
-City of Glens Falls,303.13-16-6,201,"Zanoni, Jacob",19 Dix Ave,"2022 - $177,500 2021 - $92,000",220,Old style,2,0,4,0,1920,1920,0.17 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-16-9,201,"McMurray, Julie R",13 Dix Ave,"2022 - $146,400 2021 - $96,700",220,Old style,2,0,4,1,2148,1920,0.17 acres,Glens Falls,Partial
-City of Glens Falls,303.13-16-17,201,"Woods, Larry",10 Auburn Pl,"2022 - $152,300 2021 - $90,700",220,Old style,2,0,5,0,1770,1900,0.13 acres,Glens Falls,Full
-City of Glens Falls,303.13-16-23,201,"Boise, Philip Tavis",20 Auburn Pl,"2022 - $198,900 2021 - $108,100",210,Old style,2,0,4,0,1720,1884,0.14 acres,Glens Falls Common,Crawl
-City of Glens Falls,303.13-16-24,201,L&A Real Estate Holdings LLC,22 Auburn Pl,"2022 - $198,000 2021 - $111,800",210,Old style,2,0,4,0,1648,1900,0.14 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-17-13,201,"Carpenter, Gabrielle L",31 Dix Ave,"2022 - $164,900 2021 - $94,000",220,Old style,2,0,4,0,1820,1900,0.17 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-17-18,201,"Francis, David",71 Cherry St,"2022 - $239,700 2021 - $82,900",210,Old style,2,0,4,0,2144,1864,0.18 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-17-19,201,Scrimshaw Property Mgmt LLC,69 Cherry St,"2022 - $140,600 2021 - $87,300",220,Old style,2,0,5,0,2080,1891,0.18 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-17-21,201,Ticonderoga Inc,65 Cherry St,"2022 - $163,900 2021 - $86,500",220,Old style,2,0,4,0,1624,1900,0.17 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-18-3,201,"Chiaravalle, Luigi",67 Walnut St,"2022 - $183,300 2021 - $104,700",220,Old style,2,1,5,0,2082,1920,0.17 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-19-13,201,"Stockwell, Ronnie L",63 Cooper St,"2022 - $245,500 2021 - $123,400",210,Old style,2,0,4,0,1898,1890,1.41 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-20-7,201,"Moses, Daniel J",86 Prospect St,"2022 - $174,000 2021 - $105,000",210,Old style,2,0,4,0,1647,1910,0.27 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-23-2,201,"Atolani, Adedamola",68 Cherry St,"2022 - $165,100 2021 - $88,600",220,Old style,2,0,4,0,1646,1900,0.17 acres,Glens Falls Common,Crawl
-City of Glens Falls,303.13-23-3,201,MNH Real Estate Holdings LLC,70 Cherry St,"2022 - $168,900 2021 - $92,900",220,Old style,2,0,4,0,2004,1870,0.17 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-23-6,201,"Gumina, Anthony J",15 Auburn Pl,"2022 - $167,900 2021 - $124,000",210,Old style,2,0,4,1,1902,1933,0.14 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-23-10,201,"Waite, Richard M",9 Auburn Pl,"2022 - $158,600 2021 - $78,700",220,Old style,2,0,4,0,1913,1890,0.10 acres,Glens Falls,Full
-City of Glens Falls,303.13-23-15,201,IFLORES LLC,163 Ridge St,"2022 - $140,500 2021 - $97,400",220,Old style,2,0,4,0,1630,1900,0.16 acres,Glens Falls,Full
-City of Glens Falls,303.14-2-8,201,"Walkup, Richard L",104 Platt St,"2022 - $178,100 2021 - $98,300",210,Old style,2,1,4,0,1682,1949,0.25 acres,Glens Falls Common,Crawl
-City of Glens Falls,303.14-2-21,201,"Rivers, Ryan",79 McDonald St,"2022 - $159,300 2021 - $94,000",220,Old style,2,0,4,0,1668,1933,0.22 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-1-7,201,"Hesse, Cory",54 Cherry St,"2022 - $183,200 2021 - $79,800",220,Old style,2,0,5,0,2037,1900,0.16 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-1-8,201,"Dudley, Daniel K",56 Cherry St,"2022 - $169,500 2021 - $83,000",220,Old style,2,0,4,0,1978,1882,0.17 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-1-10,201,"Watkins, Kerry A",23-23R Morgan Ave,"2022 - $443,100 2021 - $120,000",220,Old style,2,0,4,0,2004,1900,0.20 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-1-16,201,"Mejo, Dylan M",11 Morgan Ave,"2022 - $165,500 2021 - $80,300",220,Old style,2,0,4,0,1911,1900,0.12 acres,Glens Falls,Full
-City of Glens Falls,303.17-1-31,201,13 Traver St. Corp.,13 Traver St,"2022 - $172,700 2021 - $74,400",220,Old style,2,0,4,0,1762,1910,0.10 acres,Glens Falls,Full
-City of Glens Falls,303.17-1-34,201,4 Ogden Street LLC,7 Traver St,"2022 - $174,300 2021 - $86,200",220,Old style,2,0,4,0,1741,1920,0.26 acres,Glens Falls,Full
-City of Glens Falls,303.17-1-36,201,Kyle I LLC,18 Lawrence St,"2022 - $158,000 2021 - $105,000",220,Old style,2,0,4,0,1943,1900,0.07 acres,Glens Falls,Full
-City of Glens Falls,303.17-2-3,201,"Smith, Robert A",38 Walnut St,"2022 - $167,200 2021 - $76,200",220,Old style,2,0,4,0,1679,1840,0.28 acres,Glens Falls Common,Partial
-City of Glens Falls,303.17-2-8,201,"Murray, Meghan",50 Walnut St,"2022 - $187,100 2021 - $84,700",210,Old style,2,0,5,0,2118,1900,0.25 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-2-9,201,Goss Family Living Trust,52 Walnut St,"2022 - $189,100 2021 - $88,500",210,Old style,2,0,4,0,1816,1900,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-2-11,201,"Shanks, Clinton J",56 Walnut St,"2022 - $182,800 2021 - $84,400",210,Old style,2,0,4,0,1634,1900,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-2-15,201,LaPhatt Holding Inc,49 Cherry St,"2022 - $197,300 2021 - $115,000",220,Duplex,2,2,4,0,1792,2013,0.21 acres,Glens Falls Common,Slab/pier
-City of Glens Falls,303.17-3-6,201,"Sisco, Kyle",43 Walnut St,"2022 - $164,500 2021 - $79,400",220,Old style,2,0,4,0,1600,1924,0.17 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-3-13,201,"Walkup, Joseph",56 Lawrence St,"2022 - $125,700 2021 - $90,500",210,Old style,2,0,4,0,1760,1920,0.24 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-4-6,201,"Ermiger, Justin M",80 Lawrence St,"2022 - $156,700 2021 - $93,750",220,Old style,2,0,5,0,1869,1900,0.17 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-5-1,201,GFMF Properties LLC,46 Prospect St,"2022 - $193,100 2021 - $121,000",220,Old style,2,0,4,0,2118,1900,0.16 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-5-5,201,"Tuttle, Christian W",56 Prospect St,"2022 - $155,300 2021 - $87,300",220,Old style,2,0,5,0,1880,1910,0.18 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-5-7,201,"Schaldone, James",60 Prospect St,"2022 - $156,300 2021 - $99,500",220,Old style,2,0,4,0,1639,1910,0.24 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-5-17,201,"Accardi, Peter",88 Lawrence St,"2022 - $153,000 2021 - $83,700",220,Old style,2,0,4,0,1784,1900,0.17 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-5-19,201,"Hanselman, Kevin E",92 Lawrence St,"2022 - $221,500 2021 - $123,400",210,Old style,2,0,4,0,2020,1910,0.18 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-6-5,201,"O'Brien, Maureen E",46 Orchard St,"2022 - $249,300 2021 - $159,900",210,Colonial,2,1,4,0,1648,2005,0.18 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-6-16,201,"MacFarran, Robbin",49 Prospect St,"2022 - $177,300 2021 - $120,000",220,Old style,2,0,4,0,1765,1862,0.19 acres,Glens Falls Common,Partial
-City of Glens Falls,303.17-6-18,201,Girard Properties LLC,104 Lawrence St,"2022 - $138,100 2021 - $97,000",220,Old style,2,0,4,0,1940,1900,0.09 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-8-8,201,"Morales, Armando Jr",5 Numan St,"2022 - $167,200 2021 - $97,600",220,Old style,2,0,4,0,1732,1910,0.12 acres,Glens Falls,Full
-City of Glens Falls,303.17-10-15,201,"Burke Rev Trust, William B & Rose M",21 Pearl St,"2022 - $159,500 2021 - $84,100",220,Old style,2,0,4,0,2089,1895,0.14 acres,Glens Falls,Full
-City of Glens Falls,303.17-10-28,201,"Cole, Garth",140 Maple St,"2022 - $212,700 2021 - $78,000",210,Old style,2,0,5,0,2122,1870,0.12 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-11-4,201,T-N-T Property Rental & Sales,16 Walnut St,"2022 - $176,500 2021 - $88,800",220,Old style,2,0,4,0,1736,1900,0.18 acres,Glens Falls Common,Crawl
-City of Glens Falls,303.17-11-12,201,JuJo Properties LLC,45 Lawrence St,"2022 - $176,000 2021 - $132,900",220,Old style,2,0,5,0,2015,1900,0.11 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-11-18,201,LaPhatt Holding Inc,21 Cherry St,"2022 - $198,800 2021 - $115,000",220,Duplex,2,2,4,0,1792,2013,0.20 acres,Glens Falls Common,Slab/pier
-City of Glens Falls,303.17-12-10,201,"Kerchner-Pirrone, Journey",25 Walnut St,"2022 - $164,600 2021 - $71,700",220,Old style,2,0,4,0,1900,1900,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-12-11,201,"Jones, Leon",23 Walnut St,"2022 - $184,600 2021 - $103,000",210,Old style,2,0,4,0,1736,1920,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-12-13,201,"Burch, Michael",19 Walnut St,"2022 - $177,700 2021 - $94,600",220,Old style,2,0,4,0,1988,1910,0.20 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-13-4,201,"Santos, Donna",26 Leonard St,"2022 - $116,100 2021 - $75,600",220,Old style,2,0,4,0,1773,1910,0.15 acres,Glens Falls Common,Partial
-City of Glens Falls,303.17-14-12,201,"Wright, Kimberly L",19 Leonard St,"2022 - $190,300 2021 - $95,900",210,Old style,2,0,4,0,1800,1885,0.24 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-14-14,201,"Caselli, Adam J",204 Maple St,"2022 - $151,200 2021 - $105,000",220,Old style,2,0,5,0,2012,1900,0.12 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-14-17,201,"Wolfe, Raymond F",208 Maple St,"2022 - $150,100 2021 - $77,700",220,Old style,2,0,4,0,1736,1910,0.21 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-15-5,201,MNH Real Estate Holdings LLC,24 Orchard St,"2022 - $157,200 2021 - $65,000",220,Old style,2,0,4,0,2024,1900,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-15-6,201,"Barnes, Jason S",26 Orchard St,"2022 - $177,600 2021 - $70,400",210,Old style,2,0,5,0,1782,1900,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-19-2,201,"Sullivan, Jeffrey",10 Oak St,"2022 - $129,400 2021 - $82,000",220,Old style,2,0,4,0,2084,1930,0.12 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-19-5,201,"Accardi Irrevocable Trust, Peter M & Carolyn M",16 Oak St,"2022 - $138,900 2021 - $67,600",210,Old style,2,0,4,0,1614,1900,0.08 acres,Glens Falls Common,Partial
-City of Glens Falls,303.17-19-14,201,"Fraser, Cheryl L",13 Culvert St,"2022 - $165,400 2021 - $85,200",220,Old style,2,0,4,0,2126,1900,0.11 acres,Glens Falls Common,Full
-City of Glens Falls,303.17-20-8,201,"LaLonde, Christopher",17 Oak St,"2022 - $135,000 2021 - $70,500",220,Old style,2,0,4,1,1786,1920,0.13 acres,Glens Falls Common,Crawl
-City of Glens Falls,303.18-1-11,201,"Pratt, Lynn L",49 McDonald St,"2022 - $180,500 2021 - $137,900",210,Old style,2,0,4,0,1800,1900,0.16 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-2-18,201,"Sidusky, Joseph",55 Platt St,"2022 - $209,300 2021 - $109,000",210,Cape cod,2,0,4,0,2025,2011,0.14 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-2-20,201,"Goldson, Joseph O",51 Platt St,"2022 - $156,400 2021 - $75,900",220,Old style,2,0,4,0,2155,1895,0.14 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-2-26,201,"Cook, John P",8 Katherine St,"2022 - $163,800 2021 - $75,400",210,Old style,2,0,4,0,1744,1900,0.12 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-4-8,201,"Winfield, Michael",77 Peck Ave,"2022 - $216,900 2021 - $110,700",210,Raised ranch,2,0,5,0,1684,1996,0.21 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-4-37,201,"Girard, Peter L",30 Peck Ave,"2022 - $128,700 2021 - $91,300",220,Old style,2,0,4,0,2028,1900,0.17 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-5-7,201,"DiManno, Jesselyn K",46 McDonald St,"2022 - $151,600 2021 - $83,000",220,Old style,2,0,4,0,1799,1875,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-5-12,201,"Dumas, David A",23 Orchard St,"2022 - $117,100 2021 - $70,000",220,Old style,2,0,4,0,1667,1910,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-5-14,201,"Accardi Irrevocable Trust, Robert M & Carolyn M",17 Orchard St,"2022 - $150,700 2021 - $81,000",220,Old style,2,0,4,0,1912,1910,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-6-3,201,"Harding, Janet M",34 Platt St,"2022 - $151,100 2021 - $102,800",210,Old style,2,0,4,0,1764,1920,0.26 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-7-7,201,"Alberico, Thomas",44 Geer St,"2022 - $174,900 2021 - $76,600",220,Old style,2,0,4,0,1968,1900,0.30 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-7-8,201,"Heywood, Christopher G",46 Geer St,"2022 - $91,500 2021 - $79,900",220,Old style,2,0,5,0,1923,1900,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-7-9,201,"MacKenzie, John A Jr.",48 Geer St,"2022 - $160,300 2021 - $74,200",220,Old style,2,0,4,0,1906,1900,0.14 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-7-13,201,Glens Falls Holdings LLC,1 Katherine St,"2022 - $154,300 2021 - $81,900",220,Old style,2,0,4,0,1810,1910,0.13 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-8-6,201,"Euber, Kacey",49 Geer St,"2022 - $63,500 2021 - $31,500",220,Old style,2,0,4,0,1768,1900,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-10-15,201,97 Broad St. Corp.,36 Haskell Ave,"2022 - $166,800 2021 - $78,900",220,Old style,2,1,5,0,1993,1900,0.18 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-11-3,201,"Ermiger, Justin",12 McDonald St,"2022 - $144,600 2021 - $84,100",220,Old style,2,0,4,0,1650,1920,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-11-4,201,"Greaney, Conor",14 McDonald St,"2022 - $155,400 2021 - $90,100",220,Old style,2,0,5,0,1924,1900,0.20 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-11-5,201,"Gibbs, Wavel C",16 McDonald St,"2022 - $181,900 2021 - $156,800",210,Old style,2,0,4,0,1932,1922,0.10 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-11-7,201,"Pontiff, Judy Ann",229 Maple St,"2022 - $143,100 2021 - $95,500",220,Old style,2,0,4,0,1650,1900,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-12-6,201,"Ellsworth, Matthew E",20 Platt St,"2022 - $160,000 2021 - $92,900",220,Old style,2,0,5,0,2081,1900,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-12-12,201,"Giannone, Anthony Michael",13 McDonald St,"2022 - $149,900 2021 - $99,300",220,Old style,2,0,4,0,1806,1892,0.19 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-12-14,201,"Macpherson, David",9 McDonald St,"2022 - $123,800 2021 - $80,000",220,Old style,2,0,4,0,1870,1925,0.20 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-12-17,201,"O'Brien, Colin R",208 Warren St,"2022 - $169,400 2021 - $95,700",230,Old style,2,0,5,0,2126,1875,0.26 acres,Glens Falls Common,Partial
-City of Glens Falls,303.18-15-7,201,"Hopler Trust ua dated 8/26/19, Daniel John",15 Haskell Ave,"2022 - $164,100 2021 - $82,300",220,Old style,2,0,4,0,2010,1900,0.15 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-15-13,201,"Potter, Victor Jr",8 Rogers St,"2022 - $206,100 2021 - $79,800",210,Old style,2,0,4,0,1944,1920,0.18 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-19-8,201,"Martin, Gary R",197 Warren St,"2022 - $149,800 2021 - $74,000",220,Old style,2,0,4,0,1652,1890,0.18 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-19-10,201,"Wisell, Christopher",193 Warren St,"2022 - $126,800 2021 - $79,000",220,Old style,2,0,4,0,1755,1900,0.18 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-19-11,201,"Rich, Martin S",191 Warren St,"2022 - $151,700 2021 - $85,500",220,Old style,2,0,5,0,1690,1920,0.18 acres,Glens Falls Common,Full
-City of Glens Falls,303.18-19-13,201,"Machell, Dan",187 Warren St,"2022 - $86,700 2021 - $75,000",220,Old style,2,0,5,0,1958,1900,0.16 acres,Glens Falls Common,Full
-City of Glens Falls,309.7-5-8,204,"Deihl, John D",118 Sherman Ave,"2022 - $203,900 2021 - $114,600",220,Old style,2,0,4,0,1706,1921,0.20 acres,Glens Falls,Full
-City of Glens Falls,309.7-5-18,204,"Baars, Samuel G",51 Larose St,"2022 - $214,300 2021 - $138,000",210,Old style,2,0,4,0,1945,1930,0.35 acres,Glens Falls,Full
-City of Glens Falls,309.7-6-4,204,"Brewer-Barr, Debra M",16 Cortland St,"2022 - $157,100 2021 - $86,000",210,Old style,2,0,4,0,1618,1900,0.13 acres,Glens Falls,Full
-City of Glens Falls,309.7-6-14,204,"Alberico, Thomas",116 Sherman Ave,"2022 - $190,500 2021 - $86,300",220,Old style,2,0,4,0,1842,1900,0.11 acres,Glens Falls,Full
-City of Glens Falls,309.7-6-21,204,Tri-County Rental Homes LLC,14 Stevens St,"2022 - $183,700 2021 - $84,000",220,Old style,2,0,4,0,1792,1891,0.11 acres,Glens Falls,Full
-City of Glens Falls,309.7-6-27,204,LaPhatt Holding Inc,89 Montcalm St,"2022 - $192,300 2021 - $115,000",220,Old style,2,2,4,0,1792,2012,0.20 acres,Glens Falls,Full
-City of Glens Falls,309.7-7-10,204,Mihul LLC,110 Sherman Ave,"2022 - $197,300 2021 - $90,000",220,Old style,2,1,4,0,1760,1970,0.11 acres,Glens Falls,0
-City of Glens Falls,309.7-7-13,204,"Alkes, Arnold M",5 Cortland St,"2022 - $178,400 2021 - $81,100",220,Old style,2,0,4,0,1716,1920,0.13 acres,Glens Falls,Full
-City of Glens Falls,309.7-8-8,204,"Phair, James W",5 Wilmot St,"2022 - $171,200 2021 - $83,200",220,Old style,2,0,4,0,1714,1910,0.14 acres,Glens Falls,Full
-City of Glens Falls,309.7-8-21,204,"Filion, Paul R",14 Morton St,"2022 - $162,800 2021 - $84,900",220,Old style,2,0,4,0,1638,1900,0.13 acres,Glens Falls,Full
-City of Glens Falls,309.7-9-12,204,"Martin, Carol",2 Wilmot St,"2022 - $165,900 2021 - $83,100",220,Old style,2,0,4,0,1744,1900,0.05 acres,Glens Falls,Full
-City of Glens Falls,309.7-9-13,204,"Davidson, Colin  M",4 Wilmot St,"2022 - $192,300 2021 - $88,500",220,Old style,2,0,4,0,2052,1900,0.17 acres,Glens Falls,Partial
-City of Glens Falls,309.7-9-14,204,"Hoffman-Scranton, Ryan M",6 Wilmot St,"2022 - $192,800 2021 - $84,800",220,Old style,2,0,4,0,1832,1900,0.19 acres,Glens Falls,Full
-City of Glens Falls,309.7-11-8,204,"Kent, Philip",54 Orville St,"2022 - $210,700 2021 - $84,800",210,Old style,2,0,4,0,2062,1900,0.18 acres,Glens Falls,Full
-City of Glens Falls,309.7-11-24.1,204,"Signor, Colin",57 Montcalm St,"2022 - $157,700 2021 - $87,000",220,Old style,2,0,4,0,1702,1900,0.12 acres,Glens Falls,Partial
-City of Glens Falls,309.7-13-1,204,"Clark, Eileen",10 Mission St,"2022 - $171,900 2021 - $71,000",210,Old style,2,0,4,0,1768,1900,0.15 acres,Glens Falls,Full
-City of Glens Falls,309.7-14-11,204,"Barrow, Joseph P",37 New St,"2022 - $179,000 2021 - $94,500",220,Old style,2,0,5,0,1926,1889,0.18 acres,Glens Falls,Full
-City of Glens Falls,309.11-5-4,204,"Bienkowski, Stanley B",29 Staple St,"2022 - $203,000 2021 - $95,100",210,Old style,2,0,4,0,1685,1883,0.17 acres,Glens Falls,Partial
-City of Glens Falls,309.11-5-23,204,"Reed, Christopher",15 Staple St,"2022 - $167,300 2021 - $80,700",220,Old style,2,0,4,0,1794,1890,0.29 acres,Glens Falls,Full
-City of Glens Falls,309.11-6-2,204,"LaPhatt Holdings, Inc.",65 First St,"2022 - $181,900 2021 - $115,300",220,Colonial,2,2,4,0,1792,2015,0.15 acres,Glens Falls,Slab/pier
-City of Glens Falls,309.11-6-4,204,"Bazinet, William F",61 First St,"2022 - $194,000 2021 - $86,500",210,Old style,2,0,4,0,1626,1925,0.16 acres,Glens Falls,Full
-City of Glens Falls,309.11-6-12,204,LINY 27 LLC,45 First St,"2022 - $166,600 2021 - $92,500",220,Old style,2,0,4,0,1746,1910,0.21 acres,Glens Falls,Full
-City of Glens Falls,309.11-7-3,204,"Tucker, Heidi",7 Big Cross St,"2022 - $161,200 2021 - $86,500",220,Old style,2,0,4,0,2020,1850,0.19 acres,Glens Falls,Partial
-City of Glens Falls,309.11-7-13,204,M&K Home Renovations LLC,62 First St,"2022 - $62,700 2021 - $34,000",210,Old style,2,0,5,0,1741,1900,0.32 acres,Glens Falls,Full
-City of Glens Falls,309.11-9-17,204,"Nusskern, Ian A",79 Fourth St,"2022 - $204,800 2021 - $127,100",210,Raised ranch,2,0,4,1,1878,1970,0.26 acres,Glens Falls,Full
-City of Glens Falls,309.11-11-9,204,"Sanders, Kevin M",56 Third St,"2022 - $202,600 2021 - $125,000",210,Colonial,2,1,4,0,1904,1992,0.16 acres,Glens Falls,Full
-City of Glens Falls,309.11-12-4,204,"Aiken, Brian",60 Fourth St,"2022 - $236,700 2021 - $120,000",210,Old style,2,0,4,1,1691,1945,0.33 acres,Glens Falls,Full
-City of Glens Falls,309.11-12-12,204,"Wolfe, Kevin",84 Fourth St,"2022 - $181,100 2021 - $118,000",210,Cape cod,2,0,4,0,1889,1955,0.26 acres,Glens Falls,Full
-City of Glens Falls,309.11-12-17,204,"Deyoe, Kenneth",96 Fourth St,"2022 - $347,500 2021 - $172,000",210,Ranch,2,1,4,1,2154,1951,0.33 acres,Glens Falls,Full
-City of Glens Falls,309.11-12-19,204,"Smith, Susan J",89 Fifth St,"2022 - $301,300 2021 - $143,000",210,Ranch,2,1,5,0,1909,1961,0.42 acres,Glens Falls,Full
-City of Glens Falls,309.11-13-17,204,"Bass, Christina M",29 Fifth St,"2022 - $219,200 2021 - $109,000",210,Old style,2,1,4,0,1990,1912,0.16 acres,Glens Falls,Full
-City of Glens Falls,309.11-14-4,204,"Rivers, Craig A",71 Staple St,"2022 - $186,600 2021 - $90,300",220,Old style,2,0,4,0,1762,1850,0.26 acres,Glens Falls,Partial
-City of Glens Falls,309.12-1-6,204,"Gilligan, Joyce A",35 First St,"2022 - $155,600 2021 - $93,400",220,Old style,2,0,4,0,1981,1875,0.16 acres,Glens Falls,Partial
-City of Glens Falls,309.12-1-9,204,"Tabor, Myrna",29 First St,"2022 - $150,400 2021 - $78,800",220,Old style,2,0,4,0,1661,1920,0.16 acres,Glens Falls,Full
-City of Glens Falls,309.12-1-12,204,"Thompson, Shirley",23 First St,"2022 - $165,500 2021 - $78,000",220,Old style,2,0,5,0,1944,1897,0.16 acres,Glens Falls,Full
-City of Glens Falls,309.12-5-7,204,"LaPointe, Cindy J",10 Henry St,"2022 - $206,600 2021 - $86,000",210,Old style,2,0,5,0,1734,1850,0.19 acres,Glens Falls,Full
-City of Glens Falls,309.12-7-18,204,"Hopkins, Kenneth E",8 Big Cross St,"2022 - $175,900 2021 - $87,200",220,Old style,2,0,4,0,1962,1870,0.13 acres,Glens Falls,Full
-City of Glens Falls,309.12-8-6,204,"Bartlett, Fred",14 First St,"2022 - $143,700 2021 - $84,500",220,Old style,2,0,4,0,1697,1919,0.12 acres,Glens Falls,Full
-City of Glens Falls,309.12-8-7,204,"Thornquist, Kurtis J",16 First St,"2022 - $144,900 2021 - $72,200",220,Old style,2,0,4,0,1863,1930,0.12 acres,Glens Falls,Full
-City of Glens Falls,309.12-8-8,204,"Johnson, Joslyn",18 First St,"2022 - $114,300 2021 - $74,600",220,Old style,2,0,5,0,1624,1932,0.17 acres,Glens Falls,Full
-City of Glens Falls,309.12-8-15,204,"Matteson, Glenn D",13 Second St,"2022 - $143,100 2021 - $88,800",220,Old style,2,0,4,0,1712,1928,0.10 acres,Glens Falls,Full
-City of Glens Falls,309.12-9-7,204,"Black, Donald H Jr",157 South St,"2022 - $135,400 2021 - $80,200",220,Old style,2,0,4,0,1626,1919,0.13 acres,Glens Falls,Full
-City of Glens Falls,309.12-10-35,204,"Bapp, Sherry",19 Third St,"2022 - $156,800 2021 - $93,800",220,Old style,2,0,4,0,2099,1904,0.17 acres,Glens Falls,Full
-City of Glens Falls,309.12-11-12,204,"MacKenzie, John Jr",148 South St,"2022 - $134,700 2021 - $81,000",220,Old style,2,0,4,0,1845,1900,0.12 acres,Glens Falls,Full
-City of Glens Falls,309.12-11-14,204,"Higgins, Theresa L",154 South St,"2022 - $161,400 2021 - $91,000",220,Old style,2,0,4,0,2004,1810,0.41 acres,Glens Falls,Partial
-City of Glens Falls,309.12-11-17,204,"Bapp, James E",162 South St,"2022 - $161,300 2021 - $91,900",220,Old style,2,0,4,0,1916,1850,0.49 acres,Glens Falls,Full
-City of Glens Falls,309.12-11-29,204,LOMO Properties LLC,13 Woodlawn Ave,"2022 - $124,800 2021 - $77,800",220,Old style,2,0,4,0,1907,1900,0.13 acres,Glens Falls,Full
-City of Glens Falls,309.12-11-35,204,"Ientile, Arturu",180 South St,"2022 - $157,500 2021 - $84,400",220,Old style,2,0,5,0,2152,1870,0.18 acres,Glens Falls,0
-City of Glens Falls,309.12-11-52,204,"Lundgren, Scott",200 South St,"2022 - $150,100 2021 - $85,200",220,Old style,2,0,4,0,2098,1890,0.31 acres,Glens Falls,Full
-City of Glens Falls,309.12-11-56,204,"Eulian, Joseph F",208 South St,"2022 - $154,200 2021 - $74,300",220,Old style,2,0,4,0,2076,1911,0.41 acres,Glens Falls,Full
-City of Glens Falls,309.12-12-31,204,"Breault, Amy A",26 Henry St,"2022 - $194,600 2021 - $117,450",210,Raised ranch,2,0,4,0,1824,2009,0.16 acres,Glens Falls,Full
-City of Glens Falls,309.12-13-2,204,"Li, Enci",193 South St,"2022 - $134,400 2021 - $89,700",220,Old style,2,0,4,0,1728,1900,0.18 acres,Glens Falls,Full
-City of Glens Falls,309.12-13-21,204,Resurrection Properties Inc,23 Fourth St,"2022 - $125,000 2021 - $68,500",220,Old style,2,0,4,0,1629,1940,0.14 acres,Glens Falls,Full
-City of Glens Falls,309.12-13-26,204,"Mignot, Anthony",13 Fourth St,"2022 - $202,300 2021 - $98,400",210,Old style,2,0,4,0,2020,1912,0.19 acres,Glens Falls,Full
-City of Glens Falls,309.12-13-28,204,"Eddy, William",9 Fourth St,"2022 - $204,400 2021 - $106,000",210,Old style,2,1,4,0,1856,1910,0.19 acres,Glens Falls,Full
-City of Glens Falls,309.12-13-31,204,"Bardsley, Russel R",5 Fourth St,"2022 - $197,900 2021 - $86,500",210,Old style,2,0,4,0,1900,1920,0.17 acres,Glens Falls,Partial
-City of Glens Falls,309.12-14-1,204,"Bly, Jason",211 South St,"2022 - $151,100 2021 - $125,000",220,Old style,2,0,5,0,1768,1925,0.29 acres,Glens Falls,Partial
-City of Glens Falls,309.15-4-5,202,"Anderson, Eric",35 Haviland Ave,"2022 - $160,600 2021 - $107,900",220,Old style,2,0,4,0,1740,1900,0.52 acres,Glens Falls,Partial
-City of Glens Falls,309.15-4-8,202,"Charpentier, Patrick J",27 Haviland Ave,"2022 - $174,300 2021 - $108,600",210,Old style,2,0,4,0,1608,1920,0.24 acres,Glens Falls,Full
-City of Glens Falls,309.15-4-10,202,Dion Rental Properties LLC,23 Haviland Ave,"2022 - $206,000 2021 - $135,000",220,Old style,2,0,4,0,2102,1930,0.58 acres,Glens Falls,Partial
-City of Glens Falls,309.15-4-11,202,"McKenna, Jeffrey",15 Haviland Ave,"2022 - $197,400 2021 - $115,000",210,Old style,2,0,4,0,1824,1870,0.35 acres,Glens Falls,Full
-City of Glens Falls,309.15-4-29,202,"Timay, Robert P",7 Kidder Ln,"2022 - $226,200 2021 - $165,100",210,Cape cod,2,0,4,0,1752,1996,0.40 acres,Glens Falls,Full
-City of Glens Falls,309.15-10-9,202,"Lafayette, Serena M",9 Dudley St,"2022 - $136,200 2021 - $89,200",220,Old style,2,0,4,0,1774,1930,0.11 acres,Glens Falls,Full
-City of Glens Falls,309.15-11-8,202,"Shields, Elaine",33 W Boylston St,"2022 - $235,300 2021 - $109,200",210,Raised ranch,2,0,4,1,1900,1975,0.18 acres,Glens Falls,Full
-City of Glens Falls,309.16-2-3,204,"Fuller, Adrienne M",2 Knight St,"2022 - $163,500 2021 - $97,600",220,Old style,2,0,4,0,2069,1920,0.17 acres,Glens Falls,Full
-City of Glens Falls,309.16-3-6.2,204,"Colvin, Donna E",21 Water St,"2022 - $231,700 2021 - $143,000",210,Raised ranch,2,0,4,0,2020,1998,0.29 acres,Glens Falls,Full
-City of Glens Falls,309.16-4-6,204,"Blaise, Christopher",43 Water St,"2022 - $167,300 2021 - $121,700",210,Raised ranch,2,0,4,0,1700,1993,0.32 acres,Glens Falls,Full
-City of Glens Falls,309.16-5-11,202,"Flower Irrevocable Trust, Elaine L",16 Woodard St,"2022 - $203,100 2021 - $104,800",210,Old style,2,0,4,0,1828,1940,0.25 acres,Glens Falls,Full
-City of Glens Falls,309.16-7-2.2,206,"Blohm, Gordon E",8 Faxon St,"2022 - $213,300 2021 - $121,200",210,Raised ranch,2,0,4,0,1942,1996,0.17 acres,Glens Falls,Full
-City of Glens Falls,309.16-7-3.1,206,"Wright, Justin P",12 Faxon St,"2022 - $221,800 2021 - $114,500",210,Raised ranch,2,0,4,0,1890,1996,0.17 acres,Glens Falls,Full
-City of Glens Falls,309.16-11-9,206,"Lebowitz, Gavin G",6 E Beacon St,"2022 - $200,600 2021 - $122,000",210,Raised ranch,2,0,4,1,1692,1990,0.22 acres,Glens Falls,Full
-City of Glens Falls,309.16-11-14,206,"Vincent, Michael A",26 E Beacon St,"2022 - $289,000 2021 - $158,900",220,Ranch,2,0,4,0,2136,1987,0.46 acres,Glens Falls,Full
-City of Glens Falls,309.16-16-5,206,"White, William J Jr.",10 W Tremont St,"2022 - $244,500 2021 - $144,600",210,Raised ranch,2,0,4,0,2108,2007,0.23 acres,Glens Falls,Full
-City of Glens Falls,309.19-4-5,202,"Roesch, Paul",21 Thornberry Dr,"2022 - $225,700 2021 - $105,600",210,Raised ranch,2,0,5,0,1680,1964,0.26 acres,Glens Falls,Full
-City of Glens Falls,309.19-6-14,202,"Dwyre, Kevin A",16 Towpath Ln,"2022 - $226,700 2021 - $140,200",210,Cape cod,2,0,4,1,1638,1988,0.23 acres,Glens Falls,Full
-City of Glens Falls,309.27-1-1,204,"Geroux, Heidi A",38 Crandall St,"2022 - $164,800 2021 - $83,000",210,Old style,2,0,4,0,1766,1902,0.11 acres,Glens Falls,Full
-City of Glens Falls,309.27-1-13,204,Cutshall-King Family Trust,20 Elizabeth St,"2022 - $201,000 2021 - $91,100",220,Old style,2,1,5,0,1867,1915,0.17 acres,Glens Falls,Full
-City of Glens Falls,309.27-1-21,204,"Stroffolino, Jacqueline",25 Orville St,"2022 - $150,200 2021 - $105,000",210,Old style,2,0,5,0,1606,1900,0.10 acres,Glens Falls,Full
-City of Glens Falls,309.27-2-7,204,CAM FUND 2018-1 LLC,36 Crandall St,"2022 - $176,400 2021 - $83,400",220,Old style,2,0,4,0,1925,1900,0.15 acres,Glens Falls,Full
-City of Glens Falls,309.27-2-8,204,"Twardy, Matthew E",22 Orville St,"2022 - $168,800 2021 - $82,000",220,Old style,2,0,4,0,1880,1890,0.12 acres,Glens Falls,Full
-City of Glens Falls,309.27-2-14,204,"Loeb, William A",34 Orville St,"2022 - $192,200 2021 - $102,500",210,Old style,2,0,4,0,1677,1900,0.17 acres,Glens Falls,Full
-City of Glens Falls,309.27-5-3,204,"Neely, Bethany L",6 Ormond St,"2022 - $238,300 2021 - $104,000",210,Ranch,2,0,4,1,1654,1951,0.19 acres,Glens Falls,Full
-City of Glens Falls,309.27-6-3,204,"Rozell, Gary L",73 Broad St,"2022 - $174,800 2021 - $136,900",210,Old style,2,0,5,0,1959,1916,1.10 acres,Glens Falls,Full
-City of Glens Falls,309.27-6-9,204,"Mejo, Maureen D",4 N Delaware St,"2022 - $141,600 2021 - $69,000",220,Old style,2,0,4,0,1605,1924,0.08 acres,Glens Falls,Partial
-City of Glens Falls,309.27-6-17,204,Glens Falls Holdings LLC,4 Cottage Pl,"2022 - $154,300 2021 - $83,600",220,Old style,2,0,4,0,1752,1919,0.06 acres,Glens Falls,Full
-City of Glens Falls,309.27-6-21,204,"Metzger, Michael J",14 Crandall St,"2022 - $164,600 2021 - $99,000",220,Old style,2,0,4,0,1857,1919,0.08 acres,Glens Falls,Partial
-City of Glens Falls,309.27-6-26,204,"People: Projects to Empower &, Organize the Psychia",6 Montcalm St,"2022 - $176,200 2021 - $77,200",210,Old style,2,0,4,1,1612,1840,0.15 acres,Glens Falls,Partial
-City of Glens Falls,309.27-6-38,204,A & K Capital Properties LLC,32 Montcalm St,"2022 - $132,300 2021 - $78,600",220,Old style,2,0,4,0,1856,1919,0.18 acres,Glens Falls,Full
-City of Glens Falls,309.27-6-45,204,"Hart, Shawna W",46 Montcalm St,"2022 - $150,700 2021 - $92,600",220,Old style,2,0,4,0,1776,1921,0.04 acres,Glens Falls,Full
-City of Glens Falls,309.27-6-47,204,"Serradimigni, Alina",13 Mission St,"2022 - $159,700 2021 - $76,500",220,Old style,2,0,5,0,1808,1921,0.10 acres,Glens Falls,Full
-City of Glens Falls,309.28-5-8,204,91 South Street Corp.,7 New Pruyn St,"2022 - $84,400 2021 - $72,100",220,Old style,2,0,4,0,1620,1910,0.05 acres,Glens Falls,Partial
-City of Glens Falls,309.28-9-4,204,USP Residential LLC,14 New Pruyn St,"2022 - $151,100 2021 - $94,000",220,Old style,2,0,5,0,1796,1900,0.15 acres,Glens Falls,Full
-City of Glens Falls,309.28-9-5,204,"Askew, Lois",28 Broad St,"2022 - $164,700 2021 - $79,000",220,Old style,2,0,5,0,1844,1900,0.15 acres,Glens Falls,Full
-City of Glens Falls,309.35-1-2,204,"Scuri, Marie",99 Broad St,"2022 - $188,800 2021 - $106,400",220,Old style,2,1,4,0,2080,1923,0.12 acres,Glens Falls,Full
-City of Glens Falls,309.35-1-13,204,"Hoffer, Kristopher J",5 Mission St,"2022 - $170,100 2021 - $105,000",220,Old style,2,0,4,0,1638,1891,0.14 acres,Glens Falls,Partial
-City of Glens Falls,309.35-1-14,204,"Weber, Mary",1 Mission St,"2022 - $165,700 2021 - $87,000",220,Old style,2,0,4,0,1944,1882,0.09 acres,Glens Falls,Full
-City of Glens Falls,309.35-5-1,204,"Steans, Charity",141 South St,"2022 - $201,000 2021 - $86,200",210,Old style,2,0,4,0,1820,1900,0.24 acres,Glens Falls,Partial
-City of Glens Falls,309.36-3-4,204,"Viele, Edward",19 Basin St,"2022 - $174,800 2021 - $85,000",220,Old style,2,0,4,0,2066,1900,0.47 acres,Glens Falls,Partial
-City of Glens Falls,309.36-3-6,204,Move Acreage NY LLC,52 Mohican St,"2022 - $145,800 2021 - $78,600",220,Old style,2,0,4,0,1668,1910,0.19 acres,Glens Falls,Full
-City of Glens Falls,303.18-15-4.1,201,O'B Property Holdings LLC,9 Haskell Ave,"2022 - $172,700 2021 - $81,100",220,Old style,2,0,4,0,2032,1900,0.14 acres,Glens Falls Common,Full
-City of Glens Falls,309.15-14-3.2,206,"Barbieri, John L Jr",26 W Tremont St,"2022 - $206,600 2021 - $140,200",210,Raised ranch,2,0,4,1,1716,2004,0.17 acres,Glens Falls,Full
-City of Glens Falls,302.16-19-2.3,204,LaPhatt Holding Inc,5 Washburn Ave,"2022 - $157,400 2021 - $115,000",220,Duplex,2,2,4,0,1792,2011,0.19 acres,Glens Falls,Full
-City of Glens Falls,302.16-19-2.4,204,LaPhatt Holdings Inc,7 Washburn Ave,"2022 - $175,800 2021 - $115,000",220,Duplex,2,2,4,0,1792,2011,0.19 acres,Glens Falls,Full
-City of Glens Falls,303.18-11-14.3,201,Girard & Girard Properties LLC,20 McDonald St,"2022 - $127,000 2021 - $81,000",220,Old style,2,0,4,0,1837,1920,0.08 acres,Glens Falls Common,Full
-City of Glens Falls,303.13-3-10.1,202,"TayloMall, Susan G",47 Sagamore St,"2022 - $211,500 2021 - $103,100",210,Old style,2,0,4,0,1750,1940,0.19 acres,Glens Falls,Full
-City of Glens Falls,303.18-4-19.1,201,"May, Franklin C",51 Peck Ave,"2022 - $192,400 2021 - $105,800",210,Old style,2,0,5,0,1913,1900,0.14 acres,Glens Falls Common,Full
+City of Glens Falls,302.11-3-2,00203,Thomas M Jacobs Family Trust,8 North Rd,"2022 - $297,900 2021 - $181,000",210,Colonial,2,1,4,1,"2,073",1945,0.24acres,Glens Falls,Full
+City of Glens Falls,302.11-8-1,00202,DeDell Fam Irrev Inc Only Trst,42 Monument Ave,"2022 - $266,300 2021 - $177,300",210,Split level,2,0,4,1,"1,939",1966,0.36acres,Glens Falls,Partial
+City of Glens Falls,302.11-8-24,00202,"Rittenhouse, Andrew L",20 Lake Ave,"2022 - $294,200 2021 - $189,500",210,Colonial,2,1,4,1,"2,160",1935,0.20acres,Glens Falls,Full
+City of Glens Falls,302.12-3-9,00203,"Wolfe, Lauren E",56 MacArthur Dr,"2022 - $207,500 2021 - $120,200",210,Cape cod,2,0,4,0,"1,638",1965,0.29acres,Glens Falls,Full
+City of Glens Falls,302.12-3-12,00203,"Starratt, Gregory A",229 Bay St,"2022 - $176,000 2021 - $90,300",220,Old style,2,0,4,0,"2,090",1910,0.34acres,Glens Falls,Full
+City of Glens Falls,302.12-3-24,00203,"Veysey, Vicki D",61 MacArthur Dr,"2022 - $273,200 2021 - $133,200",210,Cape cod,2,1,4,1,"1,842",1978,0.78acres,Glens Falls,Full
+City of Glens Falls,302.12-7-15,00202,"Toomey, Elizabeth A",215 Bay St,"2022 - $150,200 2021 - $84,900",220,Old style,2,0,4,0,"1,632",1910,0.17acres,Glens Falls,Full
+City of Glens Falls,302.12-7-21,00202,"Weinberger, Jordan A",20 Terra Cotta Ave,"2022 - $180,800 2021 - $92,500",220,Old style,2,0,4,0,"1,744",1900,0.24acres,Glens Falls,Full
+City of Glens Falls,302.12-7-25,00202,"Parsons-St.Clair, Gail",30 Terra Cotta Ave,"2022 - $150,500 2021 - $92,500",220,Old style,2,0,5,0,"2,036",1900,0.24acres,Glens Falls,Full
+City of Glens Falls,302.12-10-8,00202,"Rawson, Robin C",19 Terra Cotta Ave,"2022 - $202,300 2021 - $96,900",210,Old style,2,0,4,0,"1,664",1900,0.12acres,Glens Falls,Full
+City of Glens Falls,302.12-10-16,00202,"Dygert, Robin A",209 Bay St,"2022 - $168,300 2021 - $97,500",220,Old style,2,0,4,0,"1,858",1900,0.15acres,Glens Falls,Full
+City of Glens Falls,302.12-10-17,00202,"Beckem, John M II",207 Bay St,"2022 - $176,300 2021 - $96,700",220,Old style,2,0,5,0,"2,050",1900,0.15acres,Glens Falls,Full
+City of Glens Falls,302.12-11-6,00202,"Durniak, Timothy",56 Lexington Ave,"2022 - $250,700 2021 - $141,500",210,Colonial,2,1,4,1,"1,625",2007,0.16acres,Glens Falls,Full
+City of Glens Falls,302.12-13-22,00202,Herlihy Irrevocable Trust,27 Lexington Ave,"2022 - $317,700 2021 - $166,300",210,Colonial,2,1,4,1,"1,940",1973,0.52acres,Glens Falls,Full
+City of Glens Falls,302.12-13-25,00202,"Reid, Catherine",21 Lexington Ave,"2022 - $262,300 2021 - $146,000",210,Cape cod,2,0,4,0,"1,916",1935,0.41acres,Glens Falls,Full
+City of Glens Falls,302.12-13-39,00202,"Deppe, Alan",14 Baldwin Ave,"2022 - $155,300 2021 - $91,200",220,Old style,2,0,4,0,"1,876",1910,0.13acres,Glens Falls,Full
+City of Glens Falls,302.12-13-41,00202,"Milligan, Gregory R",20 Baldwin Ave,"2022 - $159,100 2021 - $91,700",220,Old style,2,0,4,0,"1,874",1920,0.16acres,Glens Falls,Full
+City of Glens Falls,302.12-13-52,00202,"Endieveri, Frank J Jr",42 Baldwin Ave,"2022 - $159,000 2021 - $95,000",220,Old style,2,0,5,0,"1,763",1900,0.13acres,Glens Falls,Full
+City of Glens Falls,302.12-13-53,00202,Kyle I LLC,44 Baldwin Ave,"2022 - $147,800 2021 - $90,300",220,Old style,2,0,4,0,"1,952",1900,0.13acres,Glens Falls,Full
+City of Glens Falls,302.12-13-56,00202,"Brown, Syliva T",50 Baldwin Ave,"2022 - $284,000 2021 - $141,500",210,Cape cod,2,0,5,1,"1,912",1948,0.41acres,Glens Falls,Full
+City of Glens Falls,302.12-15-6,00202,"Smith, Terrance J",272 Ridge St,"2022 - $236,100 2021 - $122,000",210,Old style,2,0,4,1,"1,679",1928,0.23acres,Glens Falls,Full
+City of Glens Falls,302.12-16-12,00202,"Linehan, Joseph E",12 Mason St,"2022 - $154,200 2021 - $88,400",220,Old style,2,0,4,0,"1,674",1900,0.17acres,Glens Falls,Full
+City of Glens Falls,302.12-16-24,00202,"Filion, Paul R",36 Mason St,"2022 - $156,300 2021 - $87,800",220,Old style,2,0,5,0,"1,768",1920,0.11acres,Glens Falls,Full
+City of Glens Falls,302.12-16-31,00202,"Wernau, Walter J Jr",50 Mason St,"2022 - $216,500 2021 - $113,000",210,Old style,2,0,4,1,"1,898",1920,0.16acres,Glens Falls,Full
+City of Glens Falls,302.12-16-32,00202,"Warner, Dorcas McMorris",52 Mason St,"2022 - $205,200 2021 - $111,200",210,Old style,2,0,4,1,"1,606",1929,0.14acres,Glens Falls,Full
+City of Glens Falls,302.12-17-10,00203,"Sabo Rev. Living Trust, Kimberly A",73 Webster Ave,"2022 - $237,400 2021 - $149,000",210,Cape cod,2,0,4,1,"1,831",1948,0.26acres,Glens Falls,Partial
+City of Glens Falls,302.12-18-10,00202,"Coon, Warren C",179 Bay St,"2022 - $168,500 2021 - $87,400",220,Old style,2,0,4,0,"2,040",1900,0.15acres,Glens Falls,Full
+City of Glens Falls,302.12-18-15,00202,"Reynolds, Phillip",10 Sarella St,"2022 - $186,000 2021 - $107,200",210,Old style,2,0,4,1,"1,672",1929,0.17acres,Glens Falls,Full
+City of Glens Falls,302.12-19-9,00202,"Smotzer, Gregory M",13-15 Stoddard Ave,"2022 - $165,700 2021 - $92,200",220,Old style,2,0,5,0,"1,784",1900,0.25acres,Glens Falls,Full
+City of Glens Falls,302.12-20-7,00202,"Hall, Nicholas",20 Kenworthy Ave,"2022 - $164,300 2021 - $88,800",220,Old style,2,0,4,0,"2,138",1900,0.12acres,Glens Falls,Full
+City of Glens Falls,302.12-21-1,00204,"Nasr, Kathryn F",94 Sanford St,"2022 - $185,700 2021 - $98,000",210,Old style,2,0,5,0,"1,626",1900,0.12acres,Glens Falls,Full
+City of Glens Falls,302.12-21-2,00202,"Fidopiastis, Michael P",6 Murdock Ave,"2022 - $131,400 2021 - $86,500",220,Old style,2,0,4,0,"1,832",1900,0.10acres,Glens Falls,Full
+City of Glens Falls,302.12-21-12,00202,"Atherton-Ely, James",23 Kenworthy Ave,"2022 - $153,400 2021 - $83,900",220,Old style,2,0,5,0,"2,124",1900,0.09acres,Glens Falls,Full
+City of Glens Falls,302.12-21-13,00202,KTSA-59 East 80th LLC,21 Kenworthy Ave,"2022 - $156,800 2021 - $90,600",220,Old style,2,0,4,0,"2,124",1900,0.09acres,Glens Falls,Full
+City of Glens Falls,302.12-21-18,00202,"Nusca, Erik R",11 Kenworthy Ave,"2022 - $131,900 2021 - $104,800",220,Old style,2,0,4,0,"1,855",1922,0.09acres,Glens Falls,Full
+City of Glens Falls,302.12-24-11,00204,"DLA Properties, LLC",112 Sanford St,"2022 - $198,400 2021 - $98,500",220,Old style,2,0,4,0,"2,072",1920,0.14acres,Glens Falls,Full
+City of Glens Falls,302.12-25-10,00202,Anushka Leszcynski Irr. Trust,18 Cameron Ave,"2022 - $151,300 2021 - $79,000",220,Old style,2,0,4,0,"1,707",1910,0.09acres,Glens Falls,Full
+City of Glens Falls,302.12-26-13,00202,"Gardner, Emily L",10 John St,"2022 - $195,600 2021 - $135,000",210,Old style,2,1,4,0,"1,838",1889,0.24acres,Glens Falls,Full
+City of Glens Falls,302.12-26-16,00202,"Courtney, Gloria J",16 John St,"2022 - $136,000 2021 - $96,200",220,Old style,2,0,4,0,"1,912",1900,0.10acres,Glens Falls,Full
+City of Glens Falls,302.12-27-1,00204,"White, Lucy H",224 Ridge St,"2022 - $257,800 2021 - $134,700",210,Old style,2,1,4,0,"2,052",1910,0.12acres,Glens Falls,Full
+City of Glens Falls,302.12-27-3,00204,"Moon, Jennifer A",228 Ridge St,"2022 - $204,000 2021 - $128,500",210,Old style,2,0,4,0,"1,960",1900,0.19acres,Glens Falls,Full
+City of Glens Falls,302.12-27-4,00204,"Landry, Keith G",230 Ridge St,"2022 - $195,200 2021 - $101,700",210,Old style,2,0,4,0,"1,744",1902,0.18acres,Glens Falls,Full
+City of Glens Falls,302.12-27-11,00204,"Ryzuk Jr, Thomas J",115 Sanford St,"2022 - $189,300 2021 - $108,800",220,Old style,2,0,4,0,"1,752",1930,0.19acres,Glens Falls,Full
+City of Glens Falls,302.12-27-20,00204,"Bobick, Joel",15 Hoyt Ave,"2022 - $200,800 2021 - $105,600",220,Old style,2,1,4,0,"2,112",1920,0.16acres,Glens Falls,Full
+City of Glens Falls,302.12-27-25,00204,"McLaughlin, Gary E",5 Hoyt Ave,"2022 - $177,200 2021 - $100,800",220,Old style,2,0,4,0,"1,902",1930,0.13acres,Glens Falls,Full
+City of Glens Falls,302.15-2-15,00202,"Weisfeld, Miriam Beth",8 Bowman Ave,"2022 - $286,500 2021 - $167,000",210,Old style,2,0,4,0,"1,959",1870,0.25acres,Glens Falls,Full
+City of Glens Falls,302.15-3-10,00202,"Beckem, John M III",541 Glen St,"2022 - $118,500 2021 - $95,250",210,Colonial,2,1,4,0,"1,852",1929,0.14acres,Glens Falls,Full
+City of Glens Falls,302.15-5-11,00205,"Higgins, April L",43 Horicon Ave,"2022 - $253,400 2021 - $177,200",210,Colonial,2,1,4,1,"2,140",1926,0.30acres,Glens Falls,Full
+City of Glens Falls,302.15-8-1,00202,"Williford, Kristin",2 Philo Ave,"2022 - $231,200 2021 - $122,500",210,Old style,2,0,4,1,"1,750",1930,0.16acres,Glens Falls,Full
+City of Glens Falls,302.15-10-1,00205,"Fuller, Cullen G",12 Kensington Rd,"2022 - $312,200 2021 - $147,600",210,Old style,2,0,5,1,"2,107",1920,0.23acres,Glens Falls,Full
+Municipality,Tax ID,Neighborhood Code,Owner Name,Street Address,Total Assessment,Site Prop. Class,Bldg Style,Baths,HalfBaths,Beds,Fireplaces,Living Area (sq ft),Year Built,Size,School District,Basement Type
+City of Glens Falls,302.15-11-2,00205,"Globerson, Jenny Lee",32 Coolidge Ave,"2022 - $302,500 2021 - $139,200",210,Old style,2,0,4,1,"2,080",1905,0.13acres,Glens Falls,Full
+City of Glens Falls,302.15-11-15,00205,"Gasperetti, Emily M",35 Lincoln Ave,"2022 - $269,100 2021 - $150,000",210,Old style,2,0,4,0,"1,751",1915,0.14acres,Glens Falls,Full
+City of Glens Falls,302.15-12-7,00205,Salvation Army,4 Coolidge Ave,"2022 - $239,800 2021 - $148,600",210,Colonial,2,1,4,0,"2,062",1910,0.18acres,Glens Falls,Full
+City of Glens Falls,302.15-12-20,00205,"Mattison, Molly M",31 Lincoln Ave,"2022 - $270,300 2021 - $176,600",210,Old style,2,1,4,0,"1,778",1911,0.14acres,Glens Falls,Full
+City of Glens Falls,302.15-12-21,00205,"Bombard, Brian",29 Lincoln Ave,"2022 - $293,700 2021 - $168,000",210,Old style,2,0,4,1,"1,970",1910,0.15acres,Glens Falls,Full
+City of Glens Falls,302.15-14-7,00205,"Havens, Genevieve",4 Lincoln Ave,"2022 - $259,600 2021 - $145,400",210,Old style,2,0,4,0,"2,045",1940,0.18acres,Glens Falls,Full
+City of Glens Falls,302.15-14-19,00205,"Forbes, William R Jr",27 Davis St,"2022 - $277,300 2021 - $90,500",210,Old style,2,1,5,0,"2,160",1900,0.17acres,Glens Falls,Full
+City of Glens Falls,302.16-1-3,00202,"Welch, Fannie P",22 Thomson Ave,"2022 - $154,100 2021 - $80,100",220,Old style,2,1,4,0,"1,662",1900,0.25acres,Glens Falls,Partial
+City of Glens Falls,302.16-1-8,00202,"Greco, Dustin T",30  Thomson Ave,"2022 - $179,300 2021 - $79,100",220,Old style,2,0,4,0,"2,136",1929,0.15acres,Glens Falls,Full
+City of Glens Falls,302.16-3-2,00202,"Lewis, Brian E Jr",22 Logan Ave,"2022 - $133,800 2021 - $62,000",220,Old style,2,0,4,0,"1,744",1900,0.07acres,Glens Falls,Full
+City of Glens Falls,302.16-4-2,00202,Plotnic LLC,6 Ogden St,"2022 - $147,800 2021 - $108,400",220,Old style,2,0,4,0,"1,672",1900,0.11acres,Glens Falls,Full
+City of Glens Falls,302.16-4-11,00202,"Trackey, David N",24 Ogden St,"2022 - $180,000 2021 - $81,400",210,Old style,2,0,4,1,"1,742",1900,0.20acres,Glens Falls,Full
+City of Glens Falls,302.16-4-17,00202,"Hummel, Matthew N",31 Thomson Ave,"2022 - $137,800 2021 - $86,600",220,Old style,2,0,4,0,"1,748",1900,0.11acres,Glens Falls,Full
+City of Glens Falls,302.16-4-20,00202,"Myette, Richard Lee",23 Logan Ave,"2022 - $146,900 2021 - $87,800",220,Old style,2,0,4,0,"2,002",1896,0.10acres,Glens Falls,Full
+City of Glens Falls,302.16-5-8,00202,"Ash, Todd M",20 Smith St,"2022 - $212,600 2021 - $91,100",210,Old style,2,0,4,0,"1,898",1900,0.14acres,Glens Falls,Full
+City of Glens Falls,302.16-5-11,00202,"Reed, John P",26 Smith St,"2022 - $168,100 2021 - $112,950",210,Old style,2,0,4,0,"1,600",1890,0.20acres,Glens Falls,Full
+City of Glens Falls,302.16-5-13,00202,"Whiteny, Kevin",30 Smith St,"2022 - $176,100 2021 - $92,000",220,Old style,2,0,4,0,"2,142",1899,0.17acres,Glens Falls,Full
+City of Glens Falls,302.16-5-14,00202,"Wilson, Jonathan",35 Ogden St,"2022 - $109,300 2021 - $70,200",220,Old style,2,0,4,0,"1,800",1920,0.14acres,Glens Falls,Full
+City of Glens Falls,302.16-5-24,00202,"Hawkins, Michael S",15 Ogden St,"2022 - $145,000 2021 - $132,000",220,Old style,2,0,4,0,"1,966",1920,0.15acres,Glens Falls,Full
+City of Glens Falls,302.16-5-27,00202,9 Odgen Street Corp.,9 Ogden St,"2022 - $157,200 2021 - $79,600",220,Old style,2,0,4,0,"2,084",1900,0.14acres,Glens Falls,Crawl
+City of Glens Falls,302.16-5-30,00204,"Brannigan, Gerda",34 Sanford St,"2022 - $222,500 2021 - $83,300",210,Old style,2,0,5,0,"2,096",1920,0.14acres,Glens Falls,Full
+City of Glens Falls,302.16-6-3,00202,Moreau Rentals LLC,156 Bay St,"2022 - $166,600 2021 - $111,000",220,Old style,2,0,4,0,"2,016",1950,0.21acres,Glens Falls,0
+City of Glens Falls,302.16-6-14,00202,"Engwer, patricia E",29 Smith St,"2022 - $170,900 2021 - $92,800",220,Old style,2,0,5,0,"2,090",1890,0.13acres,Glens Falls,Full
+City of Glens Falls,302.16-7-3,00202,"Powers, F David",9 John St,"2022 - $190,000 2021 - $81,000",210,Old style,2,0,5,0,"2,055",1920,0.15acres,Glens Falls,Full
+City of Glens Falls,302.16-7-14,00204,KD-Little Trust,76 Sanford St,"2022 - $231,000 2021 - $118,700",210,Old style,2,0,4,1,"1,800",1925,0.17acres,Glens Falls,Full
+City of Glens Falls,302.16-8-8,00204,"Healey, Stephanie",86 Sanford St,"2022 - $178,000 2021 - $96,400",210,Old style,2,0,4,0,"1,963",1922,0.11acres,Glens Falls,Full
+City of Glens Falls,302.16-8-9,00204,"Churchill, Ryan K",88 Sanford St,"2022 - $179,400 2021 - $83,300",220,Old style,2,0,4,0,"1,948",1900,0.10acres,Glens Falls,Full
+City of Glens Falls,302.16-10-3,00204,"Mulcahy, John T Jr",7 Monroe St,"2022 - $167,700 2021 - $107,600",220,Old style,2,0,4,0,"1,929",1925,0.17acres,Glens Falls,Full
+City of Glens Falls,302.16-10-5,00204,"Monda, Rolland A",3 Monroe St,"2022 - $179,800 2021 - $99,600",220,Old style,2,0,4,0,"2,012",1925,0.18acres,Glens Falls,Full
+City of Glens Falls,302.16-10-10,00204,"Rottenstreich, Naftali",12 Jefferson St,"2022 - $211,200 2021 - $94,700",210,Old style,2,1,4,1,"1,958",1920,0.17acres,Glens Falls,Full
+City of Glens Falls,302.16-11-5,00204,"Lopez, Joshua M",26 Gage Ave,"2022 - $183,500 2021 - $97,300",220,Old style,2,0,4,1,"1,711",1830,0.16acres,Glens Falls,Partial
+City of Glens Falls,302.16-11-20,00204,"Vamvalis, Laura A",8 Monroe St,"2022 - $188,500 2021 - $98,000",220,Old style,2,0,4,0,"1,968",1900,0.14acres,Glens Falls,Full
+City of Glens Falls,302.16-11-21,00204,"Mulcahy, John T Jr",10 Monroe St,"2022 - $167,900 2021 - $91,700",210,Old style,2,0,4,0,"2,012",1900,0.14acres,Glens Falls,Full
+City of Glens Falls,302.16-11-24,00204,"Prouty, Kim M",16 Monroe St,"2022 - $184,900 2021 - $101,800",220,Old style,2,0,5,0,"1,722",1888,0.19acres,Glens Falls,Full
+City of Glens Falls,302.16-11-37,00204,"Constantine, Dawn",8 Chester St,"2022 - $184,600 2021 - $101,900",220,Old style,2,0,5,0,"2,099",1900,0.22acres,Glens Falls,Full
+City of Glens Falls,302.16-11-39,00204,"Hunter, Tammy L",12 Chester St,"2022 - $196,500 2021 - $83,000",210,Old style,2,0,4,0,"1,715",1895,0.23acres,Glens Falls,Full
+City of Glens Falls,302.16-11-40,00204,Arturo Northway LLC,14 Chester St,"2022 - $184,200 2021 - $96,700",220,Old style,2,0,5,0,"1,880",1890,0.20acres,Glens Falls,Full
+City of Glens Falls,302.16-11-42,00204,"Sharpe, Thomas",18 Chester St,"2022 - $192,300 2021 - $94,500",220,Old style,2,0,4,0,"2,091",1900,0.23acres,Glens Falls,Full
+City of Glens Falls,302.16-11-45,00204,"Gherasim Mic Living Trust, Filip & Lidia",28 Chester St,"2022 - $174,300 2021 - $85,100",220,Old style,2,0,4,0,"1,846",1900,0.13acres,Glens Falls,Full
+City of Glens Falls,302.16-12-12,00204,"Hartung, Bernd D",136 Bay St,"2022 - $206,600 2021 - $108,900",220,Old style,2,0,4,0,"1,840",1881,0.34acres,Glens Falls,Full
+City of Glens Falls,302.16-12-21,00204,"Bobick, Joel",43 Sanford St,"2022 - $130,000 2021 - $85,000",220,Old style,2,0,4,0,"1,970",1913,0.11acres,Glens Falls,Full
+City of Glens Falls,302.16-12-30,00204,"Casey, William J",23 Gage Ave,"2022 - $180,700 2021 - $63,000",220,Old style,2,0,4,0,"1,750",1875,0.13acres,Glens Falls,Partial
+City of Glens Falls,302.16-12-31,00204,"Terrelonge, Fitzroy A",21 Gage Ave,"2022 - $170,800 2021 - $97,500",220,Old style,2,0,4,0,"1,881",1900,0.11acres,Glens Falls,Full
+City of Glens Falls,302.16-12-40,00204,"Crannell, Mark A",38 Chester St,"2022 - $115,000 2021 - $75,900",220,Old style,2,0,4,0,"1,676",1920,0.18acres,Glens Falls,Full
+City of Glens Falls,302.16-13-1,00204,"Alberico, Thomas H",24 Vanderheyden St,"2022 - $181,800 2021 - $92,000",220,Old style,2,0,4,0,"2,160",1930,0.09acres,Glens Falls,Full
+City of Glens Falls,302.16-13-27,00204,"Mcvey, Henry",8 Hunter St,"2022 - $178,800 2021 - $110,900",210,Old style,2,0,4,0,"1,668",1876,0.13acres,Glens Falls,Partial
+City of Glens Falls,302.16-13-30,00204,"Yrsha, Mark",14 Hunter St,"2022 - $193,000 2021 - $91,400",220,Old style,2,0,4,0,"1,751",1910,0.18acres,Glens Falls,Partial
+City of Glens Falls,302.16-13-35,00204,"West-Hannigan, Mary E",26 Hunter St,"2022 - $208,900 2021 - $88,800",220,Old style,2,0,4,0,"1,946",1890,0.22acres,Glens Falls,Full
+City of Glens Falls,302.16-14-1,00204,"Eldridge, Alfred",210 Ridge St,"2022 - $190,800 2021 - $110,300",220,Old style,2,0,5,0,"1,973",1920,0.18acres,Glens Falls,Full
+City of Glens Falls,302.16-14-2,00204,"Quivey, James G",212 Ridge St,"2022 - $291,100 2021 - $187,275",210,Old style,2,0,4,1,"2,162",1900,0.18acres,Glens Falls,Full
+Municipality,Tax ID,Neighborhood Code,Owner Name,Street Address,Total Assessment,Site Prop. Class,Bldg Style,Baths,HalfBaths,Beds,Fireplaces,Living Area (sq ft),Year Built,Size,School District,Basement Type
+City of Glens Falls,302.16-14-3,00204,"Barry, Deyra E",214 Ridge St,"2022 - $183,000 2021 - $84,500",210,Old style,2,0,5,0,"2,036",1910,0.18acres,Glens Falls,Full
+City of Glens Falls,302.16-14-7,00204,"Chatham, Russell  C",6 Hoyt Ave,"2022 - $154,000 2021 - $86,900",210,Old style,2,0,4,0,"1,634",1910,0.08acres,Glens Falls,Full
+City of Glens Falls,302.16-14-14,00204,"Burke , William  B",20 Hoyt Ave,"2022 - $177,900 2021 - $81,300",220,Old style,2,0,4,0,"1,744",1910,0.10acres,Glens Falls,Full
+City of Glens Falls,302.16-14-19,00204,"Lunt, Morris & Georgianna M",21 Vanderheyden St,"2022 - $147,600 2021 - $80,900",220,Old style,2,0,5,0,"1,640",1895,0.04acres,Glens Falls,Full
+City of Glens Falls,302.16-14-21,00204,"Armstrong, Luke D",44 Hunter St,"2022 - $178,400 2021 - $89,000",220,Old style,2,0,5,0,"1,938",1910,0.13acres,Glens Falls,Full
+City of Glens Falls,302.16-14-26,00204,"Rainville, Jocelyn C",54 Hunter St,"2022 - $200,500 2021 - $92,100",220,Old style,2,0,4,0,"2,162",1910,0.21acres,Glens Falls,Full
+City of Glens Falls,302.16-15-3,00204,Truchon Family Irr Trust,12 Vanderheyden St,"2022 - $175,600 2021 - $87,600",210,Old style,2,0,4,0,"1,670",1905,0.14acres,Glens Falls,Full
+City of Glens Falls,302.16-15-30,00204,"Beckem, John  M II",8 William St,"2022 - $149,400 2021 - $80,700",220,Old style,2,0,4,0,"1,680",1920,0.15acres,Glens Falls,Partial
+City of Glens Falls,302.16-15-34,00204,MC Prime Properties LLC,16 William St,"2022 - $202,800 2021 - $83,800",220,Old style,2,0,4,0,"2,162",1910,0.23acres,Glens Falls,Full
+City of Glens Falls,302.16-15-40,00204,"Dudley, Daniel",28 William St,"2022 - $203,100 2021 - $84,300",220,Old style,2,0,5,0,"2,134",1910,0.23acres,Glens Falls,Full
+City of Glens Falls,302.16-16-6,00204,"Wang, Yinghai",45 Hunter St,"2022 - $156,500 2021 - $97,600",210,Old style,2,0,5,1,"2,018",1910,0.14acres,Glens Falls,Full
+City of Glens Falls,302.16-16-7,00204,"Dillon, Johnathan L",43 Hunter St,"2022 - $168,700 2021 - $76,700",220,Old style,2,0,4,0,"1,756",1910,0.08acres,Glens Falls,Full
+City of Glens Falls,302.16-16-13,00204,"Prunty, Alison",46 William St,"2022 - $182,000 2021 - $115,300",210,Old style,2,1,5,1,"1,860",1900,0.18acres,Glens Falls,Full
+City of Glens Falls,302.16-17-21,00204,"Schmaler, Brett H",11 William St,"2022 - $193,100 2021 - $104,500",220,Old style,2,0,5,0,"1,940",1900,0.20acres,Glens Falls,Full
+City of Glens Falls,302.16-17-26,00204,"Bartlett, Leigh",125 Bay St,"2022 - $160,200 2021 - $104,300",210,Old style,2,0,4,0,"1,988",1920,0.06acres,Glens Falls,Full
+City of Glens Falls,302.16-17-34,00204,"Tomasovic, Anthony",6 Grand St,"2022 - $130,000 2021 - $69,700",220,Old style,2,0,5,0,"2,092",1900,0.05acres,Glens Falls,Partial
+City of Glens Falls,302.16-17-35,00204,WW Rentals LLC,8 Grand St,"2022 - $172,200 2021 - $67,800",220,Old style,2,0,4,0,"1,812",1920,0.10acres,Glens Falls,Full
+City of Glens Falls,302.16-17-41,00204,"Kehm, George F",20 Grand St,"2022 - $189,200 2021 - $83,300",220,Old style,2,0,5,0,"1,816",1900,0.24acres,Glens Falls,Full
+City of Glens Falls,302.16-17-44,00204,Buena Fe LLC,26 Grand St,"2022 - $180,200 2021 - $133,300",220,Old style,2,0,4,0,"1,780",1900,0.18acres,Glens Falls,Full
+City of Glens Falls,302.16-17-47,00204,"Oitier, Justin",32 Grand St,"2022 - $195,300 2021 - $88,100",220,Old style,2,0,4,0,"1,925",1925,0.17acres,Glens Falls,Full
+City of Glens Falls,302.16-18-2,00204,"Mattison, Meghan W",27 Chester St,"2022 - $175,900 2021 - $102,100",220,Old style,2,0,4,0,"1,798",1930,0.16acres,Glens Falls,Full
+City of Glens Falls,302.16-20-13,00204,"Kasprzak, John W",111 Bay St,"2022 - $183,100 2021 - $122,400",220,Old style,2,0,4,0,"2,137",1900,0.13acres,Glens Falls,Full
+City of Glens Falls,302.16-21-17,00202,"Warrington, Curt B",27 Madison St,"2022 - $98,500 2021 - $88,000",220,Old style,2,0,4,0,"2,016",1910,0.11acres,Glens Falls,Full
+City of Glens Falls,302.16-21-26,00202,"Kingsley, Dorothy",36 Fulton St,"2022 - $191,700 2021 - $97,000",210,Old style,2,0,4,0,"1,673",1880,0.17acres,Glens Falls,Full
+City of Glens Falls,302.19-3-12,00205,"Mcguirk, Christopher R",83 Sheridan St,"2022 - $271,700 2021 - $176,400",210,Raised ranch,2,0,4,0,"2,046",1951,0.27acres,Glens Falls,Full
+City of Glens Falls,302.19-4-3,00205,"Wyle, Bruce C",56 Garfield St,"2022 - $290,200 2021 - $144,600",210,Old style,2,0,4,1,"1,909",1930,0.20acres,Glens Falls,Partial
+City of Glens Falls,302.19-4-10,00205,"Spitzer, S Richard",55 Sheridan St,"2022 - $237,700 2021 - $154,000",210,Colonial,2,0,4,1,"2,064",1926,0.26acres,Glens Falls,Full
+City of Glens Falls,302.19-4-12,00205,"Kress, Kurt A",49 Sheridan St,"2022 - $249,700 2021 - $159,500",210,Colonial,2,0,4,1,"1,932",1932,0.30acres,Glens Falls,Full
+City of Glens Falls,302.19-5-5,00205,"Baglio, David",34 Lincoln Ave,"2022 - $265,200 2021 - $153,100",210,Old style,2,1,4,1,"2,164",1906,0.10acres,Glens Falls,Full
+City of Glens Falls,302.19-5-14,00205,"Valk, Jeffrey",29 Sheridan St,"2022 - $231,600 2021 - $135,000",220,Old style,2,0,4,0,"2,152",1920,0.17acres,Glens Falls,Full
+City of Glens Falls,302.19-7-7,00205,"Pirozzolo, Jason",98 Sheridan St,"2022 - $262,000 2021 - $185,000",210,Colonial,2,1,4,1,"2,152",1955,0.24acres,Glens Falls,Full
+City of Glens Falls,302.19-8-5,00205,"Nzambi, Tracy Lynn",70 Sheridan St,"2022 - $249,500 2021 - $147,400",210,Colonial,2,1,4,1,"1,924",1925,0.34acres,Glens Falls,Partial
+City of Glens Falls,302.19-9-4,00205,"Crandall, Sean D",42 Sheridan St,"2022 - $242,300 2021 - $172,000",210,Colonial,2,0,4,1,"1,960",1938,0.29acres,Glens Falls,Full
+City of Glens Falls,302.19-10-3,00205,"Phillips, Mary R",116 Crandall St,"2022 - $280,000 2021 - $137,100",210,Old style,2,0,4,0,"1,768",1900,0.34acres,Glens Falls,Full
+City of Glens Falls,302.19-10-7,00205,"Fitzpatrick, John T",34 Sheridan St,"2022 - $210,700 2021 - $112,600",220,Old style,2,0,4,0,"1,742",1898,0.17acres,Glens Falls,Full
+City of Glens Falls,302.19-10-10,00205,Cappabianca Family Rev Trust,51 Grant Ave,"2022 - $271,600 2021 - $139,000",210,Old style,2,0,4,0,"1,898",1907,0.17acres,Glens Falls,Full
+City of Glens Falls,302.19-10-11,00205,Cappabianca Family Rev Trust,49 Grant Ave,"2022 - $212,900 2021 - $97,000",220,Old style,2,0,4,0,"1,882",1907,0.17acres,Glens Falls,Full
+City of Glens Falls,302.19-14-7,00204,"Merrill Irr Trust, Suzanne M",84 Grant Ave,"2022 - $278,300 2021 - $136,000",210,Colonial,2,1,4,1,"2,100",1930,0.38acres,Glens Falls,Partial
+City of Glens Falls,302.19-15-27,00204,"Weidner, Timothy",33 Quade St,"2022 - $215,000 2021 - $137,500",210,Cape cod,2,0,4,1,"1,680",1956,0.47acres,Glens Falls,Full
+City of Glens Falls,302.19-17-4,00205,"Clark, Robert B Sr",30 Grant Ave,"2022 - $269,400 2021 - $99,400",210,Old style,2,0,4,0,"1,759",1930,0.18acres,Glens Falls,Full
+City of Glens Falls,302.19-17-7,00205,"Harrington, Christopher T",38 Grant Ave,"2022 - $272,100 2021 - $125,600",210,Old style,2,0,5,1,"1,948",1900,0.18acres,Glens Falls,Full
+City of Glens Falls,302.19-17-8,00205,"Coleman, John R",40 Grant Ave,"2022 - $275,000 2021 - $116,700",210,Old style,2,0,5,1,"1,988",1930,0.14acres,Glens Falls,Full
+City of Glens Falls,302.19-19-10,00204,"Creutzberger, Richard",17 Garfield St,"2022 - $163,000 2021 - $139,900",220,Old style,2,0,4,0,"1,848",1920,0.12acres,Glens Falls,Full
+City of Glens Falls,302.19-19-16,00204,"Fisher, Heather L",45 Grove Ave,"2022 - $242,800 2021 - $98,200",210,Old style,2,0,5,0,"2,134",1900,0.18acres,Glens Falls,Full
+City of Glens Falls,302.19-20-11,00204,"Mylott, Walter Jr",40 Harrison Ave,"2022 - $214,600 2021 - $95,600",210,Old style,2,0,4,0,"1,720",1900,0.12acres,Glens Falls,Full
+City of Glens Falls,302.19-20-13,00204,"Bockoven, Jesse",39 Grove Ave,"2022 - $184,200 2021 - $106,700",220,Old style,2,0,5,0,"2,095",1930,0.15acres,Glens Falls,Full
+City of Glens Falls,302.19-20-14,00204,"Clark, Amanda N",37 Grove Ave,"2022 - $186,500 2021 - $112,500",220,Old style,2,0,4,0,"1,902",1930,0.21acres,Glens Falls,Full
+City of Glens Falls,302.19-20-16,00204,"Currier, Deana A",33 Grove Ave,"2022 - $191,800 2021 - $94,500",210,Old style,2,0,5,0,"1,942",1930,0.21acres,Glens Falls,Full
+City of Glens Falls,302.19-21-4,00204,"Weekes, Lorna E",54 1/2 Grove Ave,"2022 - $243,400 2021 - $128,700",210,Colonial,2,1,4,0,"1,820",1965,0.23acres,Glens Falls,Full
+City of Glens Falls,302.19-22-2,00204,"Carozza, Benjamin J",66 Crandall St,"2022 - $189,600 2021 - $83,900",210,Old style,2,1,4,0,"1,848",1903,0.17acres,Glens Falls,Full
+Municipality,Tax ID,Neighborhood Code,Owner Name,Street Address,Total Assessment,Site Prop. Class,Bldg Style,Baths,HalfBaths,Beds,Fireplaces,Living Area (sq ft),Year Built,Size,School District,Basement Type
+City of Glens Falls,302.19-22-10,00204,"Giannella, Jeffrey",48 Grove Ave,"2022 - $179,300 2021 - $84,500",220,Old style,2,0,5,0,"2,072",1900,0.17acres,Glens Falls,Full
+City of Glens Falls,302.19-27-8,00204,"Caruso, Mark U",1 Empire Ave,"2022 - $266,500 2021 - $181,500",210,Colonial,2,1,4,1,"2,106",1958,0.41acres,Glens Falls,Full
+City of Glens Falls,302.19-28-1,00204,"Trunzi, Rosaria",50 Crandall St,"2022 - $160,200 2021 - $96,500",220,Old style,2,0,4,0,"1,720",1900,0.08acres,Glens Falls,Full
+City of Glens Falls,302.19-28-3,00204,"Friedman, Sara",54 Crandall St,"2022 - $193,300 2021 - $102,200",220,Old style,2,1,4,1,"1,896",1900,0.21acres,Glens Falls,Full
+City of Glens Falls,302.19-28-9,00204,"Lazarescu, Ionut Adrian",62 W Notre Dame St,"2022 - $177,500 2021 - $95,800",220,Old style,2,0,5,0,"2,020",1910,0.13acres,Glens Falls,Full
+City of Glens Falls,302.19-28-29,00204,"DelSavio, Mary",55 Sherman Ave,"2022 - $161,100 2021 - $108,600",210,Old style,2,0,4,0,"1,672",1850,0.42acres,Glens Falls,Full
+City of Glens Falls,302.19-28-33,00204,AR Family Properties LLC,47 Sherman Ave,"2022 - $133,000 2021 - $97,400",220,Old style,2,1,5,1,"1,955",1920,0.26acres,Glens Falls,Full
+City of Glens Falls,302.20-1-7,00204,Joseph F Mulcahy Trust,9 Harrison Ave,"2022 - $134,200 2021 - $103,500",220,Old style,2,0,4,0,"1,938",1940,0.18acres,Glens Falls,Full
+City of Glens Falls,302.20-1-11,00205,"Holcomb, Trevor",18 Grant Ave,"2022 - $177,300 2021 - $96,800",220,Old style,2,0,4,0,"1,916",1930,0.17acres,Glens Falls,Full
+City of Glens Falls,302.20-2-11,00204,NCB LLC,1 Davis St,"2022 - $164,700 2021 - $133,300",220,Old style,2,0,4,0,"1,968",1925,0.13acres,Glens Falls,Full
+City of Glens Falls,302.20-3-4,00204,"Sandoval, Tracy E",12 Charlotte St,"2022 - $195,500 2021 - $84,700",210,Old style,2,0,4,0,"1,756",1920,0.23acres,Glens Falls,Full
+City of Glens Falls,302.20-3-7,00204,"Palmer, Scott E",28 Grove Ave,"2022 - $174,500 2021 - $102,500",220,Old style,2,0,4,0,"1,861",1900,0.20acres,Glens Falls,Full
+City of Glens Falls,302.20-3-9,00204,"Collins, Joanne",32 Grove Ave,"2022 - $203,900 2021 - $117,000",210,Old style,2,0,4,0,"1,796",1900,0.19acres,Glens Falls,Full
+City of Glens Falls,302.20-3-15,00204,Alexander Leszcynski Irr. Trus,65 Crandall St,"2022 - $186,200 2021 - $110,000",220,Old style,2,0,4,0,"1,736",1930,0.40acres,Glens Falls,Full
+City of Glens Falls,302.20-3-17,00204,"Beatty, Chan R",61 Crandall St,"2022 - $187,500 2021 - $97,700",220,Old style,2,0,4,0,"2,012",1920,0.16acres,Glens Falls,Full
+City of Glens Falls,302.20-4-1,00204,"Golden, Meaghan M",10 Marion Ave,"2022 - $161,100 2021 - $125,000",220,Old style,2,0,4,0,"2,082",1930,0.07acres,Glens Falls,Full
+City of Glens Falls,302.20-4-5,00204,"Quinlan, Thomas",16 Grove Ave,"2022 - $216,400 2021 - $97,700",210,Old style,2,0,4,0,"1,922",1920,0.19acres,Glens Falls,Full
+City of Glens Falls,302.20-4-9,00204,"Palmer, Ian M",24 Grove Ave,"2022 - $177,200 2021 - $100,600",220,Old style,2,0,4,1,"2,158",1920,0.17acres,Glens Falls,Full
+City of Glens Falls,302.20-6-10,00204,"Mizejewski, Michael C",23 Birch Ave,"2022 - $183,900 2021 - $89,300",220,Old style,2,0,4,0,"1,976",1922,0.07acres,Glens Falls,Full
+City of Glens Falls,302.20-6-17,00204,CRB Rentals LLC,9 Birch Ave,"2022 - $168,200 2021 - $72,600",220,Old style,2,0,4,0,"2,150",1900,0.07acres,Glens Falls,Full
+City of Glens Falls,302.20-7-11,00204,"DiBella, Joseph S",15 Marion Ave,"2022 - $163,400 2021 - $92,500",220,Old style,2,0,4,0,"1,792",1930,0.14acres,Glens Falls,Full
+City of Glens Falls,302.20-7-13,00204,"Gega, Paul",19 Marion Ave,"2022 - $176,400 2021 - $87,800",210,Old style,2,0,4,0,"1,844",1930,0.18acres,Glens Falls,Full
+City of Glens Falls,302.20-9-4,00202,Raymond Asset Mngmt Trust,12 Madison St,"2022 - $158,200 2021 - $84,200",220,Old style,2,0,4,0,"1,922",1910,0.19acres,Glens Falls,Full
+City of Glens Falls,302.20-9-27,00202,Jabaut Properties LLC,8 May St,"2022 - $152,700 2021 - $100,000",220,Old style,2,0,4,0,"2,020",1900,0.10acres,Glens Falls,Full
+City of Glens Falls,302.20-10-4,00202,"Anderson, Charity",16 Nelson St,"2022 - $164,900 2021 - $88,700",220,Old style,2,0,4,0,"2,032",1900,0.23acres,Glens Falls,Full
+City of Glens Falls,302.20-10-7,00202,"Back, Christy",25 Fulton St,"2022 - $128,400 2021 - $83,800",220,Old style,2,0,4,0,"1,678",1900,0.09acres,Glens Falls,Full
+City of Glens Falls,302.20-10-12,00202,"Gonyea, Lawrence R Jr",15 Fulton St,"2022 - $132,900 2021 - $88,000",220,Old style,2,0,4,0,"2,040",1920,0.11acres,Glens Falls,Full
+City of Glens Falls,302.20-11-2,00202,"Orleman, Kragen S",140 Ridge St,"2022 - $182,200 2021 - $104,800",220,Old style,2,0,4,0,"1,853",1910,0.24acres,Glens Falls,Full
+City of Glens Falls,302.20-11-10,00202,"Demattos, Anthony J",160 Ridge St,"2022 - $215,200 2021 - $131,700",210,Old style,2,0,4,0,"2,076",1910,0.09acres,Glens Falls,Full
+City of Glens Falls,302.20-11-21,00202,"Swain, Robert M",7 Nelson St,"2022 - $165,500 2021 - $74,500",220,Old style,2,0,4,0,"1,793",1884,0.17acres,Glens Falls,Full
+City of Glens Falls,302.20-12-9,00204,Lerist Enterprises LLC,13 Union St,"2022 - $170,900 2021 - $83,300",220,Old style,2,0,4,0,"1,867",1928,0.14acres,Glens Falls,Full
+City of Glens Falls,302.20-12-19,00204,19 E Notre Dame LLC,16 E Notre Dame St,"2022 - $175,300 2021 - $85,000",220,Old style,2,0,4,0,"1,916",1900,0.10acres,Glens Falls,Full
+City of Glens Falls,302.20-13-11,00204,"Van Benthuysen, Judith",9 Wait St,"2022 - $180,700 2021 - $82,200",210,Old style,2,0,4,1,"1,671",1920,0.13acres,Glens Falls,Full
+City of Glens Falls,302.20-14-11,00204,"Urbonowicz Irr Trust, Joseph & Darlene",36 W Notre Dame St,"2022 - $187,900 2021 - $96,000",210,Old style,2,0,4,0,"1,726",1960,0.20acres,Glens Falls,Partial
+City of Glens Falls,302.20-15-9,00204,"Brumagen, Noah J",6 Holman St,"2022 - $189,900 2021 - $91,100",210,Old style,2,0,4,0,"2,056",1904,0.16acres,Glens Falls,Full
+City of Glens Falls,302.20-15-10,00204,"Irwin, Tobi J",4 Holman St,"2022 - $166,900 2021 - $89,000",220,Old style,2,0,4,0,"2,086",1930,0.09acres,Glens Falls,Full
+City of Glens Falls,302.20-20-15,00204,"Golden, Meaghan M",9 Orville St,"2022 - $174,900 2021 - $84,000",220,Old style,2,0,4,0,"1,952",1900,0.14acres,Glens Falls,Full
+City of Glens Falls,302.20-21-6,00204,"Kopf, Andrew",16 Sherman Ave,"2022 - $185,000 2021 - $88,700",220,Old style,2,0,4,0,"1,968",1900,0.19acres,Glens Falls,Partial
+City of Glens Falls,302.20-25-3,00204,"Radigan, Russell",5 Division St,"2022 - $179,800 2021 - $86,500",220,Old style,2,0,4,0,"1,624",1900,0.20acres,Glens Falls,Full
+City of Glens Falls,302.20-25-4,00204,"Arcuri-DeMarsh, Tina M",3 Division St,"2022 - $197,500 2021 - $116,000",220,Colonial,2,2,4,0,"1,792",2013,0.09acres,Glens Falls,Slab/pier
+City of Glens Falls,302.20-25-7,00204,"Wolfe, Michael D",68 Elm St,"2022 - $208,800 2021 - $77,300",210,Old style,2,0,4,0,"2,097",1800,0.22acres,Glens Falls,Full
+City of Glens Falls,302.20-25-9,00204,"Filion, Paul R",4 Orville St,"2022 - $170,000 2021 - $84,800",220,Old style,2,0,4,0,"2,004",1850,0.11acres,Glens Falls,Full
+City of Glens Falls,302.20-26-5,00204,"Cronkhite, Barry W",6 Division St,"2022 - $174,400 2021 - $85,000",210,Old style,2,0,4,0,"1,919",1910,0.11acres,Glens Falls,Partial
+City of Glens Falls,302.20-27-11,00204,Michael G George Living Trust,6 Pine St,"2022 - $169,700 2021 - $103,500",283,Old style,2,1,5,0,"2,064",1900,0.12acres,Glens Falls,Partial
+City of Glens Falls,303.9-6-15,00203,"Gall, Michael F",281 Ridge St,"2022 - $266,300 2021 - $134,400",210,Colonial,2,1,4,1,"1,992",1920,0.38acres,Glens Falls,Full
+City of Glens Falls,303.9-6-17,00203,"Scheideler, Thomas J",273 Ridge St,"2022 - $262,500 2021 - $145,400",210,Colonial,2,1,4,1,"2,152",1950,0.16acres,Glens Falls,Full
+City of Glens Falls,303.9-6-18,00203,"Perkins, Helen",6 Jackson Ave,"2022 - $204,300 2021 - $96,700",210,Old style,2,0,4,1,"1,719",1932,0.40acres,Glens Falls,Partial
+City of Glens Falls,303.9-7-3,00206,"Coyle, William J",8 Windy Hill Rd,"2022 - $264,200 2021 - $183,400",210,Cape cod,2,0,4,1,"1,936",1965,0.86acres,Glens Falls,Full
+City of Glens Falls,303.9-7-5,00206,"Palmer, Dana L",12 Windy Hill Rd,"2022 - $262,300 2021 - $182,500",210,Split level,2,1,4,1,"2,090",1967,0.41acres,Glens Falls,Partial
+City of Glens Falls,303.9-7-6,00206,"McCoy, Donald C",14 Windy Hill Rd,"2022 - $307,500 2021 - $181,500",210,Ranch,2,0,4,1,"1,932",1964,0.41acres,Glens Falls,Full
+Municipality,Tax ID,Neighborhood Code,Owner Name,Street Address,Total Assessment,Site Prop. Class,Bldg Style,Baths,HalfBaths,Beds,Fireplaces,Living Area (sq ft),Year Built,Size,School District,Basement Type
+City of Glens Falls,303.9-7-7,00206,"Poissant, Kelly",16 Windy Hill Rd,"2022 - $287,600 2021 - $182,900",210,Colonial,2,0,4,1,"1,952",1965,0.85acres,Glens Falls,Full
+City of Glens Falls,303.9-7-8,00206,"Levasseur, Paul",18 Windy Hill Rd,"2022 - $254,200 2021 - $171,900",210,Raised ranch,2,1,4,1,"2,022",1965,0.42acres,Glens Falls,Full
+City of Glens Falls,303.9-7-16,00203,"Duval, Gary W",317 Ridge St,"2022 - $206,700 2021 - $158,000",210,Old style,2,0,4,0,"2,019",1900,0.17acres,Glens Falls,Partial
+City of Glens Falls,303.9-7-34,00203,Root Family Trust,194 Sanford St,"2022 - $296,600 2021 - $163,400",210,Colonial,2,0,4,1,"1,960",1960,0.92acres,Glens Falls,Full
+City of Glens Falls,303.9-8-25,00206,"Murphy, Kevin T",23 Windy Hill Rd,"2022 - $246,500 2021 - $178,000",210,Split level,2,1,4,1,"2,100",1963,0.38acres,Glens Falls,Full
+City of Glens Falls,303.9-8-28,00206,Joseph F Mulcahy Trust,17 Windy Hill Rd,"2022 - $239,600 2021 - $177,000",210,Cape cod,2,1,4,1,"2,031",1970,0.40acres,Glens Falls,Full
+City of Glens Falls,303.9-8-33,00206,"Petramale, Mark E",7 Windy Hill Rd,"2022 - $319,300 2021 - $194,000",210,Ranch,2,0,4,1,"2,089",1964,0.44acres,Glens Falls,Full
+City of Glens Falls,303.9-8-35,00206,"Bethel, Joseph W",3 Windy Hill Rd,"2022 - $296,500 2021 - $167,300",210,Ranch,2,0,4,1,"1,968",1966,0.42acres,Glens Falls,Full
+City of Glens Falls,303.9-9-5,00203,"McFaden, Lisa C",9 Jackson Ave,"2022 - $223,100 2021 - $140,000",210,Bungalow,2,0,4,0,"1,858",1930,0.18acres,Glens Falls,Full
+City of Glens Falls,303.9-9-10,00203,"Wright, Randall C",267 Ridge St,"2022 - $159,400 2021 - $111,800",220,Old style,2,0,4,0,"2,024",1935,0.14acres,Glens Falls,Full
+City of Glens Falls,303.9-11-5,00203,J Hayes Properties LLC,25 Jackson Ave,"2022 - $227,900 2021 - $114,900",210,Raised ranch,2,0,4,1,"2,052",1964,0.20acres,Glens Falls,Full
+City of Glens Falls,303.9-11-14,00203,"Fountain, Nicole B",172 Sanford St,"2022 - $212,100 2021 - $111,800",210,Old style,2,0,4,1,"1,814",1891,0.59acres,Glens Falls,Full
+City of Glens Falls,303.9-14-2,00203,"Donovan, Jane Life",175 Sanford St,"2022 - $231,300 2021 - $108,100",210,Cape cod,2,0,4,1,"1,960",1940,0.25acres,Glens Falls,Full
+City of Glens Falls,303.13-1-19,00202,"Simpson, Larry S Jr",229 Ridge St,"2022 - $123,300 2021 - $86,500",220,Old style,2,0,4,0,"1,760",1900,0.10acres,Glens Falls,Full
+City of Glens Falls,303.13-2-9,00202,"Dunn-Cole, Meagan",23 Wing St,"2022 - $211,200 2021 - $112,300",210,Old style,2,0,4,0,"2,016",1920,0.17acres,Glens Falls,Full
+City of Glens Falls,303.13-2-23,00202,"Gerarde, Haley M",92 Hunter St,"2022 - $220,100 2021 - $104,800",210,Old style,2,0,4,0,"2,112",1925,0.17acres,Glens Falls,Full
+City of Glens Falls,303.13-8-15,00202,"Dougherty, Pamela",67 Hunter St,"2022 - $177,100 2021 - $97,000",220,Old style,2,0,4,0,"1,970",1910,0.23acres,Glens Falls,Full
+City of Glens Falls,303.13-8-26,00202,"Mobley, Gregory",18 Lawton Ave,"2022 - $245,500 2021 - $116,000",210,Old style,2,0,4,1,"2,163",1935,0.17acres,Glens Falls,Full
+City of Glens Falls,303.13-8-48,00202,"Russo, Kathleen",20 Dix Ave,"2022 - $202,000 2021 - $107,600",210,Old style,2,0,4,0,"1,822",1920,0.21acres,Glens Falls,Full
+City of Glens Falls,303.13-8-49,00202,"Lucas, Christopher",22 Dix Ave,"2022 - $184,500 2021 - $120,000",210,Old style,2,0,4,0,"1,797",1900,0.17acres,Glens Falls,Full
+City of Glens Falls,303.13-10-1,00203,"Talcott, Caroline",8 Byrne Ave,"2022 - $135,300 2021 - $68,000",220,Old style,2,0,4,0,"1,698",1924,0.21acres,Glens Falls,Partial
+City of Glens Falls,303.13-10-2,00203,"Mooney, Daniel",12 Byrne Ave,"2022 - $177,700 2021 - $112,700",220,Old style,2,0,4,0,"2,154",1920,0.31acres,Glens Falls,Full
+City of Glens Falls,303.13-14-6,00203,"Goldstein, Kevin",70 Dix Ave,"2022 - $136,300 2021 - $87,300",220,Old style,2,0,5,0,"1,926",1900,0.35acres,Glens Falls,Full
+City of Glens Falls,303.13-16-2,00201,"Mackenzie, Craig",76 Cherry St,"2022 - $138,300 2021 - $81,600",220,Old style,2,0,4,0,"1,813",1900,0.06acres,Glens Falls Common,Partial
+City of Glens Falls,303.13-16-6,00201,"Zanoni, Jacob",19 Dix Ave,"2022 - $177,500 2021 - $92,000",220,Old style,2,0,4,0,"1,920",1920,0.17acres,Glens Falls Common,Full
+City of Glens Falls,303.13-16-9,00201,"McMurray, Julie R",13 Dix Ave,"2022 - $146,400 2021 - $96,700",220,Old style,2,0,4,1,"2,148",1920,0.17acres,Glens Falls,Partial
+City of Glens Falls,303.13-16-17,00201,"Woods, Larry",10 Auburn Pl,"2022 - $152,300 2021 - $90,700",220,Old style,2,0,5,0,"1,770",1900,0.13acres,Glens Falls,Full
+City of Glens Falls,303.13-16-23,00201,"Boise, Philip Tavis",20 Auburn Pl,"2022 - $198,900 2021 - $108,100",210,Old style,2,0,4,0,"1,720",1884,0.14acres,Glens Falls Common,Crawl
+City of Glens Falls,303.13-16-24,00201,L&A Real Estate Holdings LLC,22 Auburn Pl,"2022 - $198,000 2021 - $111,800",210,Old style,2,0,4,0,"1,648",1900,0.14acres,Glens Falls Common,Full
+City of Glens Falls,303.13-17-13,00201,"Carpenter, Gabrielle L",31 Dix Ave,"2022 - $164,900 2021 - $94,000",220,Old style,2,0,4,0,"1,820",1900,0.17acres,Glens Falls Common,Full
+City of Glens Falls,303.13-17-18,00201,"Francis, David",71 Cherry St,"2022 - $239,700 2021 - $82,900",210,Old style,2,0,4,0,"2,144",1864,0.18acres,Glens Falls Common,Full
+City of Glens Falls,303.13-17-19,00201,Scrimshaw Property Mgmt LLC,69 Cherry St,"2022 - $140,600 2021 - $87,300",220,Old style,2,0,5,0,"2,080",1891,0.18acres,Glens Falls Common,Full
+City of Glens Falls,303.13-17-21,00201,Ticonderoga Inc,65 Cherry St,"2022 - $163,900 2021 - $86,500",220,Old style,2,0,4,0,"1,624",1900,0.17acres,Glens Falls Common,Full
+City of Glens Falls,303.13-18-3,00201,"Chiaravalle, Luigi",67 Walnut St,"2022 - $183,300 2021 - $104,700",220,Old style,2,1,5,0,"2,082",1920,0.17acres,Glens Falls Common,Full
+City of Glens Falls,303.13-19-13,00201,"Stockwell, Ronnie L",63 Cooper St,"2022 - $245,500 2021 - $123,400",210,Old style,2,0,4,0,"1,898",1890,1.41acres,Glens Falls Common,Full
+City of Glens Falls,303.13-20-7,00201,"Moses, Daniel J",86 Prospect St,"2022 - $174,000 2021 - $105,000",210,Old style,2,0,4,0,"1,647",1910,0.27acres,Glens Falls Common,Full
+City of Glens Falls,303.13-23-2,00201,"Atolani, Adedamola",68 Cherry St,"2022 - $165,100 2021 - $88,600",220,Old style,2,0,4,0,"1,646",1900,0.17acres,Glens Falls Common,Crawl
+City of Glens Falls,303.13-23-3,00201,MNH Real Estate Holdings LLC,70 Cherry St,"2022 - $168,900 2021 - $92,900",220,Old style,2,0,4,0,"2,004",1870,0.17acres,Glens Falls Common,Full
+City of Glens Falls,303.13-23-6,00201,"Gumina, Anthony J",15 Auburn Pl,"2022 - $167,900 2021 - $124,000",210,Old style,2,0,4,1,"1,902",1933,0.14acres,Glens Falls Common,Full
+City of Glens Falls,303.13-23-10,00201,"Waite, Richard M",9 Auburn Pl,"2022 - $158,600 2021 - $78,700",220,Old style,2,0,4,0,"1,913",1890,0.10acres,Glens Falls,Full
+City of Glens Falls,303.13-23-15,00201,IFLORES LLC,163 Ridge St,"2022 - $140,500 2021 - $97,400",220,Old style,2,0,4,0,"1,630",1900,0.16acres,Glens Falls,Full
+City of Glens Falls,303.14-2-8,00201,"Walkup, Richard L",104 Platt St,"2022 - $178,100 2021 - $98,300",210,Old style,2,1,4,0,"1,682",1949,0.25acres,Glens Falls Common,Crawl
+City of Glens Falls,303.14-2-21,00201,"Rivers, Ryan",79 McDonald St,"2022 - $159,300 2021 - $94,000",220,Old style,2,0,4,0,"1,668",1933,0.22acres,Glens Falls Common,Full
+City of Glens Falls,303.17-1-7,00201,"Hesse, Cory",54 Cherry St,"2022 - $183,200 2021 - $79,800",220,Old style,2,0,5,0,"2,037",1900,0.16acres,Glens Falls Common,Full
+City of Glens Falls,303.17-1-8,00201,"Dudley, Daniel K",56 Cherry St,"2022 - $169,500 2021 - $83,000",220,Old style,2,0,4,0,"1,978",1882,0.17acres,Glens Falls Common,Full
+City of Glens Falls,303.17-1-10,00201,"Watkins, Kerry A",23-23R Morgan Ave,"2022 - $443,100 2021 - $120,000",220,Old style,2,0,4,0,"2,004",1900,0.20acres,Glens Falls Common,Full
+City of Glens Falls,303.17-1-16,00201,"Mejo, Dylan M",11 Morgan Ave,"2022 - $165,500 2021 - $80,300",220,Old style,2,0,4,0,"1,911",1900,0.12acres,Glens Falls,Full
+City of Glens Falls,303.17-1-31,00201,13 Traver St. Corp.,13 Traver St,"2022 - $172,700 2021 - $74,400",220,Old style,2,0,4,0,"1,762",1910,0.10acres,Glens Falls,Full
+City of Glens Falls,303.17-1-34,00201,4 Ogden Street LLC,7 Traver St,"2022 - $174,300 2021 - $86,200",220,Old style,2,0,4,0,"1,741",1920,0.26acres,Glens Falls,Full
+City of Glens Falls,303.17-1-36,00201,Kyle I LLC,18 Lawrence St,"2022 - $158,000 2021 - $105,000",220,Old style,2,0,4,0,"1,943",1900,0.07acres,Glens Falls,Full
+Municipality,Tax ID,Neighborhood Code,Owner Name,Street Address,Total Assessment,Site Prop. Class,Bldg Style,Baths,HalfBaths,Beds,Fireplaces,Living Area (sq ft),Year Built,Size,School District,Basement Type
+City of Glens Falls,303.17-2-3,00201,"Smith, Robert A",38 Walnut St,"2022 - $167,200 2021 - $76,200",220,Old style,2,0,4,0,"1,679",1840,0.28acres,Glens Falls Common,Partial
+City of Glens Falls,303.17-2-8,00201,"Murray, Meghan",50 Walnut St,"2022 - $187,100 2021 - $84,700",210,Old style,2,0,5,0,"2,118",1900,0.25acres,Glens Falls Common,Full
+City of Glens Falls,303.17-2-9,00201,Goss Family Living Trust,52 Walnut St,"2022 - $189,100 2021 - $88,500",210,Old style,2,0,4,0,"1,816",1900,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.17-2-11,00201,"Shanks, Clinton J",56 Walnut St,"2022 - $182,800 2021 - $84,400",210,Old style,2,0,4,0,"1,634",1900,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.17-2-15,00201,LaPhatt Holding Inc,49 Cherry St,"2022 - $197,300 2021 - $115,000",220,Duplex,2,2,4,0,"1,792",2013,0.21acres,Glens Falls Common,Slab/pier
+City of Glens Falls,303.17-3-6,00201,"Sisco, Kyle",43 Walnut St,"2022 - $164,500 2021 - $79,400",220,Old style,2,0,4,0,"1,600",1924,0.17acres,Glens Falls Common,Full
+City of Glens Falls,303.17-3-13,00201,"Walkup, Joseph",56 Lawrence St,"2022 - $125,700 2021 - $90,500",210,Old style,2,0,4,0,"1,760",1920,0.24acres,Glens Falls Common,Full
+City of Glens Falls,303.17-4-6,00201,"Ermiger, Justin M",80 Lawrence St,"2022 - $156,700 2021 - $93,750",220,Old style,2,0,5,0,"1,869",1900,0.17acres,Glens Falls Common,Full
+City of Glens Falls,303.17-5-1,00201,GFMF Properties LLC,46 Prospect St,"2022 - $193,100 2021 - $121,000",220,Old style,2,0,4,0,"2,118",1900,0.16acres,Glens Falls Common,Full
+City of Glens Falls,303.17-5-5,00201,"Tuttle, Christian W",56 Prospect St,"2022 - $155,300 2021 - $87,300",220,Old style,2,0,5,0,"1,880",1910,0.18acres,Glens Falls Common,Full
+City of Glens Falls,303.17-5-7,00201,"Schaldone, James",60 Prospect St,"2022 - $156,300 2021 - $99,500",220,Old style,2,0,4,0,"1,639",1910,0.24acres,Glens Falls Common,Full
+City of Glens Falls,303.17-5-17,00201,"Accardi, Peter",88 Lawrence St,"2022 - $153,000 2021 - $83,700",220,Old style,2,0,4,0,"1,784",1900,0.17acres,Glens Falls Common,Full
+City of Glens Falls,303.17-5-19,00201,"Hanselman, Kevin E",92 Lawrence St,"2022 - $221,500 2021 - $123,400",210,Old style,2,0,4,0,"2,020",1910,0.18acres,Glens Falls Common,Full
+City of Glens Falls,303.17-6-5,00201,"O'Brien, Maureen E",46 Orchard St,"2022 - $249,300 2021 - $159,900",210,Colonial,2,1,4,0,"1,648",2005,0.18acres,Glens Falls Common,Full
+City of Glens Falls,303.17-6-16,00201,"MacFarran, Robbin",49 Prospect St,"2022 - $177,300 2021 - $120,000",220,Old style,2,0,4,0,"1,765",1862,0.19acres,Glens Falls Common,Partial
+City of Glens Falls,303.17-6-18,00201,Girard Properties LLC,104 Lawrence St,"2022 - $138,100 2021 - $97,000",220,Old style,2,0,4,0,"1,940",1900,0.09acres,Glens Falls Common,Full
+City of Glens Falls,303.17-8-8,00201,"Morales, Armando Jr",5 Numan St,"2022 - $167,200 2021 - $97,600",220,Old style,2,0,4,0,"1,732",1910,0.12acres,Glens Falls,Full
+City of Glens Falls,303.17-10-15,00201,"Burke Rev Trust, William B & Rose M",21 Pearl St,"2022 - $159,500 2021 - $84,100",220,Old style,2,0,4,0,"2,089",1895,0.14acres,Glens Falls,Full
+City of Glens Falls,303.17-10-28,00201,"Cole, Garth",140 Maple St,"2022 - $212,700 2021 - $78,000",210,Old style,2,0,5,0,"2,122",1870,0.12acres,Glens Falls Common,Full
+City of Glens Falls,303.17-11-4,00201,T-N-T Property Rental & Sales,16 Walnut St,"2022 - $176,500 2021 - $88,800",220,Old style,2,0,4,0,"1,736",1900,0.18acres,Glens Falls Common,Crawl
+City of Glens Falls,303.17-11-12,00201,JuJo Properties LLC,45 Lawrence St,"2022 - $176,000 2021 - $132,900",220,Old style,2,0,5,0,"2,015",1900,0.11acres,Glens Falls Common,Full
+City of Glens Falls,303.17-11-18,00201,LaPhatt Holding Inc,21 Cherry St,"2022 - $198,800 2021 - $115,000",220,Duplex,2,2,4,0,"1,792",2013,0.20acres,Glens Falls Common,Slab/pier
+City of Glens Falls,303.17-12-10,00201,"Kerchner-Pirrone, Journey",25 Walnut St,"2022 - $164,600 2021 - $71,700",220,Old style,2,0,4,0,"1,900",1900,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.17-12-11,00201,"Jones, Leon",23 Walnut St,"2022 - $184,600 2021 - $103,000",210,Old style,2,0,4,0,"1,736",1920,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.17-12-13,00201,"Burch, Michael",19 Walnut St,"2022 - $177,700 2021 - $94,600",220,Old style,2,0,4,0,"1,988",1910,0.20acres,Glens Falls Common,Full
+City of Glens Falls,303.17-13-4,00201,"Santos, Donna",26 Leonard St,"2022 - $116,100 2021 - $75,600",220,Old style,2,0,4,0,"1,773",1910,0.15acres,Glens Falls Common,Partial
+City of Glens Falls,303.17-14-12,00201,"Wright, Kimberly L",19 Leonard St,"2022 - $190,300 2021 - $95,900",210,Old style,2,0,4,0,"1,800",1885,0.24acres,Glens Falls Common,Full
+City of Glens Falls,303.17-14-14,00201,"Caselli, Adam J",204 Maple St,"2022 - $151,200 2021 - $105,000",220,Old style,2,0,5,0,"2,012",1900,0.12acres,Glens Falls Common,Full
+City of Glens Falls,303.17-14-17,00201,"Wolfe, Raymond F",208 Maple St,"2022 - $150,100 2021 - $77,700",220,Old style,2,0,4,0,"1,736",1910,0.21acres,Glens Falls Common,Full
+City of Glens Falls,303.17-15-5,00201,MNH Real Estate Holdings LLC,24 Orchard St,"2022 - $157,200 2021 - $65,000",220,Old style,2,0,4,0,"2,024",1900,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.17-15-6,00201,"Barnes, Jason S",26 Orchard St,"2022 - $177,600 2021 - $70,400",210,Old style,2,0,5,0,"1,782",1900,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.17-19-2,00201,"Sullivan, Jeffrey",10 Oak St,"2022 - $129,400 2021 - $82,000",220,Old style,2,0,4,0,"2,084",1930,0.12acres,Glens Falls Common,Full
+City of Glens Falls,303.17-19-5,00201,"Accardi Irrevocable Trust, Peter M & Carolyn M",16 Oak St,"2022 - $138,900 2021 - $67,600",210,Old style,2,0,4,0,"1,614",1900,0.08acres,Glens Falls Common,Partial
+City of Glens Falls,303.17-19-14,00201,"Fraser, Cheryl L",13 Culvert St,"2022 - $165,400 2021 - $85,200",220,Old style,2,0,4,0,"2,126",1900,0.11acres,Glens Falls Common,Full
+City of Glens Falls,303.17-20-8,00201,"LaLonde, Christopher",17 Oak St,"2022 - $135,000 2021 - $70,500",220,Old style,2,0,4,1,"1,786",1920,0.13acres,Glens Falls Common,Crawl
+City of Glens Falls,303.18-1-11,00201,"Pratt, Lynn L",49 McDonald St,"2022 - $180,500 2021 - $137,900",210,Old style,2,0,4,0,"1,800",1900,0.16acres,Glens Falls Common,Full
+City of Glens Falls,303.18-2-18,00201,"Sidusky, Joseph",55 Platt St,"2022 - $209,300 2021 - $109,000",210,Cape cod,2,0,4,0,"2,025",2011,0.14acres,Glens Falls Common,Full
+City of Glens Falls,303.18-2-20,00201,"Goldson, Joseph O",51 Platt St,"2022 - $156,400 2021 - $75,900",220,Old style,2,0,4,0,"2,155",1895,0.14acres,Glens Falls Common,Full
+City of Glens Falls,303.18-2-26,00201,"Cook, John P",8 Katherine St,"2022 - $163,800 2021 - $75,400",210,Old style,2,0,4,0,"1,744",1900,0.12acres,Glens Falls Common,Full
+City of Glens Falls,303.18-4-8,00201,"Winfield, Michael",77 Peck Ave,"2022 - $216,900 2021 - $110,700",210,Raised ranch,2,0,5,0,"1,684",1996,0.21acres,Glens Falls Common,Full
+City of Glens Falls,303.18-4-37,00201,"Girard, Peter L",30 Peck Ave,"2022 - $128,700 2021 - $91,300",220,Old style,2,0,4,0,"2,028",1900,0.17acres,Glens Falls Common,Full
+City of Glens Falls,303.18-5-7,00201,"DiManno, Jesselyn K",46 McDonald St,"2022 - $151,600 2021 - $83,000",220,Old style,2,0,4,0,"1,799",1875,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.18-5-12,00201,"Dumas, David A",23 Orchard St,"2022 - $117,100 2021 - $70,000",220,Old style,2,0,4,0,"1,667",1910,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.18-5-14,00201,"Accardi Irrevocable Trust, Robert M & Carolyn M",17 Orchard St,"2022 - $150,700 2021 - $81,000",220,Old style,2,0,4,0,"1,912",1910,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.18-6-3,00201,"Harding, Janet M",34 Platt St,"2022 - $151,100 2021 - $102,800",210,Old style,2,0,4,0,"1,764",1920,0.26acres,Glens Falls Common,Full
+City of Glens Falls,303.18-7-7,00201,"Alberico, Thomas",44 Geer St,"2022 - $174,900 2021 - $76,600",220,Old style,2,0,4,0,"1,968",1900,0.30acres,Glens Falls Common,Full
+City of Glens Falls,303.18-7-8,00201,"Heywood, Christopher G",46 Geer St,"2022 - $91,500 2021 - $79,900",220,Old style,2,0,5,0,"1,923",1900,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.18-7-9,00201,"MacKenzie, John A Jr.",48 Geer St,"2022 - $160,300 2021 - $74,200",220,Old style,2,0,4,0,"1,906",1900,0.14acres,Glens Falls Common,Full
+City of Glens Falls,303.18-7-13,00201,Glens Falls Holdings LLC,1 Katherine St,"2022 - $154,300 2021 - $81,900",220,Old style,2,0,4,0,"1,810",1910,0.13acres,Glens Falls Common,Full
+City of Glens Falls,303.18-8-6,00201,"Euber, Kacey",49 Geer St,"2022 - $63,500 2021 - $31,500",220,Old style,2,0,4,0,"1,768",1900,0.19acres,Glens Falls Common,Full
+Municipality,Tax ID,Neighborhood Code,Owner Name,Street Address,Total Assessment,Site Prop. Class,Bldg Style,Baths,HalfBaths,Beds,Fireplaces,Living Area (sq ft),Year Built,Size,School District,Basement Type
+City of Glens Falls,303.18-10-15,00201,97 Broad St. Corp.,36 Haskell Ave,"2022 - $166,800 2021 - $78,900",220,Old style,2,1,5,0,"1,993",1900,0.18acres,Glens Falls Common,Full
+City of Glens Falls,303.18-11-3,00201,"Ermiger, Justin",12 McDonald St,"2022 - $144,600 2021 - $84,100",220,Old style,2,0,4,0,"1,650",1920,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.18-11-4,00201,"Greaney, Conor",14 McDonald St,"2022 - $155,400 2021 - $90,100",220,Old style,2,0,5,0,"1,924",1900,0.20acres,Glens Falls Common,Full
+City of Glens Falls,303.18-11-5,00201,"Gibbs, Wavel C",16 McDonald St,"2022 - $181,900 2021 - $156,800",210,Old style,2,0,4,0,"1,932",1922,0.10acres,Glens Falls Common,Full
+City of Glens Falls,303.18-11-7,00201,"Pontiff, Judy Ann",229 Maple St,"2022 - $143,100 2021 - $95,500",220,Old style,2,0,4,0,"1,650",1900,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.18-12-6,00201,"Ellsworth, Matthew E",20 Platt St,"2022 - $160,000 2021 - $92,900",220,Old style,2,0,5,0,"2,081",1900,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.18-12-12,00201,"Giannone, Anthony Michael",13 McDonald St,"2022 - $149,900 2021 - $99,300",220,Old style,2,0,4,0,"1,806",1892,0.19acres,Glens Falls Common,Full
+City of Glens Falls,303.18-12-14,00201,"Macpherson, David",9 McDonald St,"2022 - $123,800 2021 - $80,000",220,Old style,2,0,4,0,"1,870",1925,0.20acres,Glens Falls Common,Full
+City of Glens Falls,303.18-12-17,00201,"O'Brien, Colin R",208 Warren St,"2022 - $169,400 2021 - $95,700",230,Old style,2,0,5,0,"2,126",1875,0.26acres,Glens Falls Common,Partial
+City of Glens Falls,303.18-15-7,00201,"Hopler Trust ua dated 8/26/19, Daniel John",15 Haskell Ave,"2022 - $164,100 2021 - $82,300",220,Old style,2,0,4,0,"2,010",1900,0.15acres,Glens Falls Common,Full
+City of Glens Falls,303.18-15-13,00201,"Potter, Victor Jr",8 Rogers St,"2022 - $206,100 2021 - $79,800",210,Old style,2,0,4,0,"1,944",1920,0.18acres,Glens Falls Common,Full
+City of Glens Falls,303.18-19-8,00201,"Martin, Gary R",197 Warren St,"2022 - $149,800 2021 - $74,000",220,Old style,2,0,4,0,"1,652",1890,0.18acres,Glens Falls Common,Full
+City of Glens Falls,303.18-19-10,00201,"Wisell, Christopher",193 Warren St,"2022 - $126,800 2021 - $79,000",220,Old style,2,0,4,0,"1,755",1900,0.18acres,Glens Falls Common,Full
+City of Glens Falls,303.18-19-11,00201,"Rich, Martin S",191 Warren St,"2022 - $151,700 2021 - $85,500",220,Old style,2,0,5,0,"1,690",1920,0.18acres,Glens Falls Common,Full
+City of Glens Falls,303.18-19-13,00201,"Machell, Dan",187 Warren St,"2022 - $86,700 2021 - $75,000",220,Old style,2,0,5,0,"1,958",1900,0.16acres,Glens Falls Common,Full
+City of Glens Falls,309.7-5-8,00204,"Deihl, John D",118 Sherman Ave,"2022 - $203,900 2021 - $114,600",220,Old style,2,0,4,0,"1,706",1921,0.20acres,Glens Falls,Full
+City of Glens Falls,309.7-5-18,00204,"Baars, Samuel G",51 Larose St,"2022 - $214,300 2021 - $138,000",210,Old style,2,0,4,0,"1,945",1930,0.35acres,Glens Falls,Full
+City of Glens Falls,309.7-6-4,00204,"Brewer-Barr, Debra M",16 Cortland St,"2022 - $157,100 2021 - $86,000",210,Old style,2,0,4,0,"1,618",1900,0.13acres,Glens Falls,Full
+City of Glens Falls,309.7-6-14,00204,"Alberico, Thomas",116 Sherman Ave,"2022 - $190,500 2021 - $86,300",220,Old style,2,0,4,0,"1,842",1900,0.11acres,Glens Falls,Full
+City of Glens Falls,309.7-6-21,00204,Tri-County Rental Homes LLC,14 Stevens St,"2022 - $183,700 2021 - $84,000",220,Old style,2,0,4,0,"1,792",1891,0.11acres,Glens Falls,Full
+City of Glens Falls,309.7-6-27,00204,LaPhatt Holding Inc,89 Montcalm St,"2022 - $192,300 2021 - $115,000",220,Old style,2,2,4,0,"1,792",2012,0.20acres,Glens Falls,Full
+City of Glens Falls,309.7-7-10,00204,Mihul LLC,110 Sherman Ave,"2022 - $197,300 2021 - $90,000",220,Old style,2,1,4,0,"1,760",1970,0.11acres,Glens Falls,0
+City of Glens Falls,309.7-7-13,00204,"Alkes, Arnold M",5 Cortland St,"2022 - $178,400 2021 - $81,100",220,Old style,2,0,4,0,"1,716",1920,0.13acres,Glens Falls,Full
+City of Glens Falls,309.7-8-8,00204,"Phair, James W",5 Wilmot St,"2022 - $171,200 2021 - $83,200",220,Old style,2,0,4,0,"1,714",1910,0.14acres,Glens Falls,Full
+City of Glens Falls,309.7-8-21,00204,"Filion, Paul R",14 Morton St,"2022 - $162,800 2021 - $84,900",220,Old style,2,0,4,0,"1,638",1900,0.13acres,Glens Falls,Full
+City of Glens Falls,309.7-9-12,00204,"Martin, Carol",2 Wilmot St,"2022 - $165,900 2021 - $83,100",220,Old style,2,0,4,0,"1,744",1900,0.05acres,Glens Falls,Full
+City of Glens Falls,309.7-9-13,00204,"Davidson, Colin  M",4 Wilmot St,"2022 - $192,300 2021 - $88,500",220,Old style,2,0,4,0,"2,052",1900,0.17acres,Glens Falls,Partial
+City of Glens Falls,309.7-9-14,00204,"Hoffman-Scranton, Ryan M",6 Wilmot St,"2022 - $192,800 2021 - $84,800",220,Old style,2,0,4,0,"1,832",1900,0.19acres,Glens Falls,Full
+City of Glens Falls,309.7-11-8,00204,"Kent, Philip",54 Orville St,"2022 - $210,700 2021 - $84,800",210,Old style,2,0,4,0,"2,062",1900,0.18acres,Glens Falls,Full
+City of Glens Falls,309.7-11-24.1,00204,"Signor, Colin",57 Montcalm St,"2022 - $157,700 2021 - $87,000",220,Old style,2,0,4,0,"1,702",1900,0.12acres,Glens Falls,Partial
+City of Glens Falls,309.7-13-1,00204,"Clark, Eileen",10 Mission St,"2022 - $171,900 2021 - $71,000",210,Old style,2,0,4,0,"1,768",1900,0.15acres,Glens Falls,Full
+City of Glens Falls,309.7-14-11,00204,"Barrow, Joseph P",37 New St,"2022 - $179,000 2021 - $94,500",220,Old style,2,0,5,0,"1,926",1889,0.18acres,Glens Falls,Full
+City of Glens Falls,309.11-5-4,00204,"Bienkowski, Stanley B",29 Staple St,"2022 - $203,000 2021 - $95,100",210,Old style,2,0,4,0,"1,685",1883,0.17acres,Glens Falls,Partial
+City of Glens Falls,309.11-5-23,00204,"Reed, Christopher",15 Staple St,"2022 - $167,300 2021 - $80,700",220,Old style,2,0,4,0,"1,794",1890,0.29acres,Glens Falls,Full
+City of Glens Falls,309.11-6-2,00204,"LaPhatt Holdings, Inc.",65 First St,"2022 - $181,900 2021 - $115,300",220,Colonial,2,2,4,0,"1,792",2015,0.15acres,Glens Falls,Slab/pier
+City of Glens Falls,309.11-6-4,00204,"Bazinet, William F",61 First St,"2022 - $194,000 2021 - $86,500",210,Old style,2,0,4,0,"1,626",1925,0.16acres,Glens Falls,Full
+City of Glens Falls,309.11-6-12,00204,LINY 27 LLC,45 First St,"2022 - $166,600 2021 - $92,500",220,Old style,2,0,4,0,"1,746",1910,0.21acres,Glens Falls,Full
+City of Glens Falls,309.11-7-3,00204,"Tucker, Heidi",7 Big Cross St,"2022 - $161,200 2021 - $86,500",220,Old style,2,0,4,0,"2,020",1850,0.19acres,Glens Falls,Partial
+City of Glens Falls,309.11-7-13,00204,M&K Home Renovations LLC,62 First St,"2022 - $62,700 2021 - $34,000",210,Old style,2,0,5,0,"1,741",1900,0.32acres,Glens Falls,Full
+City of Glens Falls,309.11-9-17,00204,"Nusskern, Ian A",79 Fourth St,"2022 - $204,800 2021 - $127,100",210,Raised ranch,2,0,4,1,"1,878",1970,0.26acres,Glens Falls,Full
+City of Glens Falls,309.11-11-9,00204,"Sanders, Kevin M",56 Third St,"2022 - $202,600 2021 - $125,000",210,Colonial,2,1,4,0,"1,904",1992,0.16acres,Glens Falls,Full
+City of Glens Falls,309.11-12-4,00204,"Aiken, Brian",60 Fourth St,"2022 - $236,700 2021 - $120,000",210,Old style,2,0,4,1,"1,691",1945,0.33acres,Glens Falls,Full
+City of Glens Falls,309.11-12-12,00204,"Wolfe, Kevin",84 Fourth St,"2022 - $181,100 2021 - $118,000",210,Cape cod,2,0,4,0,"1,889",1955,0.26acres,Glens Falls,Full
+City of Glens Falls,309.11-12-17,00204,"Deyoe, Kenneth",96 Fourth St,"2022 - $347,500 2021 - $172,000",210,Ranch,2,1,4,1,"2,154",1951,0.33acres,Glens Falls,Full
+City of Glens Falls,309.11-12-19,00204,"Smith, Susan J",89 Fifth St,"2022 - $301,300 2021 - $143,000",210,Ranch,2,1,5,0,"1,909",1961,0.42acres,Glens Falls,Full
+City of Glens Falls,309.11-13-17,00204,"Bass, Christina M",29 Fifth St,"2022 - $219,200 2021 - $109,000",210,Old style,2,1,4,0,"1,990",1912,0.16acres,Glens Falls,Full
+City of Glens Falls,309.11-14-4,00204,"Rivers, Craig A",71 Staple St,"2022 - $186,600 2021 - $90,300",220,Old style,2,0,4,0,"1,762",1850,0.26acres,Glens Falls,Partial
+City of Glens Falls,309.12-1-6,00204,"Gilligan, Joyce A",35 First St,"2022 - $155,600 2021 - $93,400",220,Old style,2,0,4,0,"1,981",1875,0.16acres,Glens Falls,Partial
+City of Glens Falls,309.12-1-9,00204,"Tabor, Myrna",29 First St,"2022 - $150,400 2021 - $78,800",220,Old style,2,0,4,0,"1,661",1920,0.16acres,Glens Falls,Full
+City of Glens Falls,309.12-1-12,00204,"Thompson, Shirley",23 First St,"2022 - $165,500 2021 - $78,000",220,Old style,2,0,5,0,"1,944",1897,0.16acres,Glens Falls,Full
+Municipality,Tax ID,Neighborhood Code,Owner Name,Street Address,Total Assessment,Site Prop. Class,Bldg Style,Baths,HalfBaths,Beds,Fireplaces,Living Area (sq ft),Year Built,Size,School District,Basement Type
+City of Glens Falls,309.12-5-7,00204,"LaPointe, Cindy J",10 Henry St,"2022 - $206,600 2021 - $86,000",210,Old style,2,0,5,0,"1,734",1850,0.19acres,Glens Falls,Full
+City of Glens Falls,309.12-7-18,00204,"Hopkins, Kenneth E",8 Big Cross St,"2022 - $175,900 2021 - $87,200",220,Old style,2,0,4,0,"1,962",1870,0.13acres,Glens Falls,Full
+City of Glens Falls,309.12-8-6,00204,"Bartlett, Fred",14 First St,"2022 - $143,700 2021 - $84,500",220,Old style,2,0,4,0,"1,697",1919,0.12acres,Glens Falls,Full
+City of Glens Falls,309.12-8-7,00204,"Thornquist, Kurtis J",16 First St,"2022 - $144,900 2021 - $72,200",220,Old style,2,0,4,0,"1,863",1930,0.12acres,Glens Falls,Full
+City of Glens Falls,309.12-8-8,00204,"Johnson, Joslyn",18 First St,"2022 - $114,300 2021 - $74,600",220,Old style,2,0,5,0,"1,624",1932,0.17acres,Glens Falls,Full
+City of Glens Falls,309.12-8-15,00204,"Matteson, Glenn D",13 Second St,"2022 - $143,100 2021 - $88,800",220,Old style,2,0,4,0,"1,712",1928,0.10acres,Glens Falls,Full
+City of Glens Falls,309.12-9-7,00204,"Black, Donald H Jr",157 South St,"2022 - $135,400 2021 - $80,200",220,Old style,2,0,4,0,"1,626",1919,0.13acres,Glens Falls,Full
+City of Glens Falls,309.12-10-35,00204,"Bapp, Sherry",19 Third St,"2022 - $156,800 2021 - $93,800",220,Old style,2,0,4,0,"2,099",1904,0.17acres,Glens Falls,Full
+City of Glens Falls,309.12-11-12,00204,"MacKenzie, John Jr",148 South St,"2022 - $134,700 2021 - $81,000",220,Old style,2,0,4,0,"1,845",1900,0.12acres,Glens Falls,Full
+City of Glens Falls,309.12-11-14,00204,"Higgins, Theresa L",154 South St,"2022 - $161,400 2021 - $91,000",220,Old style,2,0,4,0,"2,004",1810,0.41acres,Glens Falls,Partial
+City of Glens Falls,309.12-11-17,00204,"Bapp, James E",162 South St,"2022 - $161,300 2021 - $91,900",220,Old style,2,0,4,0,"1,916",1850,0.49acres,Glens Falls,Full
+City of Glens Falls,309.12-11-29,00204,LOMO Properties LLC,13 Woodlawn Ave,"2022 - $124,800 2021 - $77,800",220,Old style,2,0,4,0,"1,907",1900,0.13acres,Glens Falls,Full
+City of Glens Falls,309.12-11-35,00204,"Ientile, Arturu",180 South St,"2022 - $157,500 2021 - $84,400",220,Old style,2,0,5,0,"2,152",1870,0.18acres,Glens Falls,0
+City of Glens Falls,309.12-11-52,00204,"Lundgren, Scott",200 South St,"2022 - $150,100 2021 - $85,200",220,Old style,2,0,4,0,"2,098",1890,0.31acres,Glens Falls,Full
+City of Glens Falls,309.12-11-56,00204,"Eulian, Joseph F",208 South St,"2022 - $154,200 2021 - $74,300",220,Old style,2,0,4,0,"2,076",1911,0.41acres,Glens Falls,Full
+City of Glens Falls,309.12-12-31,00204,"Breault, Amy A",26 Henry St,"2022 - $194,600 2021 - $117,450",210,Raised ranch,2,0,4,0,"1,824",2009,0.16acres,Glens Falls,Full
+City of Glens Falls,309.12-13-2,00204,"Li, Enci",193 South St,"2022 - $134,400 2021 - $89,700",220,Old style,2,0,4,0,"1,728",1900,0.18acres,Glens Falls,Full
+City of Glens Falls,309.12-13-21,00204,Resurrection Properties Inc,23 Fourth St,"2022 - $125,000 2021 - $68,500",220,Old style,2,0,4,0,"1,629",1940,0.14acres,Glens Falls,Full
+City of Glens Falls,309.12-13-26,00204,"Mignot, Anthony",13 Fourth St,"2022 - $202,300 2021 - $98,400",210,Old style,2,0,4,0,"2,020",1912,0.19acres,Glens Falls,Full
+City of Glens Falls,309.12-13-28,00204,"Eddy, William",9 Fourth St,"2022 - $204,400 2021 - $106,000",210,Old style,2,1,4,0,"1,856",1910,0.19acres,Glens Falls,Full
+City of Glens Falls,309.12-13-31,00204,"Bardsley, Russel R",5 Fourth St,"2022 - $197,900 2021 - $86,500",210,Old style,2,0,4,0,"1,900",1920,0.17acres,Glens Falls,Partial
+City of Glens Falls,309.12-14-1,00204,"Bly, Jason",211 South St,"2022 - $151,100 2021 - $125,000",220,Old style,2,0,5,0,"1,768",1925,0.29acres,Glens Falls,Partial
+City of Glens Falls,309.15-4-5,00202,"Anderson, Eric",35 Haviland Ave,"2022 - $160,600 2021 - $107,900",220,Old style,2,0,4,0,"1,740",1900,0.52acres,Glens Falls,Partial
+City of Glens Falls,309.15-4-8,00202,"Charpentier, Patrick J",27 Haviland Ave,"2022 - $174,300 2021 - $108,600",210,Old style,2,0,4,0,"1,608",1920,0.24acres,Glens Falls,Full
+City of Glens Falls,309.15-4-10,00202,Dion Rental Properties LLC,23 Haviland Ave,"2022 - $206,000 2021 - $135,000",220,Old style,2,0,4,0,"2,102",1930,0.58acres,Glens Falls,Partial
+City of Glens Falls,309.15-4-11,00202,"McKenna, Jeffrey",15 Haviland Ave,"2022 - $197,400 2021 - $115,000",210,Old style,2,0,4,0,"1,824",1870,0.35acres,Glens Falls,Full
+City of Glens Falls,309.15-4-29,00202,"Timay, Robert P",7 Kidder Ln,"2022 - $226,200 2021 - $165,100",210,Cape cod,2,0,4,0,"1,752",1996,0.40acres,Glens Falls,Full
+City of Glens Falls,309.15-10-9,00202,"Lafayette, Serena M",9 Dudley St,"2022 - $136,200 2021 - $89,200",220,Old style,2,0,4,0,"1,774",1930,0.11acres,Glens Falls,Full
+City of Glens Falls,309.15-11-8,00202,"Shields, Elaine",33 W Boylston St,"2022 - $235,300 2021 - $109,200",210,Raised ranch,2,0,4,1,"1,900",1975,0.18acres,Glens Falls,Full
+City of Glens Falls,309.16-2-3,00204,"Fuller, Adrienne M",2 Knight St,"2022 - $163,500 2021 - $97,600",220,Old style,2,0,4,0,"2,069",1920,0.17acres,Glens Falls,Full
+City of Glens Falls,309.16-3-6.2,00204,"Colvin, Donna E",21 Water St,"2022 - $231,700 2021 - $143,000",210,Raised ranch,2,0,4,0,"2,020",1998,0.29acres,Glens Falls,Full
+City of Glens Falls,309.16-4-6,00204,"Blaise, Christopher",43 Water St,"2022 - $167,300 2021 - $121,700",210,Raised ranch,2,0,4,0,"1,700",1993,0.32acres,Glens Falls,Full
+City of Glens Falls,309.16-5-11,00202,"Flower Irrevocable Trust, Elaine L",16 Woodard St,"2022 - $203,100 2021 - $104,800",210,Old style,2,0,4,0,"1,828",1940,0.25acres,Glens Falls,Full
+City of Glens Falls,309.16-7-2.2,00206,"Blohm, Gordon E",8 Faxon St,"2022 - $213,300 2021 - $121,200",210,Raised ranch,2,0,4,0,"1,942",1996,0.17acres,Glens Falls,Full
+City of Glens Falls,309.16-7-3.1,00206,"Wright, Justin P",12 Faxon St,"2022 - $221,800 2021 - $114,500",210,Raised ranch,2,0,4,0,"1,890",1996,0.17acres,Glens Falls,Full
+City of Glens Falls,309.16-11-9,00206,"Lebowitz, Gavin G",6 E Beacon St,"2022 - $200,600 2021 - $122,000",210,Raised ranch,2,0,4,1,"1,692",1990,0.22acres,Glens Falls,Full
+City of Glens Falls,309.16-11-14,00206,"Vincent, Michael A",26 E Beacon St,"2022 - $289,000 2021 - $158,900",220,Ranch,2,0,4,0,"2,136",1987,0.46acres,Glens Falls,Full
+City of Glens Falls,309.16-16-5,00206,"White, William J Jr.",10 W Tremont St,"2022 - $244,500 2021 - $144,600",210,Raised ranch,2,0,4,0,"2,108",2007,0.23acres,Glens Falls,Full
+City of Glens Falls,309.19-4-5,00202,"Roesch, Paul",21 Thornberry Dr,"2022 - $225,700 2021 - $105,600",210,Raised ranch,2,0,5,0,"1,680",1964,0.26acres,Glens Falls,Full
+City of Glens Falls,309.19-6-14,00202,"Dwyre, Kevin A",16 Towpath Ln,"2022 - $226,700 2021 - $140,200",210,Cape cod,2,0,4,1,"1,638",1988,0.23acres,Glens Falls,Full
+City of Glens Falls,309.27-1-1,00204,"Geroux, Heidi A",38 Crandall St,"2022 - $164,800 2021 - $83,000",210,Old style,2,0,4,0,"1,766",1902,0.11acres,Glens Falls,Full
+City of Glens Falls,309.27-1-13,00204,Cutshall-King Family Trust,20 Elizabeth St,"2022 - $201,000 2021 - $91,100",220,Old style,2,1,5,0,"1,867",1915,0.17acres,Glens Falls,Full
+City of Glens Falls,309.27-1-21,00204,"Stroffolino, Jacqueline",25 Orville St,"2022 - $150,200 2021 - $105,000",210,Old style,2,0,5,0,"1,606",1900,0.10acres,Glens Falls,Full
+City of Glens Falls,309.27-2-7,00204,CAM FUND 2018-1 LLC,36 Crandall St,"2022 - $176,400 2021 - $83,400",220,Old style,2,0,4,0,"1,925",1900,0.15acres,Glens Falls,Full
+City of Glens Falls,309.27-2-8,00204,"Twardy, Matthew E",22 Orville St,"2022 - $168,800 2021 - $82,000",220,Old style,2,0,4,0,"1,880",1890,0.12acres,Glens Falls,Full
+City of Glens Falls,309.27-2-14,00204,"Loeb, William A",34 Orville St,"2022 - $192,200 2021 - $102,500",210,Old style,2,0,4,0,"1,677",1900,0.17acres,Glens Falls,Full
+City of Glens Falls,309.27-5-3,00204,"Neely, Bethany L",6 Ormond St,"2022 - $238,300 2021 - $104,000",210,Ranch,2,0,4,1,"1,654",1951,0.19acres,Glens Falls,Full
+City of Glens Falls,309.27-6-3,00204,"Rozell, Gary L",73 Broad St,"2022 - $174,800 2021 - $136,900",210,Old style,2,0,5,0,"1,959",1916,1.10acres,Glens Falls,Full
+City of Glens Falls,309.27-6-9,00204,"Mejo, Maureen D",4 N Delaware St,"2022 - $141,600 2021 - $69,000",220,Old style,2,0,4,0,"1,605",1924,0.08acres,Glens Falls,Partial
+City of Glens Falls,309.27-6-17,00204,Glens Falls Holdings LLC,4 Cottage Pl,"2022 - $154,300 2021 - $83,600",220,Old style,2,0,4,0,"1,752",1919,0.06acres,Glens Falls,Full
+Municipality,Tax ID,Neighborhood Code,Owner Name,Street Address,Total Assessment,Site Prop. Class,Bldg Style,Baths,HalfBaths,Beds,Fireplaces,Living Area (sq ft),Year Built,Size,School District,Basement Type
+City of Glens Falls,309.27-6-21,00204,"Metzger, Michael J",14 Crandall St,"2022 - $164,600 2021 - $99,000",220,Old style,2,0,4,0,"1,857",1919,0.08acres,Glens Falls,Partial
+City of Glens Falls,309.27-6-26,00204,"People: Projects to Empower &, Organize the Psychia",6 Montcalm St,"2022 - $176,200 2021 - $77,200",210,Old style,2,0,4,1,"1,612",1840,0.15acres,Glens Falls,Partial
+City of Glens Falls,309.27-6-38,00204,A & K Capital Properties LLC,32 Montcalm St,"2022 - $132,300 2021 - $78,600",220,Old style,2,0,4,0,"1,856",1919,0.18acres,Glens Falls,Full
+City of Glens Falls,309.27-6-45,00204,"Hart, Shawna W",46 Montcalm St,"2022 - $150,700 2021 - $92,600",220,Old style,2,0,4,0,"1,776",1921,0.04acres,Glens Falls,Full
+City of Glens Falls,309.27-6-47,00204,"Serradimigni, Alina",13 Mission St,"2022 - $159,700 2021 - $76,500",220,Old style,2,0,5,0,"1,808",1921,0.10acres,Glens Falls,Full
+City of Glens Falls,309.28-5-8,00204,91 South Street Corp.,7 New Pruyn St,"2022 - $84,400 2021 - $72,100",220,Old style,2,0,4,0,"1,620",1910,0.05acres,Glens Falls,Partial
+City of Glens Falls,309.28-9-4,00204,USP Residential LLC,14 New Pruyn St,"2022 - $151,100 2021 - $94,000",220,Old style,2,0,5,0,"1,796",1900,0.15acres,Glens Falls,Full
+City of Glens Falls,309.28-9-5,00204,"Askew, Lois",28 Broad St,"2022 - $164,700 2021 - $79,000",220,Old style,2,0,5,0,"1,844",1900,0.15acres,Glens Falls,Full
+City of Glens Falls,309.35-1-2,00204,"Scuri, Marie",99 Broad St,"2022 - $188,800 2021 - $106,400",220,Old style,2,1,4,0,"2,080",1923,0.12acres,Glens Falls,Full
+City of Glens Falls,309.35-1-13,00204,"Hoffer, Kristopher J",5 Mission St,"2022 - $170,100 2021 - $105,000",220,Old style,2,0,4,0,"1,638",1891,0.14acres,Glens Falls,Partial
+City of Glens Falls,309.35-1-14,00204,"Weber, Mary",1 Mission St,"2022 - $165,700 2021 - $87,000",220,Old style,2,0,4,0,"1,944",1882,0.09acres,Glens Falls,Full
+City of Glens Falls,309.35-5-1,00204,"Steans, Charity",141 South St,"2022 - $201,000 2021 - $86,200",210,Old style,2,0,4,0,"1,820",1900,0.24acres,Glens Falls,Partial
+City of Glens Falls,309.36-3-4,00204,"Viele, Edward",19 Basin St,"2022 - $174,800 2021 - $85,000",220,Old style,2,0,4,0,"2,066",1900,0.47acres,Glens Falls,Partial
+City of Glens Falls,309.36-3-6,00204,Move Acreage NY LLC,52 Mohican St,"2022 - $145,800 2021 - $78,600",220,Old style,2,0,4,0,"1,668",1910,0.19acres,Glens Falls,Full
+City of Glens Falls,303.18-15-4.1,00201,O'B Property Holdings LLC,9 Haskell Ave,"2022 - $172,700 2021 - $81,100",220,Old style,2,0,4,0,"2,032",1900,0.14acres,Glens Falls Common,Full
+City of Glens Falls,309.15-14-3.2,00206,"Barbieri, John L Jr",26 W Tremont St,"2022 - $206,600 2021 - $140,200",210,Raised ranch,2,0,4,1,"1,716",2004,0.17acres,Glens Falls,Full
+City of Glens Falls,302.16-19-2.3,00204,LaPhatt Holding Inc,5 Washburn Ave,"2022 - $157,400 2021 - $115,000",220,Duplex,2,2,4,0,"1,792",2011,0.19acres,Glens Falls,Full
+City of Glens Falls,302.16-19-2.4,00204,LaPhatt Holdings Inc,7 Washburn Ave,"2022 - $175,800 2021 - $115,000",220,Duplex,2,2,4,0,"1,792",2011,0.19acres,Glens Falls,Full
+City of Glens Falls,303.18-11-14.3,00201,Girard & Girard Properties LLC,20 McDonald St,"2022 - $127,000 2021 - $81,000",220,Old style,2,0,4,0,"1,837",1920,0.08acres,Glens Falls Common,Full
+City of Glens Falls,303.13-3-10.1,00202,"TayloMall, Susan G",47 Sagamore St,"2022 - $211,500 2021 - $103,100",210,Old style,2,0,4,0,"1,750",1940,0.19acres,Glens Falls,Full
+City of Glens Falls,303.18-4-19.1,00201,"May, Franklin C",51 Peck Ave,"2022 - $192,400 2021 - $105,800",210,Old style,2,0,5,0,"1,913",1900,0.14acres,Glens Falls Common,Full
