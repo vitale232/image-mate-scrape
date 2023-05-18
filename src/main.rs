@@ -7,9 +7,9 @@ fn main() {
     let pages_dir = env::current_dir()
         .expect("Could not retrieve the current dir!")
         .join("pages");
+
     let mut writer =
         Writer::from_path(pages_dir.join("pages_out.csv")).expect("Could not open CsvWriter!");
-
     let table_selector = Selector::parse("#tblComps").unwrap();
     let tr_selector = Selector::parse("tr").unwrap();
     let td_selector = Selector::parse("td").unwrap();
@@ -37,8 +37,22 @@ fn main() {
                             .collect::<Vec<_>>()
                             .join(" ")
                             .trim()
+                            .replace("\n", "")
+                            .replace("                                                ", " ")
                             .to_string();
-                        row.push(cell_text);
+                        if i == 5 {
+                            let mut clean_cell_text = String::new();
+                            for char in cell_text.chars() {
+                                if char == '\u{a0}' || char == '\u{c2}'{
+                                    continue;
+                                } else {
+                                    clean_cell_text.push(char);
+                                }
+                            }
+                            row.push(clean_cell_text);
+                        } else {
+                            row.push(cell_text);
+                        }
                     }
                 }
                 if !row.is_empty() {
