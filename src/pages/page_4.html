@@ -1,0 +1,2197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0014)about:internet -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+		<title>ASAP Results - Image Mate Online</title>
+		<link media="print" href="./page_4_files/printersheet.css" type="text/css" rel="stylesheet">
+		<link href="./page_4_files/imostyle.css" type="text/css" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" media="all" href="./page_4_files/comps.css">
+		<style type="text/css" media="all">
+		    #tblComps td.headerTD {
+		        border-top: 1px solid #000;
+		    }
+		    #tblComps td:first-child {
+		        border-left: 1px solid #000;
+		    }
+		</style>
+		<script language="javascript">
+		<!-- // BEGIN		
+		function MakeSureAtLeastOneIsChecked()
+		{
+			var i = 0;
+			var curBox;
+			var OneIsChecked = false;	// a boolean indicating one box is checked
+			
+			//see if the 0th box exists
+			curBox = document.Form1.box0;
+			
+			//While there are still check boxes, check and see if they are checked
+			while ((!OneIsChecked) && curBox)
+			{
+				if (curBox.checked)
+					OneIsChecked = true;
+
+				i++;
+				//Get the next checkbox
+				eval('curBox = document.Form1.box' + i + ';');
+			}
+			
+			//Proceed only if checked boxes on current page OR checked boxes on other pages
+			if ( (OneIsChecked) || ('False' == 'True' ) )
+			{
+			    return true;
+				
+			} else {
+			    window.alert('You must select at least one property to continue!');
+			    return false;
+			}
+		}
+		
+		function setupGisButton() {
+			var gisButton = document.getElementById('btnCompGISMap');
+			if (gisButton) gisButton.onclick = openGisToPin;
+		}
+		
+		function openGisToPin() {
+			var gisLink = 'toGIS.aspx?swis=520500&sbl=';
+			var sblList = '';
+			var otherPageSelections = '';
+			var i = 0;					// a counter, initialized to 0
+			var curBox;					// the current checkbox
+			var OneIsChecked;			// a boolean indicating one box is checked
+			var sbl;
+		
+		    // need to generate rest of link here (after selections are made)
+		    // Spin through the boxn elements and for any that are checked add the sbl to link
+			
+			//see if the 0th box exists
+			curBox = document.Form1.box0;
+			
+			while (curBox)
+			{
+				if (curBox.checked) {
+					// add to list NOTE:currently only works for single SWIS sites (or known unique SBLs)
+					eval("sbl = document.Form1.Sbl" + i + ".value;");
+					sblList = sblList + sbl + ',';
+				}
+				
+				i++;
+				
+				//Get the next checkbox
+				eval('curBox = document.Form1.box' + i + ';');
+			}
+			
+			// now need to add on any sbls selected selected on other pages
+			sblList = sblList + otherPageSelections;
+				
+			// make sure there was at least one box is checked
+			if (sblList == '') {
+				window.alert('You must select at least one property to continue!');
+			} else {
+			    // there's a limit to how big the url can be which isn't be checked !!!
+				gisLink = gisLink + sblList;
+				
+				var gisCompWindow = window.open(gisLink, 'gisCompWindow');
+				gisCompWindow.focus();
+			}
+			return false;
+		}
+		
+	// END -->		
+	</script>
+	</head>
+	<body>
+		<!-- onsubmit="return MakeSureAtLeastOneIsChecked(); -->
+		<form method="post" action="https://cityofglensfalls.sdgnys.com/complist.aspx" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="63352819">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAYF05So8dZmU6WE1jtQA0STD4bHHwrv/Zqu+oRKlrk/ausXb96O1mF1NkAeopiyXKZhwnckl5/hZULQ4N9x+b7fsGTvGtc371kytOFDlVieDuCM375WRrcevEyFf5CTS/oOwp/aWKCmtgTRRM8DA7h+2Uc05hOo9URJTpzJTFg9pw==">
+</div>
+			<p>
+<script type="text/javascript">
+//<!--
+function openWindow(NewUrl){
+	var newWin;
+	newWin = window.open(NewUrl, 'display');
+	if (window.focus) {newWin.focus();}
+}
+
+function openHelp(HelpUrl)
+{	
+	var helpWin = window.open(HelpUrl, 'help', 
+	                          'width=800,height=600,scrollbars,toolbar');
+	if (window.focus) {
+	   helpWin.focus();
+	}
+}
+
+//window.onerror = function() {return true;}
+//-->
+</script>
+<script type="text/javascript" src="./page_4_files/dropdown.js"></script>
+<!--[if lt IE 8]>
+<script type="text/javascript" src="/javascript/common.js"></script>
+<script type="text/javascript">
+  addEvent(window, "load", fixIE, false);
+</script>
+<![endif]-->
+
+
+<script type="text/javascript">
+// <!--
+
+  function setupGisLinkForNewWindow() {
+    var gisLink = document.getElementById('gisLink');
+    if (gisLink) {
+      gisLink.onclick = openGisToFullExtent;
+    }
+  }
+  
+  function openGisToFullExtent() {
+    // We need to get the URL from the existing link because it includes the
+    // site's root URL
+    var gisLink = document.getElementById('gisLink');
+    var url = gisLink.href;
+    
+    // Note: the "gisWindow" ID is the same as the one used by the GIS pin
+    // button on the property details page
+    var gisWindow = window.open(url, 'gisWindow');
+    gisWindow.focus();
+    return false;
+  }
+
+// -->
+</script>
+
+
+</p><div id="header">
+    <table id="Linkbar1_tblSeals" style="color:White;background-color:White;">
+	<tbody><tr>
+		<td style="width:33%;"><h2 style="margin:0;line-height:1.5em;"><a href="https://cityofglensfalls.com/" target="_blank">City of Glens Falls</a></h2></td><td><a href="https://www.sdgnys.com/" target="_blank"><img src="./page_4_files/logo.png" alt="SDG Logo"></a></td><td></td>
+	</tr>
+</tbody></table>
+    
+    <div id="links">
+        <ul id="linksList">
+            <li class="menu">Navigation<ul><li><a href="https://cityofglensfalls.sdgnys.com/search.aspx">Property Search</a></li></ul></li><li><a href="https://cityofglensfalls.sdgnys.com/taxmaps.aspx">Tax Maps</a></li><li>|</li><li class="menu">DTF Links<ul><li><a href="https://www.orps.state.ny.us/cfapps/MuniPro/muni_theme/county/county.cfm?swis=52" target="_blank">County Info</a></li><li><a href="https://www.tax.ny.gov/research/property/default.htm" target="_blank">DTF Home Page</a></li><li><a href="https://www.tax.ny.gov/forms/orpts_cur_forms.htm" target="_blank">DTF Forms</a></li><li><a href="https://www.tax.ny.gov/pit/property/exemption/index.htm" target="_blank">DTF Exemptions</a></li><li><a href="https://www.tax.ny.gov/pit/property/contest/contestasmt.htm" target="_blank">DTF Grievances</a></li></ul></li><li class="menu">Assessment Info<ul><li><a href="https://cityofglensfalls.sdgnys.com/assessmentinfo.aspx" target="_blank">County Assessment Info</a></li></ul></li><li class="rightAlign"><a href="https://cityofglensfalls.sdgnys.com/logout.aspx?passthrough=true">Log In</a></li><li class="rightAlign"><a href="http://35.196.192.252:8080/contactSdg">Contact Us</a></li><li class="rightAlign"><a href="javascript:openHelp(&#39;/help/browser.aspx?page=complist&#39;)">Help</a></li>
+        </ul>
+        
+        <script type="text/javascript">setupGisLinkForNewWindow();</script>
+        
+    </div>
+</div>
+<p></p>
+			<h1 align="center">Search Results</h1>
+			<p align="center"><b> - </b></p>
+			<hr width="100%" size="1">
+			
+			
+			
+			<div id="dataDiv" align="center">
+			    <table width="100%" border="0">
+                   <tbody><tr>
+                      <td width="15%">  <span id="lblCurrentPage">Page: 4 of 9</span></td>
+                   
+                      <td align="left">  
+                          <input type="submit" name="cmdPrev" value=" &lt;&lt; " id="cmdPrev">
+                          <input type="submit" name="cmdNext" value=" &gt;&gt; " id="cmdNext">
+                      </td>
+                      <td class="dataTDsmall" align="right">
+                          <span id="lblAvailable">421 records available (of 421 total matching criteria)</span>
+                      </td>
+                      <td class="dataTDsmall" align="right">
+                          <span id="lblSelections">0 comparables selected</span>
+                      </td>
+                   </tr>
+                </tbody></table>
+                
+                <table id="tblComps" border="0" cellspacing="0">
+                    
+                            <tbody><tr>
+                            <td class="headerTD">Compare?</td>
+                            <td class="headerTD">Municipality</td>
+                            <td class="headerTD">Tax ID</td>
+                            <td class="headerTD">Neighborhood Code</td>
+                            <td class="headerTD">Owner Name</td>
+                            <td class="headerTD">Street Address</td>
+                            
+                            
+                            
+                            <td class="headerTD">Total Assessment</td>
+                            <td class="headerTD">Site Prop. Class</td>
+                            
+                            
+                            <td class="headerTD">Bldg Style</td>
+                            <td class="headerTD">Baths</td>
+                            <td class="headerTD">HalfBaths</td>
+                            <td class="headerTD">Beds</td>
+                            <td class="headerTD">Fireplaces</td>
+                            <td class="headerTD">Living Area (sq ft)</td>
+                            
+                            
+                            <td class="headerTD">Year Built</td>
+                            <td class="headerTD">Size</td>
+                            <td class="headerTD">School District</td>
+                            <td class="headerTD">Basement Type</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30201900220100000000" name="Sbl0">
+                                <input type="checkbox" value="1" name="box0" id="box0"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.19-22-10</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Giannella, Jeffrey</td>
+                            
+                            <td class="dataTD">48&nbsp; 
+                                               Grove Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $179,300<br>2021 - $84,500&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">5</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,072</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.17&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30201900270080000000" name="Sbl1">
+                                <input type="checkbox" value="1" name="box1" id="box1"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.19-27-8</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Caruso, Mark U</td>
+                            
+                            <td class="dataTD">1&nbsp; 
+                                               Empire Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $266,500<br>2021 - $181,500&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Colonial</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">1</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">1</td>
+                            
+                            
+                            <td class="dataTD">2,106</td>
+                            <td class="dataTD">1958</td>
+                            <td class="dataTD">0.41&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30201900280010000000" name="Sbl2">
+                                <input type="checkbox" value="1" name="box2" id="box2"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.19-28-1</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Trunzi, Rosaria</td>
+                            
+                            <td class="dataTD">50&nbsp; 
+                                               Crandall St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $160,200<br>2021 - $96,500&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,720</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.08&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30201900280030000000" name="Sbl3">
+                                <input type="checkbox" value="1" name="box3" id="box3"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.19-28-3</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Friedman, Sara</td>
+                            
+                            <td class="dataTD">54&nbsp; 
+                                               Crandall St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $193,300<br>2021 - $102,200&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">1</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">1</td>
+                            
+                            
+                            <td class="dataTD">1,896</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.21&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30201900280090000000" name="Sbl4">
+                                <input type="checkbox" value="1" name="box4" id="box4"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.19-28-9</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Lazarescu, Ionut Adrian</td>
+                            
+                            <td class="dataTD">62&nbsp; 
+                                               W Notre Dame St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $177,500<br>2021 - $95,800&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">5</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,020</td>
+                            <td class="dataTD">1910</td>
+                            <td class="dataTD">0.13&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30201900280290000000" name="Sbl5">
+                                <input type="checkbox" value="1" name="box5" id="box5"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.19-28-29</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">DelSavio, Mary</td>
+                            
+                            <td class="dataTD">55&nbsp; 
+                                               Sherman Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $161,100<br>2021 - $108,600&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,672</td>
+                            <td class="dataTD">1850</td>
+                            <td class="dataTD">0.42&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30201900280330000000" name="Sbl6">
+                                <input type="checkbox" value="1" name="box6" id="box6"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.19-28-33</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">AR Family Properties LLC</td>
+                            
+                            <td class="dataTD">47&nbsp; 
+                                               Sherman Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $133,000<br>2021 - $97,400&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">1</td>
+                            <td class="dataTD">5</td>
+                            <td class="dataTD">1</td>
+                            
+                            
+                            <td class="dataTD">1,955</td>
+                            <td class="dataTD">1920</td>
+                            <td class="dataTD">0.26&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000010070000000" name="Sbl7">
+                                <input type="checkbox" value="1" name="box7" id="box7"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-1-7</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Joseph F Mulcahy Trust</td>
+                            
+                            <td class="dataTD">9&nbsp; 
+                                               Harrison Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $134,200<br>2021 - $103,500&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,938</td>
+                            <td class="dataTD">1940</td>
+                            <td class="dataTD">0.18&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000010110000000" name="Sbl8">
+                                <input type="checkbox" value="1" name="box8" id="box8"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-1-11</td>
+                            <td class="dataTD">00205&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Holcomb, Trevor</td>
+                            
+                            <td class="dataTD">18&nbsp; 
+                                               Grant Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $177,300<br>2021 - $96,800&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,916</td>
+                            <td class="dataTD">1930</td>
+                            <td class="dataTD">0.17&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000020110000000" name="Sbl9">
+                                <input type="checkbox" value="1" name="box9" id="box9"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-2-11</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">NCB LLC</td>
+                            
+                            <td class="dataTD">1&nbsp; 
+                                               Davis St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $164,700<br>2021 - $133,300&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,968</td>
+                            <td class="dataTD">1925</td>
+                            <td class="dataTD">0.13&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000030040000000" name="Sbl10">
+                                <input type="checkbox" value="1" name="box10" id="box10"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-3-4</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Sandoval, Tracy E</td>
+                            
+                            <td class="dataTD">12&nbsp; 
+                                               Charlotte St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $195,500<br>2021 - $84,700&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,756</td>
+                            <td class="dataTD">1920</td>
+                            <td class="dataTD">0.23&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000030070000000" name="Sbl11">
+                                <input type="checkbox" value="1" name="box11" id="box11"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-3-7</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Palmer, Scott E</td>
+                            
+                            <td class="dataTD">28&nbsp; 
+                                               Grove Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $174,500<br>2021 - $102,500&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,861</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.20&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000030090000000" name="Sbl12">
+                                <input type="checkbox" value="1" name="box12" id="box12"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-3-9</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Collins, Joanne</td>
+                            
+                            <td class="dataTD">32&nbsp; 
+                                               Grove Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $203,900<br>2021 - $117,000&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,796</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.19&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000030150000000" name="Sbl13">
+                                <input type="checkbox" value="1" name="box13" id="box13"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-3-15</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Alexander Leszcynski Irr. Trus</td>
+                            
+                            <td class="dataTD">65&nbsp; 
+                                               Crandall St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $186,200<br>2021 - $110,000&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,736</td>
+                            <td class="dataTD">1930</td>
+                            <td class="dataTD">0.40&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000030170000000" name="Sbl14">
+                                <input type="checkbox" value="1" name="box14" id="box14"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-3-17</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Beatty, Chan R</td>
+                            
+                            <td class="dataTD">61&nbsp; 
+                                               Crandall St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $187,500<br>2021 - $97,700&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,012</td>
+                            <td class="dataTD">1920</td>
+                            <td class="dataTD">0.16&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000040010000000" name="Sbl15">
+                                <input type="checkbox" value="1" name="box15" id="box15"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-4-1</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Golden, Meaghan M</td>
+                            
+                            <td class="dataTD">10&nbsp; 
+                                               Marion Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $161,100<br>2021 - $125,000&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,082</td>
+                            <td class="dataTD">1930</td>
+                            <td class="dataTD">0.07&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000040050000000" name="Sbl16">
+                                <input type="checkbox" value="1" name="box16" id="box16"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-4-5</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Quinlan, Thomas</td>
+                            
+                            <td class="dataTD">16&nbsp; 
+                                               Grove Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $216,400<br>2021 - $97,700&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,922</td>
+                            <td class="dataTD">1920</td>
+                            <td class="dataTD">0.19&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000040090000000" name="Sbl17">
+                                <input type="checkbox" value="1" name="box17" id="box17"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-4-9</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Palmer, Ian M</td>
+                            
+                            <td class="dataTD">24&nbsp; 
+                                               Grove Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $177,200<br>2021 - $100,600&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">1</td>
+                            
+                            
+                            <td class="dataTD">2,158</td>
+                            <td class="dataTD">1920</td>
+                            <td class="dataTD">0.17&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000060100000000" name="Sbl18">
+                                <input type="checkbox" value="1" name="box18" id="box18"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-6-10</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Mizejewski, Michael C</td>
+                            
+                            <td class="dataTD">23&nbsp; 
+                                               Birch Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $183,900<br>2021 - $89,300&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,976</td>
+                            <td class="dataTD">1922</td>
+                            <td class="dataTD">0.07&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000060170000000" name="Sbl19">
+                                <input type="checkbox" value="1" name="box19" id="box19"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-6-17</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">CRB Rentals LLC</td>
+                            
+                            <td class="dataTD">9&nbsp; 
+                                               Birch Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $168,200<br>2021 - $72,600&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,150</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.07&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000070110000000" name="Sbl20">
+                                <input type="checkbox" value="1" name="box20" id="box20"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-7-11</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">DiBella, Joseph S</td>
+                            
+                            <td class="dataTD">15&nbsp; 
+                                               Marion Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $163,400<br>2021 - $92,500&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,792</td>
+                            <td class="dataTD">1930</td>
+                            <td class="dataTD">0.14&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000070130000000" name="Sbl21">
+                                <input type="checkbox" value="1" name="box21" id="box21"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-7-13</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Gega, Paul</td>
+                            
+                            <td class="dataTD">19&nbsp; 
+                                               Marion Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $176,400<br>2021 - $87,800&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,844</td>
+                            <td class="dataTD">1930</td>
+                            <td class="dataTD">0.18&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000090040000000" name="Sbl22">
+                                <input type="checkbox" value="1" name="box22" id="box22"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-9-4</td>
+                            <td class="dataTD">00202&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Raymond Asset Mngmt Trust</td>
+                            
+                            <td class="dataTD">12&nbsp; 
+                                               Madison St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $158,200<br>2021 - $84,200&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,922</td>
+                            <td class="dataTD">1910</td>
+                            <td class="dataTD">0.19&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000090270000000" name="Sbl23">
+                                <input type="checkbox" value="1" name="box23" id="box23"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-9-27</td>
+                            <td class="dataTD">00202&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Jabaut Properties LLC</td>
+                            
+                            <td class="dataTD">8&nbsp; 
+                                               May St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $152,700<br>2021 - $100,000&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,020</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.10&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000100040000000" name="Sbl24">
+                                <input type="checkbox" value="1" name="box24" id="box24"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-10-4</td>
+                            <td class="dataTD">00202&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Anderson, Charity</td>
+                            
+                            <td class="dataTD">16&nbsp; 
+                                               Nelson St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $164,900<br>2021 - $88,700&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,032</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.23&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000100070000000" name="Sbl25">
+                                <input type="checkbox" value="1" name="box25" id="box25"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-10-7</td>
+                            <td class="dataTD">00202&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Back, Christy</td>
+                            
+                            <td class="dataTD">25&nbsp; 
+                                               Fulton St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $128,400<br>2021 - $83,800&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,678</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.09&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000100120000000" name="Sbl26">
+                                <input type="checkbox" value="1" name="box26" id="box26"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-10-12</td>
+                            <td class="dataTD">00202&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Gonyea, Lawrence R Jr</td>
+                            
+                            <td class="dataTD">15&nbsp; 
+                                               Fulton St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $132,900<br>2021 - $88,000&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,040</td>
+                            <td class="dataTD">1920</td>
+                            <td class="dataTD">0.11&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000110020000000" name="Sbl27">
+                                <input type="checkbox" value="1" name="box27" id="box27"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-11-2</td>
+                            <td class="dataTD">00202&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Orleman, Kragen S</td>
+                            
+                            <td class="dataTD">140&nbsp; 
+                                               Ridge St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $182,200<br>2021 - $104,800&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,853</td>
+                            <td class="dataTD">1910</td>
+                            <td class="dataTD">0.24&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000110100000000" name="Sbl28">
+                                <input type="checkbox" value="1" name="box28" id="box28"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-11-10</td>
+                            <td class="dataTD">00202&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Demattos, Anthony J</td>
+                            
+                            <td class="dataTD">160&nbsp; 
+                                               Ridge St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $215,200<br>2021 - $131,700&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,076</td>
+                            <td class="dataTD">1910</td>
+                            <td class="dataTD">0.09&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000110210000000" name="Sbl29">
+                                <input type="checkbox" value="1" name="box29" id="box29"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-11-21</td>
+                            <td class="dataTD">00202&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Swain, Robert M</td>
+                            
+                            <td class="dataTD">7&nbsp; 
+                                               Nelson St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $165,500<br>2021 - $74,500&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,793</td>
+                            <td class="dataTD">1884</td>
+                            <td class="dataTD">0.17&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000120090000000" name="Sbl30">
+                                <input type="checkbox" value="1" name="box30" id="box30"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-12-9</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Lerist Enterprises LLC</td>
+                            
+                            <td class="dataTD">13&nbsp; 
+                                               Union St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $170,900<br>2021 - $83,300&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,867</td>
+                            <td class="dataTD">1928</td>
+                            <td class="dataTD">0.14&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000120190000000" name="Sbl31">
+                                <input type="checkbox" value="1" name="box31" id="box31"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-12-19</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">19 E Notre Dame LLC</td>
+                            
+                            <td class="dataTD">16&nbsp; 
+                                               E Notre Dame St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $175,300<br>2021 - $85,000&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,916</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.10&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000130110000000" name="Sbl32">
+                                <input type="checkbox" value="1" name="box32" id="box32"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-13-11</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Van Benthuysen, Judith</td>
+                            
+                            <td class="dataTD">9&nbsp; 
+                                               Wait St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $180,700<br>2021 - $82,200&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">1</td>
+                            
+                            
+                            <td class="dataTD">1,671</td>
+                            <td class="dataTD">1920</td>
+                            <td class="dataTD">0.13&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000140110000000" name="Sbl33">
+                                <input type="checkbox" value="1" name="box33" id="box33"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-14-11</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Urbonowicz Irr Trust, Joseph &amp; Darlene</td>
+                            
+                            <td class="dataTD">36&nbsp; 
+                                               W Notre Dame St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $187,900<br>2021 - $96,000&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,726</td>
+                            <td class="dataTD">1960</td>
+                            <td class="dataTD">0.20&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Partial</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000150090000000" name="Sbl34">
+                                <input type="checkbox" value="1" name="box34" id="box34"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-15-9</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Brumagen, Noah J</td>
+                            
+                            <td class="dataTD">6&nbsp; 
+                                               Holman St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $189,900<br>2021 - $91,100&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,056</td>
+                            <td class="dataTD">1904</td>
+                            <td class="dataTD">0.16&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000150100000000" name="Sbl35">
+                                <input type="checkbox" value="1" name="box35" id="box35"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-15-10</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Irwin, Tobi J</td>
+                            
+                            <td class="dataTD">4&nbsp; 
+                                               Holman St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $166,900<br>2021 - $89,000&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,086</td>
+                            <td class="dataTD">1930</td>
+                            <td class="dataTD">0.09&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000200150000000" name="Sbl36">
+                                <input type="checkbox" value="1" name="box36" id="box36"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-20-15</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Golden, Meaghan M</td>
+                            
+                            <td class="dataTD">9&nbsp; 
+                                               Orville St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $174,900<br>2021 - $84,000&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,952</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.14&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000210060000000" name="Sbl37">
+                                <input type="checkbox" value="1" name="box37" id="box37"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-21-6</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Kopf, Andrew</td>
+                            
+                            <td class="dataTD">16&nbsp; 
+                                               Sherman Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $185,000<br>2021 - $88,700&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,968</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.19&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Partial</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000250030000000" name="Sbl38">
+                                <input type="checkbox" value="1" name="box38" id="box38"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-25-3</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Radigan, Russell</td>
+                            
+                            <td class="dataTD">5&nbsp; 
+                                               Division St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $179,800<br>2021 - $86,500&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,624</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.20&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000250040000000" name="Sbl39">
+                                <input type="checkbox" value="1" name="box39" id="box39"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-25-4</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Arcuri-DeMarsh, Tina M</td>
+                            
+                            <td class="dataTD">3&nbsp; 
+                                               Division St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $197,500<br>2021 - $116,000&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Colonial</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,792</td>
+                            <td class="dataTD">2013</td>
+                            <td class="dataTD">0.09&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Slab/pier</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000250070000000" name="Sbl40">
+                                <input type="checkbox" value="1" name="box40" id="box40"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-25-7</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Wolfe, Michael D</td>
+                            
+                            <td class="dataTD">68&nbsp; 
+                                               Elm St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $208,800<br>2021 - $77,300&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,097</td>
+                            <td class="dataTD">1800</td>
+                            <td class="dataTD">0.22&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000250090000000" name="Sbl41">
+                                <input type="checkbox" value="1" name="box41" id="box41"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-25-9</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Filion, Paul R</td>
+                            
+                            <td class="dataTD">4&nbsp; 
+                                               Orville St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $170,000<br>2021 - $84,800&nbsp;</td>
+                            <td class="dataTD">220</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,004</td>
+                            <td class="dataTD">1850</td>
+                            <td class="dataTD">0.11&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000260050000000" name="Sbl42">
+                                <input type="checkbox" value="1" name="box42" id="box42"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-26-5</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Cronkhite, Barry W</td>
+                            
+                            <td class="dataTD">6&nbsp; 
+                                               Division St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $174,400<br>2021 - $85,000&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">1,919</td>
+                            <td class="dataTD">1910</td>
+                            <td class="dataTD">0.11&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Partial</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30202000270110000000" name="Sbl43">
+                                <input type="checkbox" value="1" name="box43" id="box43"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">302.20-27-11</td>
+                            <td class="dataTD">00204&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Michael G George Living Trust</td>
+                            
+                            <td class="dataTD">6&nbsp; 
+                                               Pine St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $169,700<br>2021 - $103,500&nbsp;</td>
+                            <td class="dataTD">283</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">1</td>
+                            <td class="dataTD">5</td>
+                            <td class="dataTD">0</td>
+                            
+                            
+                            <td class="dataTD">2,064</td>
+                            <td class="dataTD">1900</td>
+                            <td class="dataTD">0.12&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Partial</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30300900060150000000" name="Sbl44">
+                                <input type="checkbox" value="1" name="box44" id="box44"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">303.9-6-15</td>
+                            <td class="dataTD">00203&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Gall, Michael F</td>
+                            
+                            <td class="dataTD">281&nbsp; 
+                                               Ridge St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $266,300<br>2021 - $134,400&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Colonial</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">1</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">1</td>
+                            
+                            
+                            <td class="dataTD">1,992</td>
+                            <td class="dataTD">1920</td>
+                            <td class="dataTD">0.38&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30300900060170000000" name="Sbl45">
+                                <input type="checkbox" value="1" name="box45" id="box45"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">303.9-6-17</td>
+                            <td class="dataTD">00203&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Scheideler, Thomas J</td>
+                            
+                            <td class="dataTD">273&nbsp; 
+                                               Ridge St</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $262,500<br>2021 - $145,400&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Colonial</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">1</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">1</td>
+                            
+                            
+                            <td class="dataTD">2,152</td>
+                            <td class="dataTD">1950</td>
+                            <td class="dataTD">0.16&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30300900060180000000" name="Sbl46">
+                                <input type="checkbox" value="1" name="box46" id="box46"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">303.9-6-18</td>
+                            <td class="dataTD">00203&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Perkins, Helen</td>
+                            
+                            <td class="dataTD">6&nbsp; 
+                                               Jackson Ave</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $204,300<br>2021 - $96,700&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Old style</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">1</td>
+                            
+                            
+                            <td class="dataTD">1,719</td>
+                            <td class="dataTD">1932</td>
+                            <td class="dataTD">0.40&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Partial</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30300900070030000000" name="Sbl47">
+                                <input type="checkbox" value="1" name="box47" id="box47"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">303.9-7-3</td>
+                            <td class="dataTD">00206&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Coyle, William J</td>
+                            
+                            <td class="dataTD">8&nbsp; 
+                                               Windy Hill Rd</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $264,200<br>2021 - $183,400&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Cape cod</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">1</td>
+                            
+                            
+                            <td class="dataTD">1,936</td>
+                            <td class="dataTD">1965</td>
+                            <td class="dataTD">0.86&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30300900070050000000" name="Sbl48">
+                                <input type="checkbox" value="1" name="box48" id="box48"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">303.9-7-5</td>
+                            <td class="dataTD">00206&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">Palmer, Dana L</td>
+                            
+                            <td class="dataTD">12&nbsp; 
+                                               Windy Hill Rd</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $262,300<br>2021 - $182,500&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Split level</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">1</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">1</td>
+                            
+                            
+                            <td class="dataTD">2,090</td>
+                            <td class="dataTD">1967</td>
+                            <td class="dataTD">0.41&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Partial</td>
+                            </tr>
+                        
+                            <tr>
+                            <td class="dataTD" align="center">
+                                <input type="hidden" value="30300900070060000000" name="Sbl49">
+                                <input type="checkbox" value="1" name="box49" id="box49"> 
+
+                            </td>
+                            
+                            <td class="dataTD">City of Glens Falls</td>
+                            <td class="dataTD">303.9-7-6</td>
+                            <td class="dataTD">00206&nbsp;</td>
+                            
+                            
+                            <td class="dataTD">McCoy, Donald C</td>
+                            
+                            <td class="dataTD">14&nbsp; 
+                                               Windy Hill Rd</td>
+                                               
+                            
+                            
+                            <td class="dataTD">2022 - $307,500<br>2021 - $181,500&nbsp;</td>
+                            <td class="dataTD">210</td>
+                            
+                            
+                            <td class="dataTD">Ranch</td>
+                            <td class="dataTD">2</td>
+                            <td class="dataTD">0</td>
+                            <td class="dataTD">4</td>
+                            <td class="dataTD">1</td>
+                            
+                            
+                            <td class="dataTD">1,932</td>
+                            <td class="dataTD">1964</td>
+                            <td class="dataTD">0.41&nbsp;acres</td>
+                            <td class="dataTD">Glens Falls</td>
+                            <td class="dataTD">Full</td>
+                            </tr>
+                        
+                </tbody></table>
+
+			    <!-- remove later <table id="tblResults" style="width:100%;">
+
+</table>-->
+				<hr width="100%" size="1">
+			</div>
+			<div id="bottomBtns" align="center">
+			    <table width="100%" border="0">
+			        <tbody><tr>
+			        <td width="15%">
+                        <span id="lblCurrentPageBtm">Page: 4 of 9</span>
+                    </td>     
+                    <td align="left">  
+                        <input type="submit" name="cmdPrevBtm" value=" &lt;&lt; " id="cmdPrevBtm">
+                        <input type="submit" name="cmdNextBtm" value=" &gt;&gt; " id="cmdNextBtm">
+                    </td>
+                    <td>
+				        <input onclick="changeAllChecks(true);" type="button" value="Select All"> 
+				        <input onclick="changeAllChecks(false);" type="button" value="Clear All">
+				        <input type="submit" name="btnShowProps" value="Show Selected Properties" onclick="return MakeSureAtLeastOneIsChecked();" language="javascript" id="btnShowProps">
+				        
+				    </td>
+				    </tr>
+				</tbody></table>
+				<script language="javascript">setupGisButton();</script>
+				<hr width="100%" size="1">
+			</div>
+			
+		</form>
+	
+	<script type="text/javascript" src="./page_4_files/jquery-1.2.6.min.js"></script>
+    <script type="text/javascript">
+        function changeAllChecks(checked)
+		{
+		    var incrementValue = 0;
+		    
+		    $('input[type=checkbox]').each(function() {
+		        if (this.checked != checked) {
+		            incrementValue++;
+		            this.checked = checked;
+		            
+		            highlightRow(this);
+		        }
+		    });
+		    
+			if (checked) {
+			    incrementCount(incrementValue);
+			} else {
+			    incrementCount(incrementValue * -1);
+			}
+		}
+        
+        function getSelectedCheckbox(event)
+        {
+            var cbSelected = null;
+            if (event) {
+                cbSelected = event.target;
+            } else {
+                event = window.event;
+                cbSelected = event.srcElement;
+            }
+            return cbSelected;
+        }
+        
+        function incrementCount(incrementValue)
+        {
+            var lblSelections = document.getElementById("lblSelections");
+            if (lblSelections) {
+                var strMsg = lblSelections.innerHTML;
+                var intFirstSpace = strMsg.indexOf(" ");
+                var intCount = Number(strMsg.substr(0, intFirstSpace));
+                intCount += incrementValue;
+                
+                lblSelections.innerHTML = intCount +
+                    strMsg.substr(intFirstSpace, strMsg.length - intFirstSpace);
+            }
+        }
+        
+        function updateSelectedCount(cbSelected)
+        {
+            var incrementValue = (cbSelected.checked ? 1 : -1);
+            incrementCount(incrementValue);
+        }
+        
+        function highlightRow(cbSelected)
+        {
+            var row = cbSelected.parentNode.parentNode;
+            $('td', row).toggleClass('highlighted');
+        }
+        
+        // Set up the click event for the checkboxes
+        $('input[type=checkbox]').click(function(e) {
+            var cbSelected = getSelectedCheckbox(e);
+            updateSelectedCount(cbSelected);
+            highlightRow(cbSelected);
+        });
+        
+        // Highlight all of the currently selected rows
+        $('input[type=checkbox][checked]').each(function() {
+            highlightRow(this);
+        });
+    </script>
+
+</body></html>

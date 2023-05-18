@@ -1,0 +1,53 @@
+﻿td.subjTD
+{
+   background-color: #FFFFE4;
+   border-right: solid 1px black;
+   border-bottom: solid 1px black;
+   padding: 3px;
+}
+
+td.headerTD
+{
+   font-weight: bold;
+}
+
+input.compTxBx
+{
+    Width: 185px;
+}
+
+input.compBtn
+{
+    Width: 100%;
+}
+
+input.compBtn2
+{
+    Width: 336px;
+    height: 34px;
+}
+
+select.compLstBx
+{
+    Width: 185px;
+}
+
+table.tblCriteria
+{
+   border: 1px solid black;
+   width: 80%;
+   margin: 0 auto;
+   font-size: 0.83em;
+}
+
+td.criteriaHeader
+{
+   background-color: #E0E8FF;
+   font-weight: bold;
+}
+
+td.compColHead
+{
+   font-weight: bold;
+   padding: 0.5em 0;
+}

@@ -1,0 +1,8 @@
+div.dontShow {
+	display: none;
+}
+
+div.doShow
+{
+	display:block;
+}
